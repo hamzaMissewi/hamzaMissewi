@@ -18,11 +18,13 @@ with more than 3 years of experience</h3>
 <p align="left">
 <a href="" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kdmindulamc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hamza-missewi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindula-madhuhansa" height="30" width="40" /></a>
-<a href="" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindula._" height="30" width="40" /></a>
+
+[//]: # (<a href="" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindula._" height="30" width="40" /></a>)
 <a href="https://wa.me/+21656062266?text=this is my phone number only 
 available for job services" target="blank"><img align="center" 
-src="https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.
-4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e" 
+src="https://raw.githubusercontent.
+com/rahuldkjain/github-profile-readme-generator/master/src/images/icons
+/Social/whatsapp.svg" 
 alt="whatsapp" height="30" width="40" /></a>
 <a href="" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_podda_" height="30" width="40" /></a>
 </p>
