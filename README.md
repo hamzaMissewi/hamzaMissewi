@@ -1,14 +1,41 @@
-Here's an optimized and polished version of your GitHub README that highlights your skills, experience, and personality while maintaining a clean, professional look:
+![MasterHead](https://art.pixilart.com/cb97514d85c12ba.gif)
+<!-- Here's an optimized and polished version of your GitHub README that highlights your skills, experience, and personality while maintaining a clean, professional look: -->
 
-```markdown
-# <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="50px"> Hi, I'm Hamza Missaoui 
-### Senior Full Stack Developer | Cloud & Performance Specialist
 
-```diff
+
+<!-- ```markdown -->
+# <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="50px" /> 
+<h1 align="center">Hi👋, I'm Hamza Missaoui</h1>
+<h3>28 years old</h3>
+<p>+ 3+ years experience at B2B Alive Ltd</p>
+<p align="center">Performance-driven software engineer and Senior fullstack web developer | Cloud & Performance with more than 3 years of experience</p>
+
+<!-- ### Senior Full Stack Developer | Cloud & Performance Specialist -->
+<!-- ```diff
 + 3+ years experience at B2B Alive Ltd | 28 y/o | Performance-driven engineer
-```
+``` -->
 
-## 🚀 Technical Arsenal
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hamzaMissewi&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaMissewi" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaMissewi" alt="hamzaMissewi" /></a> </p>
+
+<!-- - 🌱 I’m currently learning **NextJs Trpc** -->
+
+- 📫 Here How to reach me:
+- Personal Emails: **hamza.missaoui28@gmail.com** | **hamza.missaoui47@gmail.com** | **hamza.missaoui@hamza-28.com**
+- Company Email: **hamza.missaoui@b2b-alive.com** 
+- Phone: +216 56062266  
+- Linkedin: **https://www.linkedin.com/in/hamza-missewi**
+
+
+<!-- ## 🚀 Technical Arsenal -->
+## 🚀 Technical Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redis,elasticsearch,prisma,firebase,supabase,postman,github" height="90" alt="Tech Stacks" />
+</div>
+
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)

@@ -4,11 +4,12 @@
 <h3 align="center">A Senior fullstack web developer and software engineer 
 with more than 3 years of experience</h3>
 
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindula-madhuhansa&label=Profile%20views&color=0e75b6&style=flat" alt="mindula-madhuhansa" /> </p>)
+<!-- mindula-madhuhansa -->
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaMissewi&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaMissewi" /> </p>)
 
-[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindula-madhuhansa" alt="mindula-madhuhansa" /></a> </p>)
+[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaMissewi" alt="hamzaMissewi" /></a> </p>)
 
-- 🔭 I’m currently working on **EasyPark**
+- 🔭 I’m currently working on **B2b Alive Ltd**
 
 - 🌱 I’m currently learning **NextJs Trpc**
 
