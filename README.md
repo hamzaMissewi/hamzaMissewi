@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="100%" alt="MasterHead" />
-</div>
-
 ###
-
 <p align="center">
 <a href="https://linkedin.com/in/hamza-missewi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-missaoui" height="30" width="40" /></a>
+<a href="https://hamza-portfolio-pro-2025.vercel.app" target="blank"><img align="center" src="https://i.pinimg.com/736x/24/d0/53/24d05378a4e049358f1c237976dbbb43.jpg" alt="hamza-missaoui" height="30" width="40" /></a>
+<!-- <a href="https://hamza-portfolio-pro-2025.vercel.app" target="blank"><img align="center" src="https://img.freepik.com/free-psd/earth-ball-planet-isolated_23-2151806117.jpg?semt=ais_hybrid&w=740" alt="hamza-missaoui" height="30" width="40" /></a> -->
 
 <!-- <a href="https://www.youtube.com/c/tensorcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tensorcode" height="30" width="40" /></a> -->
 </p>
@@ -17,6 +14,9 @@
 <h1 align="center">Hi 👋, I'm Hamza Missaoui</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer</h3>
 
+<div align="center">
+  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="100%" alt="MasterHead" />
+</div>
 
 ###
 
@@ -44,12 +44,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
 ###
-
-
-<!-- youssef-of-web -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
