@@ -10,8 +10,10 @@
 <!-- <h1 align="center">Hey 👋 What's up?</h1> -->
 
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm Hamza</h3>
-<h4>Experienced Software Engineer & Full Stack Web Developer with a lot of technologies</h4>
+<h2 align="center" color="blue">I'm Hamza</h2> 
+<h4 align="center">Tunisian Full-Stack Software Engineer | Passionate about crafting scalable web apps with TypeScript, Python, and modern frameworks</h4>
+
+####
 
 <div align="center">
 <a href="https://linkedin.com/in/hamza-missewi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-missaoui" height="30" width="40" /></a>
@@ -19,7 +21,7 @@
 <a href="https://hamza-movies-app.vercel.app/?page=1&type=movies&movieType=popular_movies" target="blank"><img align="center" src="https://img.freepik.com/free-psd/earth-ball-planet-isolated_23-2151806117.jpg?semt=ais_hybrid&w=740" alt="hamza-missaoui" height="30" width="40" /></a>
 </div>
 
-##
+####
 
 <div align="center">
   <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="100%" alt="MasterHead" />
@@ -32,14 +34,24 @@
 ###
 
 <!-- <p align="left">I'm Hamza from Tunisia <br><br>- 🔭 I’m working as Web developer & System administrator <br>- 📚 Ask me about Javascript frameworks & DevOps <br>- ⚡ In my free time I Learn new tools & technologies</p> -->
-<p align="left">
-<!-- I'm Hamza from Tunisia <br><br> -->
-- 🚀 Performance-driven software engineer with expertise in building scalable web applications and optimizing system performance. Previously developer at B2B Alive Ltd a leader company in Digital signage.
-<br>- 🔭 I’m working as Fullstack Web developer & Cloud Ops Engineer<br>- 📚 Proficient in Javascript/Typescript frameworks and Python/Django & DevOps technologies<br>- ⚡ In my free time I Learn new tools & technologies</p>
+<!-- <p align="left"> -->
+
+🚀 Performance-driven software engineer with expertise in building scalable web applications and optimizing system performance into learning different new technologies and tools and stay uptodate especially working with AI LLMs Apis in my projects
+
+📚 Proficient in Javascript, Typescript (React, NextJs) and Python (Flask, Django) & DevOps technologies, Building robust APIs and intuitive UIs to power the next generation of digital experiences
+
+⚡ In my free time I Learn new tools & technologies, From front-end animations to back-end pipelines, I turn ideas into production-ready solutions
+
+💡 Tech Generalist & Problem Solver | Leveraging JavaScript, TypeScript, and Python to deliver end-to-end web applications and automation scripts
+
+🔧 Passionate about clean code, continuous learning, and open-source collaboration | Let’s connect & build something awesome
+
+<!-- <br>- 🔭 I’m working as Fullstack Web developer & Cloud Ops Engineer<br>- 📚 Proficient in Javascript, Typescript (React, NextJs) and Python (Flask, Django) & DevOps technologies<br>- ⚡ In my free time I Learn new tools & technologies</p> -->
+<!-- 🌐  -->
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tools and technologies</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,fastapi,django,java,spring,mongodb,mysql,tailwind,redis,elasticsearch,prisma,firebase,supabase,postman,github,nginx,docker,html,css,jenkins,linux,postgresql,aws,gcp,azure,nodejs" height="150" alt="My Tech Stacks" />
 </div>
@@ -56,5 +68,3 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaMissewi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 <!-- </div> -->
-
-###
