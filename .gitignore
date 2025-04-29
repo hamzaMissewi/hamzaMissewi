@@ -1,2 +1,5 @@
 ignore
 **ignore**
+.gitignore
+.idea
+**/*.png
