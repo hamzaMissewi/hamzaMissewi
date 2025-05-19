@@ -37,16 +37,9 @@ target="_blank">
 
 ###
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&width=1000&center=true&vCenter=true&width=600&lines=Welcome to my gitHub profile;I have what it takes to make your ideas into reactive websites;I've the skills to create awesome websites+%F0%9F%8E%A8)](https://git.io/typing-svg) -->
-
 <div align="center" style="max-width:800px;margin:0 auto">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+gitHub+profile;I+am+experienced+fullstack+web+and+devops+developer;I+have+what+you+need+to+make+your+ideas+into+reality;I+have+experience+in+modern+languages+and+devops+tools;I+am+passionate+about+creating+awesome+websites+%F0%9F%8E%A8" alt="Hamza typewriter" />
 </div>
-
-<!--
-<div align="center">
-  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="100%" alt="MasterHead" />
-</div> -->
 
 ###
 
@@ -54,25 +47,24 @@ target="_blank">
 
 <p align="left">
 
--   Experienced Software engineer and performance-driven web developer with expertise in building scalable web applications and optimizing solutions performance and security by leveling my skills and learning different new technologies and tools and stay uptodate especially working with AI LLMs Apis in my projects
+-   **Full-Stack Software Engineer** with 3+ years of experience specializing in building scalable web applications and digital signage solutions. Passionate about creating efficient, secure, and user-friendly applications that solve real-world problems.
 
--   I transform lines of code into impactful projects, with a constant attention to detail and organization. With more than 3 years of experience in the development of digital signage applications, I design and maintain robust and scalable solutions for indoor and outdoor LED screens.
+-   **Digital Signage Expert**: Led the development of comprehensive digital signage platforms for indoor and outdoor LED screens, managing everything from content administration to real-time broadcasting systems.
 
--   Proficient in Js, Ts, React, NextJs and Python (Flask, Django) and DevOps/cloud Computing technologies (AWS,Azure,GCP), Building robust APIs and intuitive UIs to power the next generation of digital experiences
+-   **Tech Stack Mastery**: Deep expertise in modern JavaScript/TypeScript ecosystem (React, Next.js, Node.js) and Python frameworks (Django, FastAPI), complemented by strong DevOps skills in AWS, Azure, and GCP.
 
--   In my free time I Learn new tools & technologies, From front-end animations to back-end pipelines, I turn ideas into production-ready solutions
+-   **AI & Innovation Enthusiast**: Actively integrating AI and LLM technologies into projects, staying at the forefront of emerging tech trends to deliver cutting-edge solutions.
 
--   Tech Generalist & Problem Solver | Leveraging JavaScript, TypeScript, and Python to deliver end-to-end web applications and automation scripts
+-   **Problem Solver & Architect**: Known for designing robust system architectures and implementing efficient solutions that scale. Focus on clean code, performance optimization, and security best practices.
 
--   Passionate about developing clean code, continuous leveling-up, and building awesome websites and advanced solutions
 </p>
 
-### ⚡Projets phares
+### ⚡ Featured Projects
 
--   **Digital Signage Platform**: Administration, Players, Broadcasters, Broadcasts, Scènes & Playlists.
--   **Node.js & GraphQL API**: Authentification, Pub/Sub en temps réel avec WebSocket & Redis.
--   **React & Next.js Frontend**: User & Admin Interfaces, Dashboards and managing organizations.
--   **Graphql API & Apollo Client/Server**: Connecting interfaces with graphql api.
+-   **Digital Signage Platform**: Enterprise-grade solution featuring real-time content management, multi-screen synchronization, and advanced playlist management for LED displays.
+-   **Real-time Communication System**: Built with Node.js, GraphQL, and WebSocket, implementing pub/sub patterns with Redis for scalable real-time features.
+-   **Modern Web Applications**: Developed responsive and performant UIs using React & Next.js, with comprehensive admin dashboards and user management systems.
+-   **API Development**: Created robust GraphQL APIs with Apollo Client/Server, implementing efficient data fetching and real-time updates.
 
 ###
 
@@ -167,7 +159,7 @@ target="_blank">
         </a>
 </p>
 
-<div style="display:flex;flex-wrap:wrap">
+<div>
 
 <!-- ![hamzaMissewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=prussian&hide_border=false) -->
 
@@ -181,15 +173,7 @@ target="_blank">
 
 <!-- ### 🫂 Links -->
 
-## 🌐 My Socials & Links
-
-<!-- <div align="left">
-
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-green?logo=vercel&logoColor=white)](https://www.hamza-portfolio-pro-2025.vercel.app)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-missewi)
-[![Hackerrank](https://custom-icon-badges.demolab.com/badge/Hackerrank-Follow-magenta?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hamza_missaoui47)
-
-</div> -->
+## 🌐 Emails & Links
 
 <div align="left" style="max-width:800px;margin:0 auto">
 <span style="display:block;margin-bottom:10px">✉️ hamza.missaoui28@gmail.com | hamza.missaoui47@gmail.com</span>
