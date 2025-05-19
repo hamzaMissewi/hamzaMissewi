@@ -9,7 +9,7 @@ target="_blank">
   <a href="https://hamza-portfolio-pro-2025.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FE7A16?style=for-the-badge&logo=portfolio&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://peerlist.io/hamza-Missewi" target="_blank">
+  <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="_blank">
     <img src="https://img.shields.io/badge/Hacker_Rank-00A67D?style=for-the-badge&logo=hacker-rank&logoColor=white" alt="Peerlist" />
   </a>
 </div>
@@ -32,9 +32,9 @@ target="_blank">
 
 <h3 align="left">About Me</h3>
 <p>
-🚀 Performance-driven software engineer with expertise in building scalable web applications and optimizing system performance into learning different new technologies and tools and stay uptodate especially working with AI LLMs Apis in my projects
+🚀 Experienced Softare engineer and performance-driven web developer with expertise in building scalable web applications and optimizing system performance and security by leveling my skills and learning different new technologies and tools and stay uptodate especially working with AI LLMs Apis in my projects
 
-📚 Proficient in Javascript, Typescript (React, NextJs) and Python (Flask, Django) & DevOps technologies, Building robust APIs and intuitive UIs to power the next generation of digital experiences
+📚 Proficient in Js, Ts, React, NextJs and Python (Flask, Django) and DevOps and cloud Computing technologies (AWS,Azure,GCP), Building robust APIs and intuitive UIs to power the next generation of digital experiences
 
 ⚡ In my free time I Learn new tools & technologies, From front-end animations to back-end pipelines, I turn ideas into production-ready solutions
 
@@ -47,7 +47,7 @@ target="_blank">
 ###
 
 <h3 align="left">🛠 Languages and Skills:</h3>
-<div align="left" style="margin-bottom:20px">
+<div align="left" style="margin-bottom:20px;display:flex;flex-wrap:wrap">
   <!-- <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,react,nextjs,
   nodejs,express,mongodb,mysql,tailwind,docker,redis,bullmq,prisma,firebase,supabase,
   fastapi,elasticsearch,postman,github,nginx,graphql,django,fastapi,postgresql,aws,
@@ -55,9 +55,9 @@ target="_blank">
 
 <a href="https://www.w3.org/html/" target="_blank" style="decoration:none"> 
 <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" style="margin-right:8px"/>
- </a>
- <a href="https://mui.com/" target="_blank" style="decoration:none">
- <img src="https://skillicons.dev/icons?i=mui" alt="Mui" width="40" height="40" style="margin-right:8px"/>
+</a>
+<a href="https://mui.com/" target="_blank" style="decoration:none">
+<img src="https://skillicons.dev/icons?i=mui" alt="Mui" width="40" height="40" style="margin-right:8px"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" style="decoration:none"> 
 <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" style="margin-right:8px"/>
