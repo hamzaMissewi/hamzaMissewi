@@ -9,13 +9,12 @@
 
 <!-- <p align="center">k**Full-Stack Web Developer** | **Design Engineer** | **Creative Entrepreneur**</p> -->
 
-<h3 align="center" style="text-align:center;width:400">Full-Stack Web developer & Software Engineer, passionate about crafting scalable modern web apps with innovative technologies</h3>
-
-<div align="center">
+<h3 align="center" style="text-align:center;max-width:800px;margin:0 auto">Full-Stack Web developer & Software Engineer, passionate about crafting scalable modern web apps with innovative technologies</h3>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&width=1000&center=true&vCenter=true&width=600&lines=Welcome to my gitHub profile;I have what it takes to make your ideas into reactive websites;I've the skills to create awesome websites+%F0%9F%8E%A8)](https://git.io/typing-svg) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome to my gitHub profile;I am experienced fullstack web and devops developer;I have what you need to make your ideas into reality;I have experience in modern languages and devops tools;I am passionate about creating awesome websites+%F0%9F%8E%A8" alt="Hamza typewriter" />
+<div align="center" style="max-width:800px;margin:0 auto">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+gitHub+profile;I+am+experienced+fullstack+web+and+devops+developer;I+have+what+you+need+to+make+your+ideas+into+reality;I+have+experience+in+modern+languages+and+devops+tools;I+am+passionate+about+creating+awesome+websites+%F0%9F%8E%A8" alt="Hamza typewriter" />
 </div>
 
 <!--
@@ -28,6 +27,7 @@
 <h3 align="left">🚀 About Me</h3>
 
 <p align="left">
+
 -   Experienced Software engineer and performance-driven web developer with expertise in building scalable web applications and optimizing system performance and security by leveling my skills and learning different new technologies and tools and stay uptodate especially working with AI LLMs Apis in my projects
 
 -   I transform lines of code into impactful projects, with a constant attention to detail and organization. With more than 3 years of experience in the development of digital signage applications, I design and maintain robust and scalable solutions for indoor and outdoor LED screens.
@@ -52,63 +52,81 @@
 
 <!-- <h3 align="left">🛠 Languages & Skills:</h3> -->
 <h3 align="left">💡 Languages & Skills:</h3>
-<div align="left" style="margin-bottom:10px">
-  <!-- <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,react,nextjs,
-  nodejs,express,mongodb,mysql,tailwind,docker,redis,bullmq,prisma,firebase,supabase,
-  fastapi,elasticsearch,postman,github,nginx,graphql,django,fastapi,postgresql,aws,
-  gcp,azure" height="140" alt="My Skills" /> -->
-<!-- <code><img height="30" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,prisma,supabase,postgres,nodejs,html,css,js,git,github,linux,bash,py,java,c,md,figma"/></code> -->
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/></a> -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/></a>
-<a><img align="left" alt="TypeScript" width="40" height="40" style="margin-right:8px;margin-bottom:5px" src="https://skillicons.dev/icons?i=ts" /></a>
+<div align="left" style="display:flex;flex-wrap:wrap;gap:10px;max-width:800px;margin-bottom:20px">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
+<a><img alt="TypeScript" width="40" height="40" src="https://skillicons.dev/icons?i=ts" /></a>
 <a href="https://reactjs.org/" target="_blank">
-<img align="left" alt="React" width="40" height="40" style="margin-right:8px;margin-bottom:5px" src="https://skillicons.dev/icons?i=react" />
+<img alt="React" width="40" height="40" src="https://skillicons.dev/icons?i=react" />
 </a>
-<a href="https://nodejs.org" target="_blank" style="decoration:none"> 
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" style="margin-right:8px"/>
- </a>
+<a href="https://nodejs.org" target="_blank" style="decoration:none">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+</a>
 <a href="https://expressjs.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" style="margin-right:8px"/>
+<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
 </a>
 <!-- <a href="https://expressjs.com" target="_blank"> -->
-<!-- <img src="https://raw.githubusercontent.com/koajs/koa/HEAD/docs/logo.png" alt="express" width="40" height="35" style="margin-right:8px"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/koajs/koajs.svg" alt="express" width="40" height="35" style="margin-right:8px"/> -->
+<!-- <img src="https://raw.githubusercontent.com/koajs/koa/HEAD/docs/logo.png" alt="express" width="40" height="35" style="margin-right:8px;margin-bottom:5px"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/koajs/koajs.svg" alt="express" width="40" height="35" style="margin-right:8px;margin-bottom:5px"/> -->
 <!-- </a> -->
 <a href="https://www.w3.org/html/" target="_blank" style="decoration:none"> 
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" style="margin-right:8px"/>
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
 </a>
 <a href="https://mui.com/" target="_blank" style="decoration:none">
-<img src="https://skillicons.dev/icons?i=mui" alt="Mui" width="40" height="40" style="margin-right:8px"/>
+<img src="https://skillicons.dev/icons?i=mui" alt="Mui" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" style="decoration:none"> 
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" style="margin-right:8px"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
 </a>
- <a href="https://graphql.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=graphql" alt="css3" width="40" height="40" style="margin-right:8px"/>
+<a href="https://graphql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
 </a>
- <a href="https://www.apollographql.com/" target="_blank" style="decoration:none">
-<img src="https://skillicons.dev/icons?i=apollo" alt="css3" width="40" height="40" style="margin-right:8px"/>
+<a href="https://www.apollographql.com/" target="_blank" style="decoration:none">
+<img src="https://skillicons.dev/icons?i=apollo" alt="apollo" width="40" height="40"/>
 </a>
-<a href="https://nextjs.org/" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
+<a href="https://nextjs.org/" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
+</a>
 <!-- <a href="https://www.gatsbyjs.com/" target="_blank" style="decoration:none"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/></a> -->
 <!-- <a href="https://nuxtjs.org/" target="_blank" style="decoration:none"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a> -->
 <a href="https://jestjs.io" target="_blank">
-<img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/>
+<img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" style="decoration:none"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+</a>
 <a href="https://www.postgresql.org" target="_blank" style="decoration:none"> 
-<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> 
+<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
 </a>
-<a href="https://www.python.org" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://aws.amazon.com" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://cloud.google.com" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://azure.microsoft.com" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://fastapi.tiangolo.com" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://www.djangoproject.com" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://www.jenkins.io" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://www.prisma.io" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
-<a href="https://www.figma.com" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a>
+<a href="https://www.python.org" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
+</a>
+<a href="https://fastapi.tiangolo.com" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/>
+</a>
+<a href="https://www.prisma.io" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com" target="_blank" style="decoration:none"> 
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+</a>
 <!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40" style="margin-right:8px;margin-bottom:5px"/> </a> -->
 </div>
 
@@ -164,29 +182,29 @@ target="_blank">
 
 ---
 
-<div align="left">
-<span align="left" size="18px">✉️ hamza.missaoui28@gmail.com</span>
-<br />
-<span align="left" size="18px">✉️ hamza.missaoui47@gmail.com</span>
-<br />
-<span align="left" size="18px">✉️ hamza.missaoui@b2b-alive.com</span>
+<div align="left" style="max-width:800px;margin:0 auto">
+<span style="display:block;margin-bottom:10px">✉️ hamza.missaoui28@gmail.com</span>
+<span style="display:block;margin-bottom:10px">✉️ hamza.missaoui47@gmail.com</span>
+<span style="display:block;margin-bottom:20px">✉️ hamza.missaoui@b2b-alive.com</span>
 
----
-
+<div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center">
 <a target="_blank" href="https://linkedin.com/in/hamza-missewi">
-   <img align="left" alt="LinkedIn" height="32px" width="35px" style="margin-right:10px;" src="https://skillicons.dev/icons?i=linkedin" />
+   <img alt="LinkedIn" height="32px" width="35px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://www2.b2b-alive.com" target="blank">
-<img align="left" height="35px" width="35px" style="margin-right:10px;" alt="B2b_Alive" src="https://www2.b2b-alive.com/wp-content/uploads/2020/05/b2b-alive-logo-w.png"/></a>
-
-<a target="_blank" href="https://hamza-portfolio-pro-2025.vercel.app">
-   <img align="left" alt="Portfolio" height="35px" width="35px" style="margin-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
+<img height="35px" width="35px" alt="B2b_Alive" src="https://www2.b2b-alive.com/wp-content/uploads/2020/05/b2b-alive-logo-w.png"/>
 </a>
-<a href="https://hamza-movies-app.vercel.app" target="blank"><img align="left" height="35px" width="35px" style="margin-right:10px;" alt="Movies_website" src="https://i.pinimg.com/736x/24/d0/53/24d05378a4e049358f1c237976dbbb43.jpg" /></a>
-<a href="https://hamza-slack-clone.vercel.app" target="blank"><img align="left" height="35px" width="35px" style="margin-right:10px;" alt="Slack_clone_hamz_app" src="https://img.freepik.com/free-psd/earth-ball-planet-isolated_23-2151806117.jpg?semt=ais_hybrid&w=740"  /></a>
-
+<a target="_blank" href="https://hamza-portfolio-pro-2025.vercel.app">
+   <img alt="Portfolio" height="35px" width="35px" src="https://skillicons.dev/icons?i=vercel" />
+</a>
+<a href="https://hamza-movies-app.vercel.app" target="blank">
+<img height="35px" width="35px" alt="Movies_website" src="https://i.pinimg.com/736x/24/d0/53/24d05378a4e049358f1c237976dbbb43.jpg" />
+</a>
+<a href="https://hamza-slack-clone.vercel.app" target="blank">
+<img height="35px" width="35px" alt="Slack_clone_hamz_app" src="https://img.freepik.com/free-psd/earth-ball-planet-isolated_23-2151806117.jpg?semt=ais_hybrid&w=740" />
+</a>
 <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="blank">
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="margin-right:10px;" alt="hacker_hamza" height="35px" width="35px" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker_hamza" height="35px" width="35px" />
 </a>
 </div>
 
