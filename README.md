@@ -1,16 +1,12 @@
-<!-- Affiche le rendu sous forme d’image, non copiable -->
-
-<!-- ![https://github.com/hamzaMissewi](assets/hamza-missaoui.png) -->
-
 ###
 
+<!-- <a href="https://linkedin.com/in/hamza-missewi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-missaoui" height="30" width="40" /></a> -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/hamza-Missewi-877889261/" 
+  <a href="https://linkedin.com/in/hamza-missewi" 
 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://hamza-portfolio-pro-2025.vercel.app" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /> -->
     <img src="https://img.shields.io/badge/Portfolio-FE7A16?style=for-the-badge&logo=portfolio&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://peerlist.io/hamza-Missewi" target="_blank">
@@ -18,19 +14,24 @@ target="_blank">
   </a>
 </div>
 
+<!-- --- -->
+
 <h1 align="center">Hey there 👋, I'm Hamza</h1>
 <h3 align="center">Tunisian Full-Stack Software Engineer | Passionate about crafting scalable modern web apps with innovative technologies</h3>
 
-####
-
 <div align="center">
-  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="100%" alt="MasterHead" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together?;Code+is+poetry+%F0%9F%8E%A8" alt="Hamza typewriter" />
 </div>
 
-####
+<!--
+<div align="center">
+  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="100%" alt="MasterHead" />
+</div> -->
 
-<h3 align="left">👩‍💻 About Me</h3>
+---
 
+<h3 align="left">About Me</h3>
+<!-- 👩‍💻  -->
 🚀 Performance-driven software engineer with expertise in building scalable web applications and optimizing system performance into learning different new technologies and tools and stay uptodate especially working with AI LLMs Apis in my projects
 
 📚 Proficient in Javascript, Typescript (React, NextJs) and Python (Flask, Django) & DevOps technologies, Building robust APIs and intuitive UIs to power the next generation of digital experiences
@@ -39,65 +40,54 @@ target="_blank">
 
 💡 Tech Generalist & Problem Solver | Leveraging JavaScript, TypeScript, and Python to deliver end-to-end web applications and automation scripts
 
-🔧 Passionate about clean code, continuous learning, and open-source collaboration | Let’s connect & build something awesome
+🔧 Passionate about developing clean code, continuous leveling-up, and building awesome websites and advanced solutions
 
 ###
 
 <h3 align="left">🛠 Languages and Tools:</h3>
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,fastapi,django,java,spring,mongodb,mysql,tailwind,redis,elasticsearch,prisma,firebase,supabase,postman,github,nginx,docker,html,css,jenkins,linux,postgresql,aws,gcp,azure,nodejs" height="150" alt="My Tech Stacks" />
-</div> -->
-<p align="left">
-    
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,redis,bullmq,prisma,firebase,supabase,fastapi,elasticsearch,postman,github" height="90" alt="Tech Stack 1" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,redis,bullmq,prisma,firebase,supabase,fastapi,elasticsearch,postman,github,nginx,graphql,django,fastapi,postgresql,aws,gcp,azure" height="140" alt="My Skills" />
+</div>
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
-<a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/></a>
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+###
 
-<!-- <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> -->
+<!-- ![hamzaMissewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=prussian&hide_border=false) -->
 
-<!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  -->
+<div align="left">
+ <h3 align="left">🧰 Github stats</h3>
+
+ <p align="left">
+      <a href="https://github.com/hamzaMissewi?tab=followers">
+         <!-- <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hamzaMissewi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
+      <a href="https://github.com/hamzaMissewi?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/></a>
+      <a href="https://github.com/hamzaMissewi">
+         <img alt="Profile Views" title="Github Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/></a>
 </p>
 
-![hamzaMissewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=prussian&hide_border=false)
-
-<!-- ![hamzaMissewi's Stats](https://github-readme-stats.vercel.app/api?username=hamzaMissewi&theme=prussian&show_icons=true&hide_border=false&count_private=true) -->
+![hamzaMissewi's Stats](https://github-readme-stats.vercel.app/api?username=hamzaMissewi&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
 ![hamzaMissewi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaMissewi&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
-<h3 align="left">How to get in touch ?</h3>
+</div>
 
-<p align="left" size="18px">✉️ hamza.missaoui28@gmail.com |  hamza.missaoui@b2b-alive.com</p>
-<!-- <p align="left" size="18px">📞 +216 123456789</p> -->
+<h3 align="left">Credentials & Social Links</h3>
+
+<span align="left" size="18px">✉️ hamza.missaoui28@gmail.com</span>
+<br />
+<br />
+<span align="left" size="18px">✉️ hamza.missaoui@b2b-alive.com</span>
 
 <div align="left">
   <a target="_blank" href="https://linkedin.com/in/hamza-missewi">
-   <img align="left" alt="LinkedIn" height="32px" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" />
+   <img align="left" alt="LinkedIn" height="32px" width="35px" style="margin-right:10px;" src="https://skillicons.dev/icons?i=linkedin" />
    </a>
-<a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="padding-right:10px;" alt="hacker_hamza" height="35px" width="35px" /></a>
+<a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="margin-right:10px;" alt="hacker_hamza" height="35px" width="35px" /></a>
 <a target="_blank" href="https://hamza-portfolio-pro-2025.vercel.app">
-   <img align="left" alt="Portfolio" height="35px" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
+   <img align="left" alt="Portfolio" height="35px" width="35px" style="margin-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
 </a>
-<a href="https://hamza-movies-app.vercel.app" target="blank"><img align="left" height="35px" width="35px" style="padding-right:10px;" alt="Movies_website" src="https://i.pinimg.com/736x/24/d0/53/24d05378a4e049358f1c237976dbbb43.jpg" /></a>
-<a href="https://hamza-slack-clone.vercel.app" target="blank"><img align="left" height="35px" width="35px" style="padding-right:10px;" alt="Slack_clone_hamz_app" src="https://i.pinimg.com/736x/24/d0/53/24d05378a4e049358f1c237976dbbb43.jpg" /></a>
-<a href="https://www2.b2b-alive.com" target="blank"><img align="left" height="35px" width="35px" style="padding-right:10px;" alt="B2b_Alive" src="https://i.pinimg.com/736x/24/d0/53/24d05378a4e049358f1c237976dbbb43.jpg" alt="" /></a>
-
-<!-- https://www.hackerrank.com/profile/hamza_missaoui47</a> -->
-<!-- <a href="https://linkedin.com/in/hamza-missewi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-missaoui" height="30" width="40" /></a> -->
-<!-- <img align="center" src="https://img.freepik.com/free-psd/earth-ball-planet-isolated_23-2151806117.jpg?semt=ais_hybrid&w=740" alt="hamza-missaoui" height="30" width="40" /> -->
+<a href="https://hamza-movies-app.vercel.app" target="blank"><img align="left" height="35px" width="35px" style="margin-right:10px;" alt="Movies_website" src="https://i.pinimg.com/736x/24/d0/53/24d05378a4e049358f1c237976dbbb43.jpg" /></a>
+<a href="https://hamza-slack-clone.vercel.app" target="blank"><img align="left" height="35px" width="35px" style="margin-right:10px;" alt="Slack_clone_hamz_app" src="https://img.freepik.com/free-psd/earth-ball-planet-isolated_23-2151806117.jpg?semt=ais_hybrid&w=740"  /></a>
+<a href="https://www2.b2b-alive.com" target="blank">
+<img align="left" height="35px" width="35px" style="margin-right:10px;" alt="B2b_Alive" src="https://www2.b2b-alive.com/wp-content/uploads/2020/05/b2b-alive-logo-w.png"/></a>
 </div>
