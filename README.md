@@ -157,16 +157,23 @@ target="_blank">
 
 <div>
 
-![hamzaMissewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=prussian&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzaMissewi&theme=dark)](https://git.io/streak-stats)
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=radical)](https://github.com/hamzaMissewi)
+
+![hamzaMissewi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaMissewi&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 </div>
-
 </div>
 
 ## 🌐 Emails & Links
 
+###
+
 <div align="left" style="max-width:800px;margin:0 auto">
 <span style="display:block;margin-bottom:10px">✉️ hamza.missaoui28@gmail.com | hamza.missaoui47@gmail.com | ✉️ hamza.missaoui@b2b-alive.com</span>
+
+###
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center">
 <a target="_blank" href="https://linkedin.com/in/hamza-missewi">
