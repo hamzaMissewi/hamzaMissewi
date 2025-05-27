@@ -1,14 +1,12 @@
-<!-- <div align="center">
-  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" width="100%" alt="MasterHead" />
-</div> -->
-
 ###
 
 <div align="center">
 
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-green?logo=vercel&logoColor=white)](https://www.hamza-portfolio-pro-2025.vercel.app)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-Hamza-green?logo=vercel&logoColor=white)](https://www.hamza-portfolio-pro-2025.vercel.app)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-missewi)
 [![Hackerrank](https://custom-icon-badges.demolab.com/badge/Hackerrank-Follow-magenta?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hamza_missaoui47)
+
+<!-- --- -->
 
 <!-- <a href="https://linkedin.com/in/hamza-missewi"
 target="_blank">
@@ -18,8 +16,8 @@ target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FE7A16?style=for-the-badge&logo=portfolio&logoColor=white" alt="Stack Overflow" />
 </a>
 <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="_blank">
-<img src="https://img.shields.io/badge/Hacker_Rank-00A67D?style=for-the-badge&logo=hacker-rank&logoColor=white" alt="Peerlist" /> -->
-</a>
+<img src="https://img.shields.io/badge/Hacker_Rank-00A67D?style=for-the-badge&logo=hacker-rank&logoColor=white" alt="Peerlist" />
+</a> -->
 
 </div>
 
@@ -68,7 +66,6 @@ target="_blank">
 
 ###
 
-<!-- <h3 align="left">🛠 Languages & Skills:</h3> -->
 <h3 align="left">💡 Languages & Skills:</h3>
 <div align="left" style="display:flex;flex-wrap:wrap;gap:10px;max-width:800px;margin-bottom:20px">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="decoration:none"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
@@ -82,7 +79,6 @@ target="_blank">
 <a href="https://expressjs.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
 </a>
-<!-- KOA JS -->
 <a href="https://koajs.com" target="_blank">
 <img src="https://miro.medium.com/v2/resize:fit:1140/1*_SEhpSaIh7-l1jV-yFgeDQ.jpeg" alt="express" width="40" height="40"/>
 </a>
@@ -161,48 +157,34 @@ target="_blank">
 
 <div>
 
-<!-- ![hamzaMissewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=prussian&hide_border=false) -->
-
-![hamzaMissewi's Stats](https://github-readme-stats.vercel.app/api?username=hamzaMissewi&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-
-![hamzaMissewi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaMissewi&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+![hamzaMissewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=prussian&hide_border=false)
 
 </div>
 
 </div>
-
-<!-- ### 🫂 Links -->
 
 ## 🌐 Emails & Links
 
 <div align="left" style="max-width:800px;margin:0 auto">
-<span style="display:block;margin-bottom:10px">✉️ hamza.missaoui28@gmail.com | hamza.missaoui47@gmail.com</span>
-<span style="display:block;margin-bottom:20px">✉️ hamza.missaoui@b2b-alive.com</span>
+<span style="display:block;margin-bottom:10px">✉️ hamza.missaoui28@gmail.com | hamza.missaoui47@gmail.com | ✉️ hamza.missaoui@b2b-alive.com</span>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center">
 <a target="_blank" href="https://linkedin.com/in/hamza-missewi">
    <img alt="LinkedIn" height="32px" width="35px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www2.b2b-alive.com" target="blank">
-<img height="35px" width="35px" alt="B2b_Alive" src="https://www2.b2b-alive.com/wp-content/uploads/2020/05/b2b-alive-logo-w.png"/>
-</a>
 <a target="_blank" href="https://portfolio-hamza-missaoui-2025.vercel.app">
    <img alt="Portfolio" height="35px" width="35px" src="https://portfolio-hamza-missaoui-2025.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhamza_logo.0eec286d.jpeg&w=640&q=75" />
-   <!-- <img alt="Portfolio" height="35px" width="35px" src="https://skillicons.dev/icons?i=vercel" /> -->
 </a>
 <a href="https://hamza-movies-app.vercel.app" target="blank">
 <img height="35px" width="35px" alt="Movies_website" src="https://images.ctfassets.net/y2ske730sjqp/5QQ9SVIdc1tmkqrtFnG9U1/de758bba0f65dcc1c6bc1f31f161003d/BrandAssets_Logos_02-NSymbol.jpg?w=940" />
 </a>
 <a href="https://hamza-slack-clone.vercel.app" target="blank">
 <img height="35px" width="35px" alt="Slack_clone_hamz_app" src="https://i.pinimg.com/736x/11/b4/00/11b400f6ac1881a31dd45eb65743e537.jpg" />
-<!-- <img height="35px" width="35px" alt="Slack_clone_hamz_app" src="https://img.freepik.com/free-psd/earth-ball-planet-isolated_23-2151806117.jpg?semt=ais_hybrid&w=740" /> -->
 </a>
 <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker_hamza" height="35px" width="35px" />
 </a>
+<a href="https://www2.b2b-alive.com" target="blank">
+<img height="35px" width="35px" alt="B2b_Alive" src="https://www2.b2b-alive.com/wp-content/uploads/2020/05/b2b-alive-logo-w.png"/>
+</a>
 </div>
-
-<!-- 📚  -->
-<!-- ⚡  -->
-<!-- 💡  -->
-<!-- 🔧  -->
