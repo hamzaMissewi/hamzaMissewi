@@ -1,13 +1,8 @@
-<div align="center">
-  <!-- <img src="https://portfolio-hamza-missaoui-2025.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhamza_logo.0eec286d.jpeg&w=640&q=75" alt="Hamza Logo" width="100" height="100" style="border-radius:50%"/> -->
-  <img src="image.jpg" alt="Hamza Logo" width="100" height="100" style="border-radius:50%"/>
-</div>
-
-###
-
 <h1 align="center">Hey there 👋, I'm Hamza</h1>
 
 <h3 align="center">Software Engineer | Full-Stack Web Developer | Devops Developer | Tester</h3>
+
+###
 
 <p align="center">
   <!-- <a href="https://portfolio-hamza-missaoui-2025.vercel.app/" target="_blank"> -->
@@ -31,8 +26,6 @@
 <div align="center" style="max-width:800px;margin:0 auto">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+gitHub+profile;I+am+experienced+fullstack+web+and+devops+developer;I+have+what+you+need+to+make+your+ideas+into+reality;I+have+experience+in+modern+languages+and+devops+tools;I+am+passionate+about+creating+awesome+websites+%F0%9F%8E%A8" alt="Hamza typewriter" />
 </div>
-
----
 
 ## 🚀 About Me
 
