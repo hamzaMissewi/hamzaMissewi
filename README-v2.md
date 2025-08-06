@@ -60,150 +60,150 @@
 
 ### Frontend
 
-<div style="display: flex; align-items: center; justify-content: center;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="40" height="40"/>
-          <!-- <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="icon" width="65" height="65" /> -->
-          <!-- <img src="https://techstack-generator.vercel.app/angularjs-icon.svg" alt="icon" width="65" height="65" /> -->
-<!-- old -->
-  <!-- <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> -->
-  <!-- <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/> -->
-  <!-- <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> -->
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
-  <a href="https://tailwindcss.com/" target="_blank" style="decoration:none" title="Tailwind CSS"> 
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
   </a>
-  <a href="https://mui.com/" target="_blank" style="decoration:none" title="Material-UI">
-  <img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" width="40" height="40"/>
+  <a href="https://redux.js.org/" target="_blank" title="Redux">
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="Next.js" width="65" height="65" />
+  </a>
+  <a href="https://angular.io/" target="_blank" title="Angular">
+    <img src="https://techstack-generator.vercel.app/angularjs-icon.svg" alt="Angular" width="65" height="65" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" title="React Native">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="65" height="65" />
+  </a>
+  <a href="https://mui.com/" target="_blank" title="Material-UI">
+    <img src="https://techstack-generator.vercel.app/materialui-icon.svg" alt="Material-UI" width="65" height="65" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="Tailwind CSS" width="65" height="65" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
+    <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
+    <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
   </a>
 </div>
 
 ### Backend
 
-<p>
-<a href="https://www.python.org" target="_blank" style="decoration:none" title="Python"> 
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
   </a>
-  <a href="https://www.java.com/fr/" target="_blank" style="decoration:none" title="Python"> 
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js">
+    <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="65" height="65" />
   </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview" target="_blank" style="decoration:none" title="C#"> 
-  <img src="https://skillicons.dev/icons?i=c" alt="C#" width="40" height="40"/>
+  <a href="https://koajs.com/" target="_blank" title="Koa.js">
+    <img src="https://techstack-generator.vercel.app/koa-icon.svg" alt="Koa.js" width="65" height="65" />
   </a>
-    <a href="https://go.dev/" target="_blank" style="decoration:none" title="Go"> 
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
-  <a href="https://nodejs.org" target="_blank" style="decoration:none" title="Node.js">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   </a>
-  <a href="https://expressjs.com" target="_blank" title="Express.js">
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
+  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
   </a>
-  <a href="https://nestjs.com/" target="_blank" title="Nest.js">
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="40" height="40"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
+    <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" alt="FastAPI" width="65" height="65" />
   </a>
+  <a href="https://spring.io/" target="_blank" title="Spring">
+    <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring" width="65" height="65" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" title="NestJS">
+    <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="NestJS" width="65" height="65" />
+  </a>
+</div>
+
+### Database & ORM
+
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" title="Prisma">
+    <img src="https://techstack-generator.vercel.app/prisma-icon.svg" alt="Prisma" width="65" height="65" />
+  </a>
+  <a href="https://redis.io/" target="_blank" title="Redis">
+    <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65" height="65" />
+  </a>
+</div>
+
+### Cloud & DevOps
+
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">
+    <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="GCP" width="65" height="65" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" title="Microsoft Azure">
+    <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="65" height="65" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" title="Jenkins">
+    <img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="Jenkins" width="65" height="65" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  </a>
+  <a href="https://nginx.org/" target="_blank" title="Nginx">
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+  </a>
+</div>
+
+### API & Testing
+
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 15px;">
   <a href="https://graphql.org/" target="_blank" title="GraphQL">
-  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
   </a>
-  <a href="https://www.apollographql.com/" target="_blank" style="decoration:none" title="Apollo GraphQL">
-  <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="40" height="40"/>
+  <a href="https://www.apollographql.com/" target="_blank" title="Apollo GraphQL">
+    <img src="https://techstack-generator.vercel.app/apollo-icon.svg" alt="Apollo" width="65" height="65" />
   </a>
-  <a href="https://www.djangoproject.com" target="_blank" style="decoration:none" title="Django"> 
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
+  <a href="https://jestjs.io/" target="_blank" title="Jest">
+    <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="65" height="65" />
   </a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" style="decoration:none" title="FastAPI"> 
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="65" height="65" />
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" style="decoration:none" title="Spring Boot"> 
-  <img src="https://skillicons.dev/icons?i=spring" alt="SpringBoot" width="40" height="40"/>
-  </a>
-   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" style="decoration:none" title="Spring Boot"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGA5shygqxDYDkzwzTWLWF97H01VLuD_s9Q&s" alt="Asp.Net" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-### Databases
+### Design & Tools
 
-<p>
-  <a href="https://www.mongodb.com/" target="_blank" style="decoration:none" title="MongoDB"> 
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <a href="https://www.figma.com/" target="_blank" title="Figma">
+    <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" style="decoration:none" title="PostgreSQL"> 
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   </a>
-   <a href="https://www.mysql.com" target="_blank" style="decoration:none" title="MongoDB"> 
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MongoDB" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
   </a>
-  <a href="https://www.prisma.io" target="_blank" style="decoration:none" title="Prisma"> 
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
+    <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65" />
   </a>
-     <a href="https://redis.io" target="_blank" style="decoration:none" title="Redis">
-  <img src="https://skillicons.dev/icons?i=redis" alt="Node.js" width="40" height="40"/>
-  </a>
-     <a href="https://www.elastic.co/elasticsearch" target="_blank" style="decoration:none" title="Elasticsearch">
-  <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Node.js" width="40" height="40"/>
-  </a>
-</p>
-
-### DevOps & CI/CD
-
-<p>
-  <a href="https://aws.amazon.com" target="_blank" style="decoration:none" title="Amazon Web Services"> 
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" style="decoration:none" title="Google Cloud Platform"> 
-  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank" style="decoration:none" title="Microsoft Azure"> 
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com" target="_blank" style="decoration:none" title="Docker"> 
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" style="decoration:none" title="Kubernetes"> 
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
-</a>
-<a href="https://nginx.org" target="_blank" style="decoration:none" title="Nginx">
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40"/>
-</a>
-<a href="https://github.com/features/actions" target="_blank" style="decoration:none" title="Kubernetes">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm38Y3NXCvJYgxuh3yd0FB5fM7MIgUj_0l1g&s" alt="Github Actions" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io" target="_blank" style="decoration:none" title="Jenkins">
-<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/>
-</a>
-
-</p>
-
-### Tools & Testing
-
-<p>
-
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=webstorm" alt="Webstorm" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=graphql" alt="Graphql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <a href="https://jestjs.io" target="_blank" title="Jest">
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com" target="_blank" style="decoration:none" title="Figma"> 
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
