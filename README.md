@@ -1,66 +1,98 @@
 <h1 align="center">Hey there 👋, I'm Hamza</h1>
+<h3 align="center">Software Engineer | Full-Stack Web Developer | Cloud Developer</h3>
+<h4 align="center">From Tunisia, Tunis</h3>
+<h4 align="center">Spoken Languages: Arabic (Native) English & French</h3>
 
-<h3 align="center">Software Engineer | Full-Stack Web Developer | Devops Developer | Tester</h3>
+---
 
 ###
 
-<p align="center" style="margin-top:30px">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Mouheb+Mhamdi;Software+Engineer;Full+Stack+Developer;Problem+Solver" />
-</p>
+
+<!-- <div align="center"> -->
+  <!-- <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-dodgerblue?style=for-the-badge" /> -->
+  <!-- <img src="https://img.shields.io/badge/From-Tunisia-indigo?style=for-the-badge" /> -->
+  <!-- <img src="https://img.shields.io/badge/Languages-Arabic (Native) English & French-purple?style=for-the-badge" /> -->
+<!-- </div> -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-dodgerblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Tunisia-crimson?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20French-dodgerblue?style=for-the-badge" />
-</div>
-
-<div align="center">
-  <!-- <a href="https://www.hamza-portfolio-pro-2025.vercel.app" target="_blank"> -->
-  <a href="https://hamza-missaoui-portfolio-3.vercel.app" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-green?logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://hamza-advanced-chatbot.vercel.app" target="_blank" style="decoration:none" title="Tailwind CSS">
-    <img src="https://custom-icon-badges.demolab.com/badge/chatbot-Visit-blue?logo=hackerrank&logoColor=white" alt="Chatbot"  />
+  
+  <a href="https://www.notion.so/hamza-missaoui-21aba7e86dab80e39a7bced7f2a66a73" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/My Projects-Check-black?logo=notion&logoColor=white" alt="Notion_projects" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-missewi" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Contact-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Hackerrank-Check-purple?logo=hackerrank&logoColor=white" alt="Hackerrank" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Hackerrank-Check-darkgreen?logo=hackerrank&logoColor=green" alt="Hackerrank" />
+  </a>
+  <!-- <a href="https://hamza-missaoui-portfolio-3.vercel.app" target="_blank"> -->
+  <a href="https://hamza-portfolio-3.vercel.app" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-blue?logo=website&logoColor=white" alt="Portfolio 1" />
+  </a>
+  <a href="https://hamza-portfolio-2.vercel.app" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio 2-Visit-blue?logo=website&logoColor=white" alt="Portfolio 2" />
+  </a>
+    <a href="https://www.hamza-portfolio-pro-2025.vercel.app" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio 3-Visit-blue?logo=website&logoColor=white" alt="Portfolio 3" />
+  </a>
+  <a href="https://hamza-advanced-chatbot.vercel.app" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Chatbot App-Visit-orange?logo=robot&logoColor=white" alt="Chatbot App"  />
   </a>
 </div>
 
 ###
 
 <div align="center" style="max-width:800px;margin:0 auto">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+gitHub+profile;I+am+experienced+fullstack+web+and+devops+developer;I+have+what+you+need+to+make+your+ideas+into+reality;I+have+experience+in+modern+languages+and+devops+tools;I+am+passionate+about+creating+awesome+websites+%F0%9F%8E%A8" alt="Hamza typewriter" />
+ <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Hamza+Missaoui;Software+Engineer;Full+Stack+Developer;Problem+Solver" /> -->
+<img src="https://readme-typing-svg.demolab.com??font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&color=00FF00&lines=Welcome+to+my+github+profile;Highly+Skilled+fullstack+web+cloud+developer;I+have+what+you+need+to+make+your+ideas+into+reality;I+have+experience+in+mern+stack+and+cloud+tools;I+am+passionate+about+creating+awesome+cloud+native+applications" alt="Web developer" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+gitHub+profile;I+am+experienced+fullstack+web+and+devops+developer;I+have+what+you+need+to+make+your+ideas+into+reality;I+have+experience+in+modern+languages+and+devops+tools;I+am+passionate+about+creating+awesome+websites+%F0%9F%8E%A8" alt="Hamza typewriter" /> -->
 </div>
 
-<!-- ## 🚀 About Me -->
 
-<h2 align="center" style="color: white;">🚀 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 
-<p align="center" style="color: white;">
-  As a highly skilled software engineer, I specialize in building robust and scalable applications using modern technologies. My expertise spans across the full development stack, from crafting elegant front-end solutions with Angular, React, and Node.js to implementing powerful back-end systems with Spring and NestJS.
+<p align="left" style="margin:0 auto;color:white;margin:0 auto">
+  Software Engineer and Full Stack Web Developer with over 3 years of experience in architecting and developing cloud-native web
+  applications. Proficient in the MERN stack, Vite.js, and Next.js, alongside extensive experience with cloud platforms such as AWS, Azure,
+  and GCP. Skilled in Python (FastAPI), C# (ASP.NET), and Java (Spring Boot). Expertise in automating CI/CD pipelines, integrating APIs
+  (GraphQL, REST), and enabling real-time data exchange via WebSocket. Experienced in containerizing microservices with Docker, solving
+  advanced real-time tasks, writing clean and scalable code, optimizing performance, and driving the end-to-end delivery of projects.
 </p>
 
-<!-- <p style="max-width:800px;margin:0 auto">Full-Stack Web developer & Software Engineer, passionate about crafting scalable modern web apps with innovative technologies</p> -->
-
-<p align="center" style="margin:0 auto;color:white;margin:0 auto">
-  - I'm a **Senior Engineer & Full-Stack Software Deveoloper** with over 3 years of experience, specializing in crafting scalable modern web cloud-based web solutions with innovative technologies. I thrive on turning complex challenges into efficient, secure, and user-friendly systems, with a keen focus on modern technologies and clean code practices.
-  -   **Digital Signage Expertise**: Spearheaded the development of platforms for managing content on LED screens, featuring real-time broadcasting and advanced administration tools.
-  -   **Tech Proficiency**: Skilled in JavaScript/TypeScript (React, Next.js, Node.js) and Python (Django, FastAPI), with hands-on experience in AWS, Azure, and GCP for DevOps workflows.
-  -   **AI Advocate**: Enthusiastic about integrating AI and LLMs into projects to push the boundaries of technology.
-  -   **Solution Architect**: Adept at designing robust architectures that prioritize scalability, performance, and security.
-</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+
+<!-- ## 💻 Tech Stack: -->
+## 🛠️ Tech Stack
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
+
 
 ### Frontend
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<!-- <div style="display: flex; align-items: center; justify-content: center;"> -->
+<div align="center" style="display: flex; align-items: center; flex: wrap">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="40" height="65"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank" style="decoration:none" title="Tailwind CSS"> 
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://mui.com/" target="_blank" style="decoration:none" title="Material-UI">
+  <img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" width="40" height="40"/>
+  </a>
+</div>
+
+---
+
+<div align="center" style="display: flex; align-items: center; flex: wrap">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
           <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -71,23 +103,6 @@
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
           <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
           <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-          <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="40" height="40"/>
-          <!-- <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="icon" width="65" height="65" /> -->
-          <!-- <img src="https://techstack-generator.vercel.app/angularjs-icon.svg" alt="icon" width="65" height="65" /> -->
-<!-- old -->
-  <!-- <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> -->
-  <!-- <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/> -->
-  <!-- <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> -->
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
-  <a href="https://tailwindcss.com/" target="_blank" style="decoration:none" title="Tailwind CSS"> 
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" style="decoration:none" title="Material-UI">
-  <img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" width="40" height="40"/>
-  </a>
 </div>
 
 ### Backend
