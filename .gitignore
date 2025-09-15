@@ -1,4 +1,4 @@
 .gitignore
 /ignore
 /.idea
-/backup
+**/*ignore*
