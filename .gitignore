@@ -1,4 +1,5 @@
 .gitignore
 /ignore
-/.idea
-/backup
+
+**/*.md
+!README.md
