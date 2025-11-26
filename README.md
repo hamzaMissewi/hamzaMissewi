@@ -24,12 +24,6 @@
     <a href="https://hamza-portfolio-3.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio 2-1E90FF?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio 1" />
   </a>
-  <!-- <a href="https://hamza-portfolio-2.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%202-4169E1?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio 2" />
-  </a> -->
-  <!-- <a href="https://www.hamza-portfolio-pro-2025.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%203-000080?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio 3" />
-  </a> -->
 </div>
 
 
@@ -45,13 +39,10 @@
 </div>
 
 
-<!-- ## 🛠️ Tech Stack -->
-
 ## <div align="center" style="color: #00D4AA;">💻 Tech Stack:</div>
 
 ### Frontend
 
-<!-- <div align="center" style="display: flex; align-items: center; flex: wrap"> -->
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React-Native" width="40" height="40"/>
@@ -68,7 +59,6 @@
   <img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" width="40" height="40"/>
   </a>
 </p>
-
 
 ### Backend
 
@@ -188,7 +178,7 @@
 
 --- 
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-white-white%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue) ![Vite Js](https://img.shields.io/badge/-Vite-FF4154?style=for-the-badge&logo=vite%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Koa.js](https://img.shields.io/badge/koa.js-%23404d59.svg?style=for-the-badge&logo=koa&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-gray?style=for-the-badge&logo=three.js&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/elasticsearch-orange?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Redis](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white) ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=blue) ![Vite Js](https://img.shields.io/badge/Vite-FF4154?style=for-the-badge&logo=vite%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/next_js-black?style=for-the-badge&logo=next.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Koa.js](https://img.shields.io/badge/koa.js-%23404d59.svg?style=for-the-badge&logo=koa&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c#&logoColor=white) ![Asp .Net Core](https://img.shields.io/badge/asp.net_core-%23239120.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-005571?style=for-the-badge&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-gray?style=for-the-badge&logo=three.js&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/elasticsearch-orange?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Redis](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white) ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ---
@@ -200,8 +190,6 @@
     📁 Explore My Work & Projects Here
   </a>
 </p>
-
-<!-- - **Portfolios**: https://hamza-portfolio-2.vercel.app | https://hamza-missaoui-portfolio-3.vercel.app | https://www.hamza-portfolio-pro-2025.vercel.app -->
 
 
 ---
@@ -265,12 +253,7 @@
 ## <div align="center" style="color: #00D4AA;">📊 GitHub Stats:</div>
 
 <div align="center" style="margin: 20px 0;">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=radical" alt="GitHub Streak" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=8892B0" alt="GitHub Stats" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaMissewi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=8892B0" alt="Top Languages" /> -->
-  
-
 </div>
 
 
@@ -279,7 +262,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=hamzaMissewi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
 
 
 ## <div align="center" style="color: #00D4AA;">🌐 Socials:</div>
@@ -305,4 +287,4 @@
   </a>
 </p>
 
-<!-- _Last Updated: August 2025_ -->
+_Last Updated: November 2025_
