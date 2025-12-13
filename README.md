@@ -9,8 +9,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.notion.so/Hamza-Missaoui-Full-Stack-Developer-2b6ebd8ecaf18038a0aff613ce47634f" target="_blank">
-    <img src="https://img.shields.io/badge/My Projects-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <!-- <a href="https://www.notion.so/Hamza-Missaoui-Full-Stack-Developer-2b6ebd8ecaf18038a0aff613ce47634f" target="_blank"> -->
+  <a href="https://www.notion.so/Hamza-Mswi-Work-2bbebd8ecaf180f6b39fde3a617f7807" target="_blank">
+  <img src="https://img.shields.io/badge/My Projects-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-missewi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -282,6 +283,18 @@ Full-Stack Cloud Developer with 4~ years of expertise in architecting and deploy
   <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="_blank">
     <img src="https://skillicons.dev/icons?i=hackerrank" alt="Hackerrank" width="40" height="40"/>
   </a>
+  <a href="https://go-makkah.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=makkah" alt="GoMkakkah" width="40" height="40"/>
+  </a>
+  <a href="https://www.fevertokens.io" target="_blank">
+    <p>Fever Tokens</p>
+  </a>
+  <a href="https://ypredict.ai/app" target="_blank">
+        <p>Y Predict AI</p>
+  </a>
+    <a href="https://www.fevertokens.io" target="_blank">
+  <p>Fever Tokens</p>
+    </a>
   <a href="https://www2.b2b-alive.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" alt="B2B Alive" width="40" height="40"/>
   </a>
