@@ -18,26 +18,26 @@
   <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
   </a>
-  <a href="https://hamza-missaoui-website.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" />
+  <!-- <a href="https://hamza-missaoui-website.vercel.app" target="_blank"> -->
+  <a href="https://hamzamissaoui.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" />
   </a>
-    <a href="https://hamza-portfolio-3.vercel.app" target="_blank">
+   <a href="https://hamza-futuristic-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio 2" />
+  </a>
+    <a href="https://hamza-mswi-website-2026.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio 2-1E90FF?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio 1" />
   </a>
 </div>
 
-
 <h2 align="left">🚀 About Me</h2>
 <p align="left">
-  Full-Stack Cloud Developer with 4~ years of expertise in architecting and deploying scalable cloud-native applications across AWS, GCP, and Azure. Proficient in Typescript, React, Next.js, Node.js, with additional expertise in Python (Django), C# (Asp.Net Core), and relational/NoSQL databases (PostgreSql, MongoDb). Led high-traffic, AI-driven solutions for digital signage, marketing, e-commerce, and booking platforms, boosting efficiency, uptime, and security. Leveraged clean architecture,
-  containerization, CI/CD pipelines, and observability tools to achieve significant performance enhancements, fortified defenses
-  against vulnerabilities, and seamless scalability.
+Full-Stack Cloud Developer with 4~ years of expertise in architecting and deploying scalable cloud-native applications across AWS, GCP, and Azure. Proficient in Typescript, React, Next.js, Node.js, with additional expertise in Python (Django), C# (Asp.Net Core), and relational/NoSQL databases (PostgreSql, MongoDb). Led high-traffic, AI-driven solutions for digital signage, marketing, e-commerce, and booking platforms, boosting efficiency, uptime, and security. Leveraged clean architecture, containerization, CI/CD pipelines, and observability tools to achieve significant performance enhancements, fortified defenses against vulnerabilities, and seamless scalability.
 </p>
 
 <div align="center" style="max-width:800px;margin:0 auto">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Full-Stack+Cloud+Developer;Building+scalable+cloud-native+solutions;Expertise+in+AWS%2C+GCP%2C+Azure;Architecting+high-performance+applications;Delivering+enterprise-grade+solutions" alt="Description" />
 </div>
-
 
 ## <div align="center" style="color: #00D4AA;">💻 Tech Stack:</div>
 
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
+  <!-- <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/> -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
   <a href="https://tailwindcss.com/" target="_blank" style="decoration:none" title="Tailwind CSS"> 
