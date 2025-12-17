@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/hamzaMissewi" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;">
-</div>
-
 <h1 align="center">Hey there 👋, I'm Hamza</h1>
 <h3 align="center">Software Engineer | Full-Stack Web Developer | Cloud Specialist</h3>
 <h4 align="center">Tunisia, Tunis | 29 years Old | Spoken Languages: Arabic, English (Pro) & French (Fluent)</h3>
