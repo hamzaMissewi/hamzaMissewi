@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Hamza</h1>
-<h3 align="center">Software Engineer | Full-Stack Web Developer | Cloud Specialist</h3>
-<h4 align="center">Tunisia, Tunis | 29 years Old | Spoken Languages: Arabic, English (Pro) & French (Fluent)</h3>
+<h1 align="center">Hey, I'm Hamza M.</h1>
+<h3 align="center">Software Engineer | Full-Stack Web & Devops Developer</h3>
+<h4 align="center">Tunisia, Tunis</h3>
 
 ###
 
@@ -188,6 +188,10 @@ Full-Stack Cloud Developer with 4~ years of expertise in architecting and deploy
   </a>
 </p>
 
+
+## Spoken Languages
+
+<p align="center">Arabic, English (C1) & French (B2) & German (A1) </p>
 
 ---
 
