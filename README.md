@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- <img src="https://avatars.githubusercontent.com/hamzaMissewi" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;"> -->
-  <img src="h:\Images\linkedin-21-12.jpg" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;">
+  <img src="https://avatars.githubusercontent.com/hamzaMissewi" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;">
+  <!-- <img src="Images\linkedin.jpg" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;"> -->
 </div>
 
 <h1 align="center">Hi 👋, I'm Hamza Mswi</h1>
 <h3 align="center">Software Engineer | Full-Stack Web Developer | Cloud Specialist</h3>
-<h4 align="center">Tunisia, Tunis | 29 years Old | Spoken Languages: Arabic, English (Pro) & French (Fluent)</h3>
+<h4 align="center">Tunisia, Tunis | Spoken Languages: Arabic, English (Pro) & French (Fluent)</h3>
 
 ###
 
@@ -29,13 +29,12 @@
   </a>
 </div>
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  Full-Stack Cloud Developer with 4~ years of expertise in architecting and deploying scalable cloud-native applications across AWS, GCP, and Azure. Proficient in Typescript, React, Next.js, Node.js, with additional expertise in Python (Django), C# (Asp.Net Core), and relational/NoSQL databases (PostgreSql, MongoDb). Led high-traffic, AI-driven solutions for digital signage, marketing, e-commerce, and booking platforms, boosting efficiency, uptime, and security. Leveraged clean architecture,
-  containerization, CI/CD pipelines, and observability tools to achieve significant performance enhancements, fortified defenses against vulnerabilities, and seamless scalability.
-</p>
+## <div align="left" style="color: #00D4AA;">🚀 About:</div>
 
-<div align="center" style="max-width:800px;margin:0 auto">
+<p align="left">
+  Full-Stack Cloud Developer with 4~ years of expertise in architecting and deploying scalable cloud-native applications across AWS, GCP, and Azure. Proficient in Typescript, React, Next.js, Node.js, with additional expertise in Python (Django), C# (Asp.Net Core), and relational/NoSQL databases (PostgreSql, MongoDb). Led high-traffic, AI-driven solutions for digital signage, marketing, e-commerce, and booking platforms, boosting efficiency, uptime, and security. Leveraged clean architecture, containerization, CI/CD pipelines, and observability tools to achieve significant performance enhancements, fortified defenses against vulnerabilities, and seamless scalability.
+
+<!-- <div align="left" style="max-width:800px;margin:0 auto"> -->
 
 - **Full-Stack Cloud Developer**
 - **Building scalable cloud-native solutions**
@@ -46,15 +45,7 @@
 - **Expert in Cloud Platforms (AWS, GCP, Azure)**
 - **Working on Digital Marketing Platforms**
 - **Specializing in Web 3.0 & Advertising Solutions**
-
-</div>
-
-## <div align="center" style="color: #00D4AA;">📊 GitHub Stats:</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=radical" alt="GitHub Streak" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" /> -->
-</div>
+  </p>
 
 ## <div align="left" style="color: #00D4AA;">🌐 Socials:</div>
 
@@ -65,7 +56,18 @@
 - 👨‍💻 **HackerRank**: https://www.hackerrank.com/profile/hamza_missaoui47
 - 📧 **Email**: hamza.missaoui28@gmail.com
 
-<!-- ## <div align="center" style="color: #00D4AA;">🚀 My Projects:</div> -->
+<!-- ## <div align="left" style="color: #00D4AA;">🚀 My Projects:</div> -->
+
+## <div align="left" style="color: #00D4AA;">📊 GitHub Stats:</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=radical" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" /> -->
+
+###
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 <div align="left">
 
@@ -240,18 +242,13 @@
 <!-- ![Three js](https://img.shields.io/badge/threejs-gray?style=for-the-badge&logo=three.js&logoColor=white) -->
 </div>
 
-###
-
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 <!-- <p align="center">
   <a href="https://www.notion.so/Hamza-M-Dev-Public-Projects-2bbebd8ecaf180f6b39fde3a617f7807" target="_blank" style="text-decoration: none; color: #1E90FF; font-weight: bold;">
     📁 Explore My Work & Projects Here
   </a>
 </p> -->
 
-## <div align="center" style="color: #00D4AA;">🏆 Certifications & Achievements</div>
+## <div align="left" style="color: #00D4AA;">🏆 Certifications & Achievements</div>
 
 <div style="color: #64FFDA;">☁️ Cloud & Infrastructure (2025)</div>
 
@@ -326,7 +323,7 @@
   </ul>
 </div>
 
-<!-- ## <div align="center" style="color: #00D4AA;">🌐 Socials:</div> -->
+<!-- ## <div align="left" style="color: #00D4AA;">🌐 Socials:</div> -->
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/hamza-mssewi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30839893/hamza)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamza.missaoui28@gmail.com)
@@ -339,6 +336,18 @@
   <a href="https://www.hackerrank.com/profile/hamza_missaoui47" target="_blank">
     <img src="https://skillicons.dev/icons?i=hackerrank" alt="Hackerrank" width="40" height="40"/>
   </a>
+  <a href="https://go-makkah.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=makkah" alt="GoMkakkah" width="40" height="40"/>
+  </a>
+  <a href="https://www.fevertokens.io" target="_blank">
+    <p>Fever Tokens</p>
+  </a>
+  <a href="https://ypredict.ai/app" target="_blank">
+        <p>Y Predict AI</p>
+  </a>
+    <a href="https://www.fevertokens.io" target="_blank">
+  <p>Fever Tokens</p>
+    </a>
   <a href="https://www2.b2b-alive.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" alt="B2B Alive" width="40" height="40"/>
   </a>
