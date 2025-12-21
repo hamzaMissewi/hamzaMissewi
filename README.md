@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/hamzaMissewi" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;">
-  <!-- <img src="Images\linkedin.jpg" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;"> -->
+  <!-- <img src="https://avatars.githubusercontent.com/hamzaMissewi" alt="Hamza Missaoui" width="150" height="150" style="border-radius: 50%; border: 4px solid #1E90FF;"> -->
 </div>
 
-<h1 align="center">Hi 👋, I'm Hamza Mswi</h1>
-<h3 align="center">Software Engineer | Full-Stack Web Developer | Cloud Specialist</h3>
-<h4 align="center">Tunisia, Tunis | Spoken Languages: Arabic, English (Pro) & French (Fluent)</h3>
+<h1 align="center">Hi, I'm Hamza Missaoui</h1>
+<h3 align="center">Software Engineer | Full-Stack Web & Cloud Developer</h3>
+<h4 align="center">Tunisia, Tunis | Spoken Languages: Arabic, English (C1) & French (B2), German (A1)</h3>
 
 ###
 
@@ -50,19 +49,19 @@
 ## <div align="left" style="color: #00D4AA;">🌐 Socials:</div>
 
 - **Projects**: https://www.notion.so/Hamza-2bbebd8ecaf180f6b39fde3a617f7807
-- 🌐 **Linktree**: https://linktr.ee/hamza_missaoui
-- 💼 **LinkedIn**: https://www.linkedin.com/in/hamza-missewi
-- 🐙 **GitHub**: https://github.com/hamzaMissewi
-- 👨‍💻 **HackerRank**: https://www.hackerrank.com/profile/hamza_missaoui47
-- 📧 **Email**: hamza.missaoui28@gmail.com
+- **Linktree**: https://linktr.ee/hamza_missaoui
+- **LinkedIn**: https://www.linkedin.com/in/hamza-missewi
+- **GitHub**: https://github.com/hamzaMissewi
+- **HackerRank**: https://www.hackerrank.com/profile/hamza_missaoui47
+- **Email**: hamza.missaoui28@gmail.com
 
 <!-- ## <div align="left" style="color: #00D4AA;">🚀 My Projects:</div> -->
 
 ## <div align="left" style="color: #00D4AA;">📊 GitHub Stats:</div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=radical" alt="GitHub Streak" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" /> -->
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
 
 ###
 
@@ -71,7 +70,7 @@
 
 <div align="left">
 
-## <p align="center" style="color: #00D4AA;">💻 Tech Stack:</p>
+## <div align="left" style="color: #00D4AA;">💻 Tech Stack:</div>
 
 ### Frontend
 
@@ -79,16 +78,27 @@
   <a href="#" title="React">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
   </a>
-  <!-- <img src="https://skillicons.dev/icons?i=react" alt="React-Native" width="40" height="40"/> -->
+  <a href="#" title="React Native">
+    <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="40" height="40"/>
+  </a>
   <a href="#" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="#" title="TypeScript">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
   </a>
- <a href="#" title="Next.js">
-   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
- </a>
+  <a href="#" title="Next.js">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" title="Vite.js">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
+  </a>
+<a href="https://vuejs.org/" target="_blank" title="Vue.js">
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/>
+</a>
+  <a href="https://mui.com/material-ui/" target="_blank" title="Material UI">
+    <img src="https://skillicons.dev/icons?i=mui" alt="MUI" width="40" height="40"/>
+  </a>
   <a href="#" title="Angular">
     <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
   </a>
@@ -99,10 +109,10 @@
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" style="decoration:none" title="Tailwind CSS"> 
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://mui.com/" target="_blank" style="decoration:none" title="Material-UI">
-  <img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" width="40" height="40"/>
   </a>
 </p>
 
@@ -113,40 +123,46 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
 </a>
 <a href="https://www.java.com/fr/" target="_blank" style="decoration:none" title="Java"> 
-<img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
 </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview" target="_blank" style="decoration:none" title="C#"> 
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview" target="_blank" style="decoration:none" title="C# & .NET"> 
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
 </a>
-  <a href="https://go.dev/" target="_blank" style="decoration:none" title="Go"> 
-<img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
+<a href="https://dotnet.microsoft.com/" target="_blank" style="decoration:none" title=".NET">
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/>
+</a>
+<a href="https://go.dev/" target="_blank" style="decoration:none" title="Go"> 
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org" target="_blank" style="decoration:none" title="Node.js">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com" target="_blank" title="Express.js">
-<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
 </a>
+<!-- <a href="https://koajs.com/" target="_blank" title="Koa.js">
+  <img src="https://skillicons.dev/icons" alt="Koa.js" width="40" height="40"/>
+</a> -->
 <a href="https://nestjs.com/" target="_blank" title="Nest.js">
-<img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="40" height="40"/>
 </a>
 <a href="https://graphql.org/" target="_blank" title="GraphQL">
-<img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
 </a>
 <a href="https://www.apollographql.com/" target="_blank" style="decoration:none" title="Apollo GraphQL">
-<img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com" target="_blank" style="decoration:none" title="Django"> 
-<img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
 </a>
 <a href="https://fastapi.tiangolo.com" target="_blank" style="decoration:none" title="FastAPI"> 
-<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
 </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" style="decoration:none" title="Spring Boot"> 
-<img src="https://skillicons.dev/icons?i=spring" alt="SpringBoot" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="SpringBoot" width="40" height="40"/>
 </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" style="decoration:none" title="ASP.NET"> 
-<img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET" width="40" height="40"/>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" style="decoration:none" title="ASP.NET Core"> 
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Core" width="40" height="40"/>
 </a>
 </p>
 
@@ -235,9 +251,58 @@
   </a>
 </p>
 
-### Other Used Tech
+### Methodologies & Patterns
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=blue) ![Vite Js](https://img.shields.io/badge/Vite-FF4154?style=for-the-badge&logo=vite%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/next_js-black?style=for-the-badge&logo=next.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Koa.js](https://img.shields.io/badge/koa.js-%23404d59.svg?style=for-the-badge&logo=koa&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c#&logoColor=white) ![Asp .Net Core](https://img.shields.io/badge/asp.net_core-%23239120.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-005571?style=for-the-badge&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/elasticsearch-orange?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Redis](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white) ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Agile-0091E5?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
+  <img src="https://img.shields.io/badge/Scrum-0091E5?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/SEO-0D8AEE?style=for-the-badge&logo=seo&logoColor=white" alt="SEO"/>
+  <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="MVC"/>
+  <img src="https://img.shields.io/badge/MVP-FF9900?style=for-the-badge" alt="MVP"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=for-the-badge" alt="Design Patterns"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-2F6F44?style=for-the-badge" alt="Distributed Systems"/>
+  <img src="https://img.shields.io/badge/TDD-25A162?style=for-the-badge" alt="TDD"/>
+  <img src="https://img.shields.io/badge/BDD-5D4F85?style=for-the-badge" alt="BDD"/>
+</div>
+
+### Logging & Monitoring
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/Pino-000000?style=for-the-badge" alt="Pino"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</div>
+
+### AI & Machine Learning
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/GeminiAI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GeminiAI"/>
+  <img src="https://img.shields.io/badge/VertexAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="VertexAI"/>
+  <img src="https://img.shields.io/badge/Groq-00A67E?style=for-the-badge" alt="Groq"/>
+  <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge" alt="Langchain"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-6E2C00?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-1E88E5?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge" alt="LLMs"/>
+</div>
+
+### Architectures
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Cloud--Native-1E88E5?style=for-the-badge" alt="Cloud-Native"/>
+  <img src="https://img.shields.io/badge/SaaS-FF6B6B?style=for-the-badge" alt="SaaS"/>
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
+  <img src="https://img.shields.io/badge/Microservices-1890FF?style=for-the-badge" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Event--Driven-8BC34A?style=for-the-badge" alt="Event-Driven"/>
+  <img src="https://img.shields.io/badge/Domain--Driven-9C27B0?style=for-the-badge" alt="Domain-Driven"/>
+  <img src="https://img.shields.io/badge/SOA-3F51B5?style=for-the-badge" alt="SOA"/>
+</div>
+
+### Used Tech
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=blue) ![Vite Js](https://img.shields.io/badge/Vite-FF4154?style=for-the-badge&logo=vite%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/next_js-black?style=for-the-badge&logo=next.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Koa.js](https://img.shields.io/badge/koa.js-%23404d59.svg?style=for-the-badge&logo=koa&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Asp .Net Core](https://img.shields.io/badge/asp.net_core-%23239120.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-005571?style=for-the-badge&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/elasticsearch-orange?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Redis](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white) ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!-- ![Three js](https://img.shields.io/badge/threejs-gray?style=for-the-badge&logo=three.js&logoColor=white) -->
 </div>
@@ -248,9 +313,9 @@
   </a>
 </p> -->
 
-## <div align="left" style="color: #00D4AA;">🏆 Certifications & Achievements</div>
+## <div align="left" style="color: #00D4AA;">🏆 Certifications & Achievements: </div>
 
-<div style="color: #64FFDA;">☁️ Cloud & Infrastructure (2025)</div>
+<h3 style="color: #64FFDA;">☁️ Cloud & Infrastructure (2025)</h3>
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
@@ -260,7 +325,7 @@
   </a>
 </div>
 
-<div style="color: #64FFDA;">🤖 AI & Machine Learning (2025)</div>
+<h3 style="color: #64FFDA;">🤖 AI & Machine Learning (2025)</h3>
 
 <div align="center" style="margin: 20px 0;">
     <img src="https://custom-icon-badges.demolab.com/badge/Databricks-Gen%20AI%20Applications%20Developer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Gen AI" />
@@ -277,7 +342,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Cisco-Data%20Analytics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Data Analytics" />
 </div>
 
-<div style="color: #64FFDA;">💻 Programming & Development (2025)</div>
+<h3 style="color: #64FFDA;">💻 Programming & Development (2025)</h3>
 
 <div align="center" style="margin: 20px 0;">
     <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="JavaScript" />
@@ -292,10 +357,9 @@
 
 </div>
 
-<div style="color: #64FFDA;">📜 Previous Certifications</div>
+<h3 style="color: #64FFDA; margin-bottom: 15px;">🏆 Previous Certifications</h3>
 
 <div style="margin: 20px 0; text-align: left; max-width: 800px; margin: 0 auto;">
-  <h3 style="color: #64FFDA; margin-bottom: 15px;">🏆 Previous Certifications</h3>
   
   <h4 style="color: #00D4AA; margin: 15px 0 10px 0;">Cloud & DevOps</h4>
   <ul style="list-style-type: none; padding-left: 20px;">
