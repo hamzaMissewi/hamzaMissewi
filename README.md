@@ -1,6 +1,7 @@
 <div align="center">
   <h2 style="color: #00D4AA;"># 👋 Hey there, I'm Hamza, Software Engineer | Full-Stack Web Developer</h2>
-  <p>📍 From Tunisia | 🌍 Arabic: Native, English: Fluent (C1), French: Fluent (C1), German (A1)</p>
+  <p>📍 From Tunisia</p>
+  <p>Spoken Languages: Arabic: Native, English: Fluent (C1), French: Fluent (C1), German (A1)</p>
 </div>
 
 ## [Website 1](https://www.hamzamissaoui.dev) | [Website 2](https://hamzamissaoui.dev) | [Portfolio 3](https://hamza-mswi-website-2026.vercel.app) | [More Projects](https://link.hamzamissaoui.dev/hamza-work)
