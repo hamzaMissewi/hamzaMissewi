@@ -1,7 +1,5 @@
-# 👋 Hey there, I'm Hamza
-
 <div align="center">
-  <h2 style="color: #00D4AA;">Engineer | Full-Stack Web Developer | Cloud Specialist</h2>
+  <h2 style="color: #00D4AA;"># 👋 Hey there, I'm Hamza, Software Engineer | Full-Stack Web Developer</h2>
   <p>📍 From Tunisia | 🌍 Arabic: Native, English: Fluent (C1), French: Fluent (C1), German (A1)</p>
 </div>
 
