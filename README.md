@@ -59,13 +59,6 @@ Experienced **Full-Stack Web & Cloud Developer** with **4+ years** of expertise 
       style="max-width: 100%;"
   />
 </div> -->
-<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> -->
-
-<!-- <img
-      src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=8892B0"
-      alt="GitHub Stats"
-      style="max-width: 100%;"
-/> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaMissewi)](https://git.io/streak-stats)
 
@@ -552,16 +545,4 @@ _Remote_
   <strong>AWS Academy Cloud Foundations 2022</strong> | <strong>Cisco CCNA 1 & 2 2021</strong>
 </div>
 
-<!-- ## <div align="center" style="color: #00D4AA;">💻 Tech Stack:</div> -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div style="margin: 30px 0"> -->
-
-<!-- <strong style="color: #64FFDA;">Let's build something amazing and create or enhance your projects with my experience and knowledge in IT technologies! 🚀</strong> -->
-
-<!-- </div> -->
-
-<!-- <div align="center" style="font-size: 12px;">
-  <em>Last Updated: Spetember 2025</em>
-</div> -->
+<strong style="color: #64FFDA;">Let's build something amazing and create or enhance your projects with my experience and knowledge in IT technologies! 🚀</strong>
