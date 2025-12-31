@@ -9,6 +9,10 @@
 
 Specialized in transforming complex ideas into elegant digital solutions through web development, design engineering, and entrepreneurial innovation. I craft meaningful projects that blend creativity with technical precision. Explore my <a href="https://www.hamzamissaoui.dev/work">WORK</a> experience, check out my <a href="https://www.hamzamissaoui.dev/projects">PROJECTS</a>, discover my technical <a href="https://www.hamzamissaoui.dev/stack">STACK</a>, or learn about my <a href="https://www.hamzamissaoui.dev/about#overview">VENTURES</a> where innovative ideas become thriving businesses.
 
+   <!-- <p align="left"> -->
+<!-- <a href="https://git.io/streak-stats" title="Check my GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=hamzaMissewi&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=daily&background=0D1117&fire=00D4AA&ring=00D4AA&currStreakLabel=00D4AA&sideNums=00D4AA&sideLabels=00D4AA&currStreakNum=00D4AA&type=png" alt="GitHub Streak" style="max-width: 100%;" />
+</a> -->
 
 <a href="https://github.com/hamzaMissewi?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/></a>
@@ -57,6 +61,13 @@ Experienced **Full-Stack Web & Cloud Developer** with **4+ years** of expertise 
       style="max-width: 100%;"
   />
 </div> -->
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> -->
+
+<!-- <img
+      src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=8892B0"
+      alt="GitHub Stats"
+      style="max-width: 100%;"
+/> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaMissewi)](https://git.io/streak-stats)
 
@@ -66,21 +77,11 @@ Experienced **Full-Stack Web & Cloud Developer** with **4+ years** of expertise 
       style="max-width: 100%;"
 />
 
-<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> -->
-
-<!-- <img
-      src="https://github-readme-stats.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=8892B0"
-      alt="GitHub Stats"
-      style="max-width: 100%;"
-/> -->
-
 <img
       src="https://streak-stats.demolab.com/?user=hamzaMissewi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA"
       alt="GitHub Streak"
       style="max-width: 100%;"
 />
-
-<!-- </div> -->
 
 </div>
 
@@ -90,20 +91,23 @@ Experienced **Full-Stack Web & Cloud Developer** with **4+ years** of expertise 
   <a href="https://www.linkedin.com/in/hamza-missewi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/hamzaMissewi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:hamza.missaoui28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="mailto:contact@hamzamissaoui.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.hamzamissaoui.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://hamzamissaoui.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio2-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio 2" />
+  </a>
 </div>
 
 ## 💼 Professional Experience
 
-### Senior Full-Stack Web & CloudOps Developer
+### Full-Stack Web & Cloud Developer
 
 **B2B-Alive Ltd** | Jan 2022 - Jun 2025  
 _London, UK (Remote)_
