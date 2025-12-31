@@ -1,5 +1,4 @@
 .gitignore
 /ignore
-
 **/*.md
 !README.md
