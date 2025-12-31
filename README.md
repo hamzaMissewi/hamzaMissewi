@@ -9,10 +9,6 @@
 
 Specialized in transforming complex ideas into elegant digital solutions through web development, design engineering, and entrepreneurial innovation. I craft meaningful projects that blend creativity with technical precision. Explore my <a href="https://www.hamzamissaoui.dev/work">WORK</a> experience, check out my <a href="https://www.hamzamissaoui.dev/projects">PROJECTS</a>, discover my technical <a href="https://www.hamzamissaoui.dev/stack">STACK</a>, or learn about my <a href="https://www.hamzamissaoui.dev/about#overview">VENTURES</a> where innovative ideas become thriving businesses.
 
-   <!-- <p align="left"> -->
-<!-- <a href="https://git.io/streak-stats" title="Check my GitHub Streak">
-  <img src="https://streak-stats.demolab.com?user=hamzaMissewi&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=daily&background=0D1117&fire=00D4AA&ring=00D4AA&currStreakLabel=00D4AA&sideNums=00D4AA&sideLabels=00D4AA&currStreakNum=00D4AA&type=png" alt="GitHub Streak" style="max-width: 100%;" />
-</a> -->
 
 <a href="https://github.com/hamzaMissewi?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/></a>
@@ -37,13 +33,12 @@ Experienced **Full-Stack Web & Cloud Developer** with **4+ years** of expertise 
 ### Core Technologies
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Material-UI, Vite
-- **Backend:** Node.js (Koa, Nest), Python (FastAPI, Django), C# (.NET Core), Go
-- **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, Terraform, GitHub Actions
-- **Databases:** MongoDB, PostgreSQL, Redis, Elasticsearch, BullMQ
+- **Backend:** Node.js (Koa, Nest), Python (FastAPI), C# (Asp .NET Core), PHP, Go
+- **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Bitbucket, Monitoring/Logging, ELK Stack, Algolia, Sentry, GitLab, Jira, Prometheus/Grafana
+- **Databases:** MongoDB, PostgreSQL, Redis, BullMQ
 - **AI/ML:** LLMs, Gen-AI integration, model serving, inference pipelines
-- **Architecture:** Microservices, Serverless, Event-Driven, Clean Architecture
-- **Security:** OAuth 2.0, JWT, SSO, RBAC, PCI Compliance
-- **Observability:** Prometheus/Grafana, ELK Stack, Sentry, SLOs
+- **Architecture:** Microservices, Serverless, Event-Driven Architecture
+- **Security:** OAuth2, JWT, SSO, CASL, Tokens, MFA
 
 ## 📈 GitHub Stats
 
