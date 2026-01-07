@@ -22,12 +22,8 @@
       <img src="https://img.shields.io/badge/Portfolio3-000000?logo=about.me&logoColor=white" alt="Portfolio3" />
     </a>
     <a href="https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
     </a>
-    <a href="https://www.calendly.com/hamza-missaoui28" target="_blank">
-      <img src="https://img.shields.io/badge/Meeting-00D4A?logo=calendly&logoColor=white&color=black" alt="Calendly" />
-    </a>
-
 </div>
 
 ### 🚀 Professional Summary
