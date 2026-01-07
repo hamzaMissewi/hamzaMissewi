@@ -142,6 +142,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/render" width="48"/><br>Render</td>
     <td><img src="https://cdn.simpleicons.org/railway" width="48"/><br>Railway</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
+    <td><img alt="image" src="https://github.com/user-attachments/assets/ae838920-fdbc-4b34-a455-bf30a83f9656" width="48" /><br>AWS Amplify</td>
   </tr>
 
   <!-- ================= Dev Tools & Package Managers ================= -->
@@ -168,6 +169,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48"/><br>Matplotlib</td>
     <td><img src="https://cdn.simpleicons.org/scikitlearn" width="48"/><br>Scikit-Learn</td>
     <td><img src="https://cdn.simpleicons.org/jupyter" width="48"/><br>Jupyter</td>
+    <td><img src="https://cdn.simpleicons.org/apachehadoop" width="48"/><br>Hadoop</td>
   </tr>
 
   <!-- ================= OS & Infra ================= -->
@@ -175,14 +177,13 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td colspan="7" align="center"><b>🖥️ OS & Infrastructure</b></td>
   </tr>
   <tr align="center">
-    <!-- <td><img src="https://cdn.simpleicons.org/windows_server" width="48"/><br>Windows Server</td> -->
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows Server</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows</td>
     <td><img src="https://cdn.simpleicons.org/linux" width="48"/><br>Linux</td>
     <td><img src="https://cdn.simpleicons.org/ubuntu" width="48"/><br>Ubuntu</td>
     <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br></td>
     <td><img src="https://cdn.simpleicons.org/proxmox" width="48"/><br>ProxmoxVE</td>
     <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br>VirtualBox</td>
-    <td><img src="https://cdn.simpleicons.org/apachehadoop" width="48"/><br>Hadoop</td>
   </tr>
 
   <!-- ================= IDEs & Platforms ================= -->
