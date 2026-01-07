@@ -4,7 +4,6 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
-      <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> -->
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@hamzamissaoui.dev">
@@ -22,9 +21,6 @@
     <a href="https://hamza-mswi-website-2026.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio3-000000?logo=about.me&logoColor=white" alt="Portfolio3" />
     </a>
-    <!-- <a href="https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe" target="_blank">
-      <img src="https://img.shields.io/badge/Work/Projects-000000?logo=about.me&logoColor=white" alt="Project" />
-    </a> -->
     <a href="https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
     </a>
@@ -58,12 +54,8 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
 <div align="center">
   <div style="margin-top: 10px;">
-    <!-- <a href="https://github.com/hamzaMissewi?tab=repositories&sort=stargazers"> -->
       <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/>
-    <!-- </a>
-    <a href="https://github.com/hamzaMissewi"> -->
       <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/>
-    <!-- </a> -->
   </div>
   <br />
 
@@ -79,12 +71,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
 </div>
 <br />
-<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=hamzaMissewi&theme=dark&hide_border=false" width="80%" /> -->
-<!-- <div style="gap: 15px; display:flex; flex-direction: column; align-items:start"> -->
-<!-- <div style="gap: 10px; align-items: start; justify-content: center; display:flex"> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" width="70%" />
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" style="max-width: 45%; flex:1;height: 100%" /> -->
-<!-- </div> -->
 </div>
 
 ---
@@ -100,12 +87,10 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/javascript" width="38"/><br>JavaScript</td>
     <td><img src="https://cdn.simpleicons.org/typescript" width="38"/><br>Typescript</td>
     <td><img src="https://cdn.simpleicons.org/python" width="38"/><br>Python</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/c" width="38"/><br>C</td> -->
     <td><img src="https://cdn.simpleicons.org/c++" width="38"/><br>C++</td>
     <td><img src="https://cdn.simpleicons.org/c#" width="38"/><br>C#</td>
     <td><img src="https://cdn.simpleicons.org/go" width="38"/><br>Go</td>
     <td><img src="https://cdn.simpleicons.org/ruby" width="28"/><br>Ruby</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gnubash" width="48"/><br>Bash</td> -->
   </tr>
 
   <!-- ================= AI / LLM / ML ================= -->
@@ -129,9 +114,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td>
     <td><img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>FastAPI</td>
     <!-- <td><img src="https://cdn.simpleicons.org/aspnetcore" width="48"/><br>Asp.Net Core</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/gradio" width="48"/><br>Gradio</td> -->
     <td><img src="https://cdn.simpleicons.org/graphql" width="48"/><br>GraphQL</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gunicorn" width="48"/><br>Gunicorn</td> -->
     <td><img src="https://cdn.simpleicons.org/n8n" width="48"/><br>n8n</td>
     <td><img src="https://cdn.simpleicons.org/selenium" width="48"/><br>Selenium</td>
   </tr>
@@ -146,7 +129,6 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/postgresql" width="48"/><br>PostgreSQL</td>
     <td><img src="https://cdn.simpleicons.org/redis" width="48"/><br>Redis</td>
     <td><img src="https://cdn.simpleicons.org/supabase" width="48"/><br>Supabase</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/cockroachlabs" width="48"/><br>CockroachDB</td> -->
   </tr>
 
   <!-- ================= DevOps, Cloud & Deployment ================= -->
@@ -160,8 +142,6 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/render" width="48"/><br>Render</td>
     <td><img src="https://cdn.simpleicons.org/railway" width="48"/><br>Railway</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/amplify" width="48"/><br>AWS Amplify</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/pythonanywhere" width="48"/><br>PythonAnywhere</td> -->
   </tr>
 
   <!-- ================= Dev Tools & Package Managers ================= -->
@@ -171,10 +151,8 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/git" width="48"/><br>Git</td>
     <td><img src="https://cdn.simpleicons.org/github" width="48"/><br>GitHub</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gitlab" width="48"/><br>GitLab</td> -->
     <td><img src="https://cdn.simpleicons.org/bitbucket" width="48"/><br>Bitbucket</td>
     <td><img src="https://cdn.simpleicons.org/nginx" width="48"/><br>Nginx</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gitlfs" width="48"/><br>Git LFS</td> -->
     <td><img src="https://cdn.simpleicons.org/npm" width="48"/><br>NPM</td>
     <td><img src="https://cdn.simpleicons.org/pnpm" width="48"/><br>PNPM</td>
     <td><img src="https://cdn.simpleicons.org/pypi" width="48"/><br>PyPI</td>
@@ -190,8 +168,6 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48"/><br>Matplotlib</td>
     <td><img src="https://cdn.simpleicons.org/scikitlearn" width="48"/><br>Scikit-Learn</td>
     <td><img src="https://cdn.simpleicons.org/jupyter" width="48"/><br>Jupyter</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/kaggle" width="48"/><br>Kaggle</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/googlecolab" width="48"/><br>Colab</td> -->
   </tr>
 
   <!-- ================= OS & Infra ================= -->
@@ -207,8 +183,6 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/proxmox" width="48"/><br>ProxmoxVE</td>
     <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br>VirtualBox</td>
     <td><img src="https://cdn.simpleicons.org/apachehadoop" width="48"/><br>Hadoop</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/onnx" width="48"/><br>ONNX</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/uv" width="48"/><br>uv</td> -->
   </tr>
 
   <!-- ================= IDEs & Platforms ================= -->
@@ -222,9 +196,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/cursor" width="48"/><br>Cursor</td>
     <td><img src="https://cdn.simpleicons.org/pycharm" width="48"/><br>PyCharm</td>
     <td><img src="https://cdn.simpleicons.org/intellijidea" width="48"/><br>IntelliJ</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/clion" width="48"/><br>CLion</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/eclipseide" width="48"/><br>Eclipse</td> -->
+    <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td>
   </tr>
 
 </table>
@@ -248,10 +220,6 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
 ---
 
-<!--
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,react,nextjs,nodejs,nestjs,sentry,jest,express,mongodb,mysql,tailwind,docker,redis,bullmq,prisma,firebase,supabase,fastapi,elasticsearch,postman,github,html,css,c#,cpp" height="90" alt="Tech Stack 1" />
-
---- -->
 
 ### 💼 Professional Experience
 
