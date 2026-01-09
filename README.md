@@ -88,10 +88,11 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td><img src="https://cdn.simpleicons.org/javascript" width="38"/><br>JavaScript</td>
     <td><img src="https://cdn.simpleicons.org/typescript" width="38"/><br>Typescript</td>
     <td><img src="https://cdn.simpleicons.org/python" width="38"/><br>Python</td>
-    <td><img src="https://cdn.simpleicons.org/c++" width="38"/><br>C++</td>
+      <td><img src="https://cdn.simpleicons.org/c++" width="38"/><br>C++</td>
     <td><img src="https://cdn.simpleicons.org/c#" width="38"/><br>C#</td>
     <td><img src="https://cdn.simpleicons.org/go" width="38"/><br>Go</td>
-    <td><img src="https://cdn.simpleicons.org/ruby" width="28"/><br>Ruby</td>
+    <td><img src="https://cdn.simpleicons.org/java" width="38"/><br>Java</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/ruby" width="28"/><br>Ruby</td> -->
   </tr>
 
 
@@ -103,6 +104,7 @@ PostgreSQL, WebSocket, and integrating AI features.
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/openai" width="48"/><br>Chatgpt</td>
     <td><img src="https://cdn.simpleicons.org/anthropic" width="48"/><br>Anthropic</td>
+          <td><img src="https://cdn.simpleicons.org/deepseek" width="48"/><br>Deepseek</td>
     <!-- <td><img src="https://cdn.simpleicons.org/gemini-ai" width="48"/><br>Gemini</td> -->
     <td><img src="https://cdn.simpleicons.org/tensorflow" width="48"/><br>TensorFlow</td>
     <td><img src="https://cdn.simpleicons.org/pytorch" width="48"/><br>PyTorch</td>
@@ -121,6 +123,8 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td><img src="https://cdn.simpleicons.org/nestjs" width="48"/><br>Nestjs</td>
     <td><img src="https://cdn.simpleicons.org/django" width="48"/><br>Django</td>
     <td><img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>FastAPI</td>
+    <td><img src="https://github.com/user-attachments/assets/1a61cdaf-b54a-48d0-acd5-ba1c03713a6a" width="48" /><br>Asp.NetCore</td>
+
     <!-- <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td> -->
     <!-- <td><img src="https://cdn.simpleicons.org/aspcore" width="48"/><br>Asp.Net Core</td> -->
   </tr>
@@ -147,7 +151,8 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td><img src="https://cdn.simpleicons.org/postgresql" width="48"/><br>PostgreSQL</td>
     <td><img src="https://cdn.simpleicons.org/redis" width="48"/><br>Redis</td>
     <td><img src="https://cdn.simpleicons.org/supabase" width="48"/><br>Supabase</td>
-    <td><img src="https://cdn.simpleicons.org/prisma" width="48"/><br>Prisma</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/neon" width="48"/><br>Neon</td> -->
+      <td><img src="https://cdn.simpleicons.org/prisma" width="48"/><br>Prisma</td>
   </tr>
 
   <!-- ================= DevOps, Cloud & Deployment ================= -->
