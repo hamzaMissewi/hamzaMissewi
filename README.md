@@ -62,7 +62,7 @@ PostgreSQL, WebSocket, and integrating AI features.
 
 <div align="center">
   <!-- <div style="margin-top: 10px;"> -->
-      <!-- <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/> -->
+      <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/>
       <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/>
   <!-- </div> -->
 
