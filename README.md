@@ -44,19 +44,19 @@ building resilient backends and responsive frontends for thousands of users, wit
 automation, monitoring, observability, and search optimization. Proficient in TypeScript, Next.js, React, Node.js, MongoDB,
 PostgreSQL, WebSocket, and integrating AI features.
 
-### Spoken Languages
+### 🌍 Spoken Languages
 
-- 🌍 Arabic: Native • English: Fluent • French: Fluent • German: Basic
+- Arabic: Native • English: Fluent • French: Fluent • German: Basic
 
-#### 🎯 Key Impact
+<!-- #### 🎯 Key Impact
 
 - 🏗️ **Architected** a digital signage platform supporting **10,000+ displays** and **1,000+ users including big companies for b2b businesses**.
 - 📉 **Optimized** infrastructure costs by **40%** through advanced containerization and auto-scaling strategies.
 - ⚡ **Enhanced** performance by migrating 100+ endpoints to **GraphQL**, reducing payload sizes by **35%**.
 - 🛠️ **Automated** CI/CD pipelines, slashing deployment times by **60%**.
-- 📊 **Monitored** cloud resources, ensuring **99.99% uptime** and **zero downtime**.
+- 📊 **Monitored** cloud resources, ensuring **99.99% uptime** and **zero downtime**. -->
 
----
+<br />
 
 ### 📊 GitHub Stats
 
@@ -94,12 +94,16 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td><img src="https://cdn.simpleicons.org/ruby" width="28"/><br>Ruby</td>
   </tr>
 
+
   <!-- ================= AI / LLM / ML ================= -->
   <tr>
     <td colspan="7" align="left"><b>🤖 AI / LLM / Machine Learning</b></td>
   </tr>
 
   <tr align="center">
+    <td><img src="https://cdn.simpleicons.org/openai" width="48"/><br>Chatgpt</td>
+    <td><img src="https://cdn.simpleicons.org/anthropic" width="48"/><br>Anthropic</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/gemini-ai" width="48"/><br>Gemini</td> -->
     <td><img src="https://cdn.simpleicons.org/tensorflow" width="48"/><br>TensorFlow</td>
     <td><img src="https://cdn.simpleicons.org/pytorch" width="48"/><br>PyTorch</td>
     <td><img src="https://cdn.simpleicons.org/langchain" width="48"/><br>LangChain</td>
@@ -112,10 +116,23 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td colspan="7" align="left"><b>⚙️ Backend, APIs & Automation</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td>
+    <td><img src="https://cdn.simpleicons.org/express" width="48"/><br>Express</td>
+    <td><img src="https://cdn.simpleicons.org/koa" width="48"/><br>Koa</td>
+    <td><img src="https://cdn.simpleicons.org/nestjs" width="48"/><br>Nestjs</td>
+    <td><img src="https://cdn.simpleicons.org/django" width="48"/><br>Django</td>
     <td><img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>FastAPI</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/aspnetcore" width="48"/><br>Asp.Net Core</td> -->
-    <td><img src="https://cdn.simpleicons.org/graphql" width="48"/><br>GraphQL</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td> -->
+    <!-- <td><img src="https://cdn.simpleicons.org/aspcore" width="48"/><br>Asp.Net Core</td> -->
+  </tr>
+
+
+  <tr>
+    <td colspan="7" align="left"><b>⚙️ APIs & Automation</b></td>
+  </tr>
+  <tr align="center">
+     <td><img src="https://cdn.simpleicons.org/graphql" width="48"/><br>GraphQL</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/restapi" width="48"/><br>Rest API</td> -->
+    <td><img src="https://cdn.simpleicons.org/socket.io" width="48"/><br>WebSocket</td>
     <td><img src="https://cdn.simpleicons.org/n8n" width="48"/><br>n8n</td>
     <td><img src="https://cdn.simpleicons.org/selenium" width="48"/><br>Selenium</td>
   </tr>
@@ -130,6 +147,7 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td><img src="https://cdn.simpleicons.org/postgresql" width="48"/><br>PostgreSQL</td>
     <td><img src="https://cdn.simpleicons.org/redis" width="48"/><br>Redis</td>
     <td><img src="https://cdn.simpleicons.org/supabase" width="48"/><br>Supabase</td>
+    <td><img src="https://cdn.simpleicons.org/prisma" width="48"/><br>Prisma</td>
   </tr>
 
   <!-- ================= DevOps, Cloud & Deployment ================= -->
@@ -155,6 +173,7 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td><img src="https://cdn.simpleicons.org/github" width="48"/><br>GitHub</td>
     <td><img src="https://cdn.simpleicons.org/bitbucket" width="48"/><br>Bitbucket</td>
     <td><img src="https://cdn.simpleicons.org/nginx" width="48"/><br>Nginx</td>
+    <td><img src="https://cdn.simpleicons.org/yarn" width="48"/><br>Yarn</td>
     <td><img src="https://cdn.simpleicons.org/npm" width="48"/><br>NPM</td>
     <td><img src="https://cdn.simpleicons.org/pnpm" width="48"/><br>PNPM</td>
     <td><img src="https://cdn.simpleicons.org/pypi" width="48"/><br>PyPI</td>
@@ -178,13 +197,12 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td colspan="7" align="left"><b>🖥️ OS & Infrastructure</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows Server</td>
+    <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Win Server</td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows</td>
     <td><img src="https://cdn.simpleicons.org/linux" width="48"/><br>Linux</td>
     <td><img src="https://cdn.simpleicons.org/ubuntu" width="48"/><br>Ubuntu</td>
-    <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br></td>
-    <td><img src="https://cdn.simpleicons.org/proxmox" width="48"/><br>ProxmoxVE</td>
     <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br>VirtualBox</td>
+    <td><img src="https://cdn.simpleicons.org/proxmox" width="48"/><br>ProxmoxVE</td>
   </tr>
 
   <!-- ================= IDEs & Platforms ================= -->
@@ -192,13 +210,13 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td colspan="7" align="left"><b>💻 IDEs & Platforms</b></td>
   </tr>
   <tr align="center">
+    <td><img src="https://cdn.simpleicons.org/cursor" width="48"/><br>Cursor</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
     <td><img src="https://cdn.simpleicons.org/webstorm" width="48"/><br>WebStorm</td>
     <td><img src="https://cdn.simpleicons.org/windsurf" width="48"/><br>Windsurf</td>
-    <td><img src="https://cdn.simpleicons.org/cursor" width="48"/><br>Cursor</td>
-    <td><img src="https://cdn.simpleicons.org/pycharm" width="48"/><br>PyCharm</td>
     <td><img src="https://cdn.simpleicons.org/intellijidea" width="48"/><br>IntelliJ</td>
-    <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td>
+    <td><img src="https://cdn.simpleicons.org/pycharm" width="48"/><br>PyCharm</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td> -->
   </tr>
 
 </table>
@@ -208,7 +226,7 @@ PostgreSQL, WebSocket, and integrating AI features.
 <br />
 <div align="center">
   <p style="color: #00D4AA;"><strong>Frontend & Mobile</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,html,css,tailwind,mui,sass,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vuejs,html,css,tailwind,mui,sass,vite,figma" />
   
   <p style="color: #00D4AA; margin-top: 15px;"><strong>Backend & Logic</strong></p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,java,spring,cs,dotnet,go,php,graphql,apollo,sentry" />
