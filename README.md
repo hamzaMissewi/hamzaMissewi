@@ -243,33 +243,6 @@ PostgreSQL, WebSocket, and integrating AI features.
 
 ---
 
-### 💼 Professional Experience
-
-#### **Full-Stack Developer / Freelancer**
-
-_Remote | Oct 2025 – Dec 2025_
-
-- Built a crypto currencies analytics platform, connecting wallet, price prediction, advanced charts, following balances
-- Ensured immediate access to critical market movements and prediction metrics
-
-#### **Cloud & Full-Stack Engineer** | Go-Makkah Agency
-
-_Remote | Aug 2025 – Oct 2025_
-
-- Orchestrated cloud migration to AWS/GCP using Terraform (IaC).
-- Optimized cloud resources, resulting in a **30% cost reduction**.
-- Set up enterprise monitoring via Prometheus, Grafana, and ELK.
-
-#### **Full-Stack Web & Cloud Developer** | B2B-Alive Ltd
-
-_London, UK (Remote) | Jan 2022 – Jun 2025_
-
-- Led development of a multi-tenant cloud signage platform.
-- Implemented real-time sync with WebSockets and Redis Pub/Sub.
-- Architected microservices with Node.js, Python, and .NET Core.
-
----
-
 ### 🏆 Featured Projects & Work
 
 <div align="center" style="margin-bottom: 20px;">
