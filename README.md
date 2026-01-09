@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Hamza Missaoui
+# 👋 Hey, I'm Hamza Missaoui
 
-<h2 style="color: #00D4AA">Software Engineer | Full-Stack Cloud Developer | AI/ML Specialist</h2>
+<h2 style="color: #00D4AA">Software Engineer | Full-Stack Web Developer | Cloud Architect | AI Specialist</h2>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
@@ -18,23 +18,35 @@
      <a href="https://www.hamzamissaoui.online" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio2-000000?logo=about.me&logoColor=white" alt="Portfolio2" />
     </a>
-    <a href="https://hamza-mswi-website-2026.vercel.app" target="_blank">
+    <a href="https://hamzamissaoui.online" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio3-000000?logo=about.me&logoColor=white" alt="Portfolio3" />
     </a>
-    <a href="https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe" target="_blank">
+     <a href="https://hamza-ai-website.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio4-000000?logo=about.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
     </a>
+     <a href="behance.net/hamzamissaoui3?isa0=1" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-0077B5?logo=behance&logoColor=white" alt="Behance" />
+    </a>
+
 </div>
 
 ### 🚀 Professional Summary
 
-Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** with **4 years** of experience in crafting scalable, cloud-native ecosystems. I specialize in **Typescript**, **MERN Stack**, **React.js**, **Next.js**, **React Native**, **GraphQL**, **Apollo**, **Python** and more technologies, with a deep focus on **AWS, Azure, and GCP**. My passion lies at the intersection of robust backend architecture and intuitive, AI-driven frontend experiences.
+<!-- Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** with **4 years** of experience in crafting scalable, cloud-native ecosystems. I specialize in **Typescript**, **MERN Stack**, **React.js**, **Next.js**, **React Native**, **GraphQL**, **Apollo**, **Python** and more technologies, with a deep focus on **AWS, Azure, and GCP**. My passion lies at the intersection of robust backend architecture and intuitive, AI-driven frontend experiences. -->
+
+Full-Stack Developer with 4 years of experience designing, developing, and deploying scalable SaaS and cloud-native web and
+mobile applications. Expertise spans e-commerce, data visualization, booking platforms, and marketing technology. Implements
+high-performance solutions using concurrent processing, Redis caching, microservices, and containerization (Docker). Skilled in
+building resilient backends and responsive frontends for thousands of users, with a strong focus on DevOps practices, CI/CD
+automation, monitoring, observability, and search optimization. Proficient in TypeScript, Next.js, React, Node.js, MongoDB,
+PostgreSQL, WebSocket, and integrating AI features.
 
 ### Spoken Languages
 
-<li>
-  🌍 Arabic: Native • English: Fluent (C1) • French: Fluent (C1) • German: Basic (A1)
-</li>
+- 🌍 Arabic: Native • English: Fluent • French: Fluent • German: Basic
 
 #### 🎯 Key Impact
 
@@ -49,25 +61,18 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 ### 📊 GitHub Stats
 
 <div align="center">
-  <div style="margin-top: 10px;">
-      <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/>
+  <!-- <div style="margin-top: 10px;"> -->
+      <!-- <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/> -->
       <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/>
-  </div>
-  <br />
+  <!-- </div> -->
 
-<!-- ![Hamza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi) -->
-
-<!-- ![Hamza's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak) -->
-
-<div style="gap: 10px; align-items: start; justify-content: center; display:flex">
-<div style="gap: 5px; flex-direction: column; display:flex">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" />
-</div>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
-</div>
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" width="70%" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" /> -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" />
 </div>
 
 ---
@@ -77,7 +82,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 <table align="center">
   <!-- ================= Programming & Scripting ================= -->
   <tr>
-    <td colspan="7" align="center"><b> 🖥️ Programming & Scripting</b></td>
+    <td colspan="7" align="left"><b> 🖥️ Programming & Scripting</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/javascript" width="38"/><br>JavaScript</td>
@@ -91,7 +96,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= AI / LLM / ML ================= -->
   <tr>
-    <td colspan="7" align="center"><b>🤖 AI / LLM / Machine Learning</b></td>
+    <td colspan="7" align="left"><b>🤖 AI / LLM / Machine Learning</b></td>
   </tr>
 
   <tr align="center">
@@ -104,7 +109,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= Backend, APIs & Automation ================= -->
   <tr>
-    <td colspan="7" align="center"><b>⚙️ Backend, APIs & Automation</b></td>
+    <td colspan="7" align="left"><b>⚙️ Backend, APIs & Automation</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td>
@@ -117,7 +122,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= Databases ================= -->
   <tr>
-    <td colspan="7" align="center"><b>💾 Databases</b></td>
+    <td colspan="7" align="left"><b>💾 Databases</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/mongodb" width="48"/><br>Mongodb</td>
@@ -129,7 +134,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= DevOps, Cloud & Deployment ================= -->
   <tr>
-    <td colspan="7" align="center"><b>☁️ DevOps, Cloud & Deployment</b></td>
+    <td colspan="7" align="left"><b>☁️ DevOps, Cloud & Deployment</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/docker" width="48"/><br>Docker</td>
@@ -143,7 +148,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= Dev Tools & Package Managers ================= -->
   <tr>
-    <td colspan="7" align="center"><b>🧰 Dev Tools & Package Managers</b></td>
+    <td colspan="7" align="left"><b>🧰 Dev Tools & Package Managers</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/git" width="48"/><br>Git</td>
@@ -157,7 +162,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
  <!-- ================= Data Science & Analytics ================= -->
   <tr>
-    <td colspan="7" align="center"><b>📊 Data Science & Analytics</b></td>
+    <td colspan="7" align="left"><b>📊 Data Science & Analytics</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/numpy" width="48"/><br>NumPy</td>
@@ -170,7 +175,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= OS & Infra ================= -->
   <tr>
-    <td colspan="7" align="center"><b>🖥️ OS & Infrastructure</b></td>
+    <td colspan="7" align="left"><b>🖥️ OS & Infrastructure</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows Server</td>
@@ -184,7 +189,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= IDEs & Platforms ================= -->
   <tr>
-    <td colspan="7" align="center"><b>💻 IDEs & Platforms</b></td>
+    <td colspan="7" align="left"><b>💻 IDEs & Platforms</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
@@ -217,7 +222,6 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
 ---
 
-
 ### 💼 Professional Experience
 
 #### **Full-Stack Developer / Freelancer**
@@ -249,7 +253,7 @@ _London, UK (Remote) | Jan 2022 – Jun 2025_
 
 <div align="center" style="margin-bottom: 20px;">
 
-### 💫 [Website 1](https://www.hamzamissaoui.dev) | [Website 2](https://www.hamzamissaoui.online) | [More Projects](https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe)
+### 💫 [Website 1](https://www.hamzamissaoui.dev) | [Website 2](https://www.hamzamissaoui.online) | [More Projects](https://link.hamzamissaoui.dev/projects)
 
 </div>
 
@@ -259,7 +263,7 @@ _London, UK (Remote) | Jan 2022 – Jun 2025_
 | **🛒 E-commerce**      | [Crypto Trading Platform](https://hamza-crypto-trading-platform.vercel.app) • [Advanced GenAI E-comm](https://hamza-advanced-ecommerce-app-genai.vercel.app) • [Sanity E-comm](https://hamza-missaoui-ecommerce-app.vercel.app) |
 | **💬 Social & Web**    | [Slack Clone](https://hamza-slack-clone.vercel.app) • [Real-time Video Chat](https://angular-real-time-video-chat.vercel.app) • [Spotify Clone](https://hamza-spotiy-clone-app.vercel.app)                                      |
 | **📊 Analytics**       | [ML Analytics Dashboard](https://hamza-machine-learning-analytics-dashboard.vercel.app) • [OS System Info](https://hamza-os-system-infos.vercel.app) • [Weather App](https://hamza-weather-app-charts.vercel.app)               |
-| **💼 Work & Projects** | [Work & Projects](https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe)                                                                                                                                        |
+| **💼 Work & Projects** | [Work & Projects](https://link.hamzamissaoui.dev/projects)                                                                                                                                                                      |
 
 ---
 
