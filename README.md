@@ -124,9 +124,7 @@ PostgreSQL, WebSocket, and integrating AI features.
     <td><img src="https://cdn.simpleicons.org/django" width="48"/><br>Django</td>
     <td><img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>FastAPI</td>
     <td><img src="https://github.com/user-attachments/assets/1a61cdaf-b54a-48d0-acd5-ba1c03713a6a" width="48" /><br>Asp.NetCore</td>
-
-    <!-- <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/aspcore" width="48"/><br>Asp.Net Core</td> -->
+    <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td>
   </tr>
 
 
