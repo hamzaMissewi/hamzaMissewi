@@ -62,17 +62,22 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
+
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" />
+
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" width="70%" />
 
 <br />
-  <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/>
+
+<img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/>
+
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/>
 </div>
 <br />
 
-## 🛠️ Technical Skills & Tools
+### <h2>🛠️ Technical Skills & Tools</h2>
 
 <table align="center">
   <!-- ================= Programming & Scripting ================= -->
@@ -93,9 +98,9 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
     <td colspan="7" align="left"><b>🤖 AI / LLM / Machine Learning</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.simpleicons.org/openai" width="48"/><br>Chatgpt</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/openai" width="48"/><br>Chatgpt</td> -->
     <td><img src="https://cdn.simpleicons.org/anthropic" width="48"/><br>Anthropic</td>
-          <!-- <td><img src="https://cdn.simpleicons.org/deepseek" width="48"/><br>Deepseek</td> -->
+    <!-- <td><img src="https://cdn.simpleicons.org/deepseek" width="48"/><br>Deepseek</td> -->
     <!-- <td><img src="https://cdn.simpleicons.org/geminiai" width="48"/><br>Gemini</td> -->
     <td><img src="https://cdn.simpleicons.org/tensorflow" width="48"/><br>TensorFlow</td>
     <td><img src="https://cdn.simpleicons.org/pytorch" width="48"/><br>PyTorch</td>
@@ -210,29 +215,31 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 ## </table>
 
 <br />
-<div align="center">
-  <p style="color: #00D4AA;"><strong>Frontend & Mobile</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vuejs,html,css,tailwind,mui,sass,vite,figma" />
-  
-  <p style="color: #00D4AA; margin-top: 15px;"><strong>Backend & Logic</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,java,spring,cs,dotnet,go,php,graphql,apollo,sentry" />
 
-  <p style="color: #00D4AA; margin-top: 15px;"><strong>Cloud, DevOps & Infrastructure</strong></p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,bitbucket,nginx,prometheus,grafana,elasticsearch,elk" />
+  <p style="color: #00D4AA;"><strong>Technical Skills</strong></p>
+<div align="left">
+  <!-- <p style="color: #00D4AA;"><strong>Frontend & Mobile</strong></p> -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,flutter,vuejs,html,css,tailwind,mui,sass" />
   
-  <p style="color: #00D4AA; margin-top: 15px;"><strong>Databases & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,firebase,supabase,postman,jest,git,github,notion,webstorm,vscode" />
+  <!-- <p style="color: #00D4AA; margin-top: 15px;"><strong>Backend & Logic</strong></p> -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,spring,c,cs,dotnet,go,php,graphql,apollo,sentry" />
+
+  <!-- <p style="color: #00D4AA; margin-top: 15px;"><strong>Cloud, DevOps & Infrastructure</strong></p> -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,bitbucket,nginx,prometheus,grafana,elasticsearch" />
+  
+  <!-- <p style="color: #00D4AA; margin-top: 15px;"><strong>Databases & Tools</strong></p> -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,firebase,supabase,postman,jest,git,github,notion,webstorm,vscode" />
 </div>
 
 <br />
 
 ## 🧑‍💼 Projects & Work
 
-<div align="center" style="margin-bottom: 20px;">
+<!-- <div align="center" style="margin-bottom: 20px;"> -->
 
 ### 💫 [Website 1](https://www.hamzamissaoui.dev) | [Website 2](https://www.hamzamissaoui.online) | [More Projects](https://link.hamzamissaoui.dev/projects)
 
-</div>
+<!-- </div> -->
 
 <!-- | Category               | Top Projects                                                                                                                                                                                                                    |
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -244,21 +251,21 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 <br />
 
-## 🎓 Certifications & Hall of Fame
+## 🎓 Certifications
 
-<div align="center">
-  <p style="color: #64FFDA;"><strong>Cloud & AI (2025)</strong></p>
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<div align="left">
+  <!-- <p style="color: #64FFDA;"><strong>Cloud & AI (2025)</strong></p> -->
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-Associate_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Azure-Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/IBM-Full Stack Software Developer Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure-Developer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Databricks-Gen_AI_Developer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Databricks-Associate Developer, ML At Scale,-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-Generative_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-  <p style="color: #64FFDA; margin-top: 15px;"><strong>Cybersecurity & Engineering</strong></p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript_Python_React-black?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <!-- <p style="color: #64FFDA; margin-top: 15px;"><strong>Cybersecurity & Engineering</strong></p> -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Cisco-CCNA 1 & 2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Data Analytics, Intro to Cybersecurity, Python Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript_Python_React_SQL_REDIS-black?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </div>
 
 <div align="center" style="margin-top: 30px;">
