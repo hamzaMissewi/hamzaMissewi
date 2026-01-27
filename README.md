@@ -7,7 +7,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@hamzamissaoui.dev">
-      <img src="https://img.shields.io/badge/Business_Email-D14836?logo=zoho&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email1-D14836?logo=zoho&logoColor=white" alt="Email" />
+    </a>
+    <a href="mailto:contact@hamzamissaoui.online">
+      <img src="https://img.shields.io/badge/Email2-D14836?logo=zoho&logoColor=white" alt="Email" />
     </a>
      <a href="mailto:hamza.missaoui28@gmail.com">
       <img src="https://img.shields.io/badge/Perso_Email-D14836?logo=gmail&logoColor=white" alt="Email" />
