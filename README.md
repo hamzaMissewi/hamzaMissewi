@@ -7,16 +7,16 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@hamzamissaoui.dev">
-      <img src="https://img.shields.io/badge/Email1-D14836?logo=zoho&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?logo=zoho&logoColor=white" alt="Email" />
     </a>
     <a href="mailto:contact@hamzamissaoui.online">
       <img src="https://img.shields.io/badge/Email2-D14836?logo=zoho&logoColor=white" alt="Email" />
     </a>
      <a href="mailto:hamza.missaoui28@gmail.com">
-      <img src="https://img.shields.io/badge/Perso_Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Personal_Email-D14836?logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.hamzamissaoui.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Main_Website-000000?logo=about.me&logoColor=white" alt="Portfolio" />
     </a>
      <a href="https://www.hamzamissaoui.online" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio2-000000?logo=about.me&logoColor=white" alt="Portfolio2" />
@@ -231,10 +231,6 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
   <!-- <p style="color: #00D4AA; margin-top: 15px;"><strong>Databases & Tools</strong></p> -->
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,firebase,supabase,postman,jest,git,github,notion,webstorm,vscode" />
 </div>
-
-<br />
-
-### 💫 [Website](https://www.hamzamissaoui.dev)
 
 
 <!-- <div align="left">
