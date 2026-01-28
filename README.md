@@ -234,23 +234,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 <br />
 
-  <!-- ## 🧑‍💼 Projects & Work -->
-
-<!-- <div align="center" style="margin-bottom: 20px;"> -->
-
-### Projects & Work 💫 [Website](https://www.hamzamissaoui.dev) | [More Projects](https://link.hamzamissaoui.dev/hamza-work)
-
-<!-- </div> -->
-
-<!-- | Category               | Top Projects                                                                                                                                                                                                                    |
-| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **🤖 AI & ML**         | [Advanced Chatbot](https://hamza-advanced-chatbot.vercel.app) • [AI Resume Builder](https://hamza-ai-resume-builder.vercel.app) • [Web3 Analytics](https://hamza-web3-analytics.vercel.app)                                     |
-| **🛒 E-commerce**      | [Crypto Trading Platform](https://hamza-crypto-trading-platform.vercel.app) • [Advanced GenAI E-comm](https://hamza-advanced-ecommerce-app-genai.vercel.app) • [Sanity E-comm](https://hamza-missaoui-ecommerce-app.vercel.app) |
-| **💬 Social & Web**    | [Slack Clone](https://hamza-slack-clone.vercel.app) • [Real-time Chat](https://angular-real-time-video-chat.vercel.app) • [Spotify Clone](https://hamza-spotiy-clone-app.vercel.app)                                            |
-| **📊 Analytics**       | [ML Analytics Dashboard](https://hamza-machine-learning-analytics-dashboard.vercel.app) • [OS System Info](https://hamza-os-system-infos.vercel.app)                                                                            |
-| **💼 Work & Projects** | [Work & Projects](https://link.hamzamissaoui.dev/projects)                                                                                                                                                                      | -->
-
-<br />
+### 💫 [Website](https://www.hamzamissaoui.dev)
 
 
 <!-- <div align="left">
