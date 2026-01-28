@@ -70,7 +70,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" width="70%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" width="70%" /> -->
 
 <br />
 
