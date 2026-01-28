@@ -68,8 +68,8 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 <!-- <br /> -->
 
 <div items="center" align="center" style="display: flex; flex-direction: column">
-<!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" /> -->
-
+    
+<img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
 
