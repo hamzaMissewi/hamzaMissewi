@@ -64,7 +64,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" /> -->
 
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" />
 
