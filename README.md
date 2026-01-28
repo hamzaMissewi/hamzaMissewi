@@ -79,7 +79,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 <br />
 
-### <h2>🛠️ Technical Skills & Tools</h2>
+## <h2 style="color: #00D4AA;">🛠️ Technical Skills & Tools</h2>
 
 <table align="center">
   <!-- ================= Programming & Scripting ================= -->
@@ -214,11 +214,10 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
     <!-- <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td> -->
   </tr>
 
-## </table>
+</table>
 
 <br />
 
-  <p style="color: #00D4AA;"><strong>Technical Skills</strong></p>
 <div align="left">
   <!-- <p style="color: #00D4AA;"><strong>Frontend & Mobile</strong></p> -->
   <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,flutter,vuejs,html,css,tailwind,mui,sass" />
