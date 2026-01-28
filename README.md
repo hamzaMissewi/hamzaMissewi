@@ -253,10 +253,9 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 <br />
 
-## 🎓 Certifications
 
-<div align="left">
-  <!-- <p style="color: #64FFDA;"><strong>Cloud & AI (2025)</strong></p> -->
+<!-- <div align="left">
+## 🎓 Certifications
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-Associate_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/IBM-Full Stack Software Developer Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -264,13 +263,12 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
   <br/>
   <img src="https://custom-icon-badges.demolab.com/badge/Databricks-Associate Developer, ML At Scale,-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-Generative_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <!-- <p style="color: #64FFDA; margin-top: 15px;"><strong>Cybersecurity & Engineering</strong></p> -->
   <img src="https://custom-icon-badges.demolab.com/badge/Cisco-CCNA 1 & 2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Data Analytics, Intro to Cybersecurity, Python Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript_Python_React_SQL_REDIS-black?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</div>
+</div> -->
 
-<div align="center" style="margin-top: 30px;">
+<!-- <div align="center" style="margin-top: 30px;">
   <p>💡 <em>Always open to interesting conversations and collaboration opportunities!</em></p>
   <strong style="color: #64FFDA;">Let's build something amazing together! 🚀</strong>
-</div>
+</div> -->
