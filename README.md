@@ -234,11 +234,11 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 <br />
 
-## 🧑‍💼 Projects & Work
+  <!-- ## 🧑‍💼 Projects & Work -->
 
 <!-- <div align="center" style="margin-bottom: 20px;"> -->
 
-### 💫 [Website](https://www.hamzamissaoui.dev) | [More Projects](https://link.hamzamissaoui.dev/hamza-work)
+### Projects & Work 💫 [Website](https://www.hamzamissaoui.dev) | [More Projects](https://link.hamzamissaoui.dev/hamza-work)
 
 <!-- </div> -->
 
