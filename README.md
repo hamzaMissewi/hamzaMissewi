@@ -56,7 +56,6 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 - **Website**: https://hamzamissaoui.dev 
 - **Projects**: https://link.hamzamissaoui.dev/hamza-work
-- **Linktree**: https://linktr.ee/hamza_missaoui
 - **LinkedIn**: https://www.linkedin.com/in/hamza-missewi
 - **HackerRank**: https://www.hackerrank.com/profile/hamza_missaoui47
 - **Email**: contact@hamzamissaoui.dev
