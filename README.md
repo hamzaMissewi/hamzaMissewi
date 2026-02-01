@@ -54,8 +54,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
 ## <div align="left" style="color: #00D4AA;">🌐 Socials:</div>
 
-- **Website**: https://hamzamissaoui.dev 
-- **Projects**: https://link.hamzamissaoui.dev/hamza-work
+- **Website**: https://www.hamzamissaoui.dev 
 - **LinkedIn**: https://www.linkedin.com/in/hamza-missewi
 - **HackerRank**: https://www.hackerrank.com/profile/hamza_missaoui47
 - **Email**: contact@hamzamissaoui.dev
@@ -96,6 +95,8 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
       <td><img src="https://cdn.simpleicons.org/c++" width="38"/><br>C++</td>
     <td><img src="https://cdn.simpleicons.org/c#" width="38"/><br>C#</td>
     <td><img src="https://cdn.simpleicons.org/go" width="38"/><br>Go</td>
+    <td><img src="https://cdn.simpleicons.org/rust" width="38"/><br>Rust</td>
+
     <!-- <td><img src="https://cdn.simpleicons.org/java" width="38"/><br>Java</td> -->
   </tr>
   <!-- ================= AI / LLM / ML ================= -->
