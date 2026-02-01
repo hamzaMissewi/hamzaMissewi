@@ -45,18 +45,23 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 - Skilled in building resilient backends and responsive frontends for thousands of users, with a strong focus on DevOps practices, CI/CD automation, monitoring, observability, and search optimization.
 - Specialized in **Typescript**, **MERN Stack**, **React.js**, **Next.js**, **GraphQL/Apollo**, **Python**, **Fine-tune LLMs**, **Ollama**, **LangChain**, **ModelContextProtocol**, and more, with using of cloud architectures: **AWS, Azure, and GCP**.
 - My passion lies at the intersection of robust backend architecture and intuitive, AI-driven frontend experiences.
-
-#### 🎯 Few of Key Impact
-
-- 🏗️ **Architected** a digital signage platform supporting **10,000+ displays** and **1,000+ users including big companies for b2b businesses**.
-- 📉 **Optimized** infrastructure costs by **40%** through advanced containerization and auto-scaling strategies.
-- ⚡ **Enhanced** performance by migrating 100+ endpoints to **GraphQL**, reducing payload sizes by **35%**.
-- 🛠️ **Automated** CI/CD pipelines, slashing deployment times by **60%**.
-- 📊 **Monitored** cloud resources, ensuring **99.99% uptime** and **zero downtime**.
+  
 
 ### 🌍 Spoken Languages
 
 - English: Professional (C1) • French: Professional (C1) • German: Basic (A1) • Arabic: Native
+
+
+## <div align="left" style="color: #00D4AA;">🌐 Socials:</div>
+
+- **Website**: https://hamzamissaoui.dev 
+- **Projects**: https://link.hamzamissaoui.dev/hamza-work
+- **Linktree**: https://linktr.ee/hamza_missaoui
+- **LinkedIn**: https://www.linkedin.com/in/hamza-missewi
+- **GitHub**: https://github.com/hamzaMissewi
+- **HackerRank**: https://www.hackerrank.com/profile/hamza_missaoui47
+- **Email**: hamza.missaoui28@gmail.com
+
 
 <br />
 
