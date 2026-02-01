@@ -3,90 +3,66 @@
 <h2 style="color: #00D4AA">Software Engineer | Full-Stack Web Developer | Cloud Architect | AI Specialist</h2>
 
 <div align="center">
+    <a href="https://www.hamzamissaoui.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Website-000000?logo=about.me&logoColor=white" alt="Website" />
+    </a>
     <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@hamzamissaoui.dev">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=zoho&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="mailto:contact@hamzamissaoui.online">
-      <img src="https://img.shields.io/badge/Email2-D14836?logo=zoho&logoColor=white" alt="Email" />
+    <a href="https://hamza-ai-website.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white" alt="Portfolio" />
     </a>
-     <a href="mailto:hamza.missaoui28@gmail.com">
-      <img src="https://img.shields.io/badge/Personal_Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.hamzamissaoui.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Main_Website-000000?logo=about.me&logoColor=white" alt="Portfolio" />
-    </a>
-     <a href="https://www.hamzamissaoui.online" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio2-000000?logo=about.me&logoColor=white" alt="Portfolio2" />
-    </a>
-    <a href="https://hamzamissaoui.online" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio3-000000?logo=about.me&logoColor=white" alt="Portfolio3" />
-    </a>
-     <a href="https://hamza-ai-website.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio4-000000?logo=about.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
+    <a href="https://link.hamzamissaoui.dev/hamza-work" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
     </a>
-     <!-- <a href="behance.net/hamzamissaoui3?isa0=1" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-0077B5?logo=behance&logoColor=white" alt="Behance" /> -->
-    </a>
-
 </div>
 
-### 🚀 Professional Summary
+###  <h2 align="left" style="color: #00D4AA;">🚀 About Me</h2>
 
-Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast** with **4+ years** of experience in developing, and deploying scalable SaaS and cloud-native web applications.
+Passionate **Software Engineer** with **4+ years** of experience building scalable SaaS applications and innovative cloud solutions. I specialize in creating robust backend architectures and intuitive AI-driven frontend experiences that solve real-world problems.
 
-- Expertise spans e-commerce, data visualization, booking platforms, and marketing technology.
-- Implements high-performance solutions using concurrent processing, Redis caching, microservices, and containerization (Docker).
-- Skilled in building resilient backends and responsive frontends for thousands of users, with a strong focus on DevOps practices, CI/CD automation, monitoring, observability, and search optimization.
-- Specialized in **Typescript**, **MERN Stack**, **React.js**, **Next.js**, **GraphQL/Apollo**, **Python**, **Fine-tune LLMs**, **Ollama**, **LangChain**, **ModelContextProtocol**, and more, with using of cloud architectures: **AWS, Azure, and GCP**.
-- My passion lies at the intersection of robust backend architecture and intuitive, AI-driven frontend experiences.
+🎯 **What I do:**
+- Design and implement high-performance web applications serving thousands of users
+- Build cloud-native solutions with modern DevOps practices and CI/CD automation
+- Create AI-powered features that enhance user experience and business value
+- Lead end-to-end development from concept to deployment and monitoring
+
+🌟 **My approach:** I combine technical excellence with creative problem-solving to deliver solutions that not only work flawlessly but also provide exceptional user experiences.
   
 
-### 🌍 Spoken Languages
+###  <h2 align="left" style="color: #00D4AA;">🌍 Spoken Languages</h2>
 
-- English: Professional (C1) • French: Professional (C1) • German: Basic (A1) • Arabic: Native
-
-
-## <div align="left" style="color: #00D4AA;">🌐 Socials:</div>
-
-- **Website**: https://www.hamzamissaoui.dev 
-- **LinkedIn**: https://www.linkedin.com/in/hamza-missewi
-- **HackerRank**: https://www.hackerrank.com/profile/hamza_missaoui47
-- **Email**: contact@hamzamissaoui.dev
+- English: Advanced • French: Advanced • Arabic: Native • German: Basic 
 
 
+## <h2 align="left" style="color: #00D4AA;">🌐 Email / Links:</h2>
+
+- **Websites**: https://www.hamzamissaoui.dev | https://hamzamissaoui.dev
+- **LinkedIn**: https://www.linkedin.com/in/hamzamissaoui
+- **Emails**: contact@hamzamissaoui.dev | contact@hamzamissaoui.online
+
+
+##  <h2 align="left" style="color: #00D4AA;">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=320" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=320" height="150" />
+</div>
 <br />
-
-## 📊 GitHub Stats
-
-
-<!-- <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/> -->
-<!-- <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/> -->
-<!-- <br /> -->
-
-<div items="center" align="center" style="display: flex; flex-direction: column">
-    
-<img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" width="70%" /> -->
-
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&card_width=500" height="150" />
 </div>
 
-<br />
 
 ## <h2 style="color: #00D4AA;">🛠️ Technical Skills & Tools</h2>
 
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
   <!-- ================= Programming & Scripting ================= -->
   <tr>
-    <td colspan="7" align="left"><b> 🖥️ Programming & Scripting</b></td>
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b> 🖥️ Programming & Scripting</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/javascript" width="38"/><br>JS</td>
@@ -96,12 +72,10 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
     <td><img src="https://cdn.simpleicons.org/c#" width="38"/><br>C#</td>
     <td><img src="https://cdn.simpleicons.org/go" width="38"/><br>Go</td>
     <td><img src="https://cdn.simpleicons.org/rust" width="38"/><br>Rust</td>
-
-    <!-- <td><img src="https://cdn.simpleicons.org/java" width="38"/><br>Java</td> -->
   </tr>
   <!-- ================= AI / LLM / ML ================= -->
-  <tr>
-    <td colspan="7" align="left"><b>🤖 AI / LLM / Machine Learning</b></td>
+  <tr style="margin:8px 0;">
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>🤖 AI / LLM / ML</b></td>
   </tr>
   <tr align="center">
     <!-- <td><img src="https://cdn.simpleicons.org/openai" width="48"/><br>Chatgpt</td> -->
@@ -114,45 +88,53 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
     <td><img src="https://cdn.simpleicons.org/ollama" width="48"/><br>Ollama</td>
     <td><img src="https://cdn.simpleicons.org/modelcontextprotocol" width="48"/><br>MCP</td>
   </tr>
-  <!-- ================= Backend, APIs & Automation ================= -->
+  <!-- ================= Backend & APIs ================= -->
   <tr>
-    <td colspan="7" align="left"><b>⚙️ Backend, APIs & Automation</b></td>
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>⚙️ Backend & APIs</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.simpleicons.org/express" width="48"/><br>Express</td>
+    <td><img src="https://cdn.simpleicons.org/express" width="48"/><br>Node.js/Express</td>
     <td><img src="https://cdn.simpleicons.org/koa" width="48"/><br>Koa</td>
     <td><img src="https://cdn.simpleicons.org/nestjs" width="48"/><br>Nestjs</td>
     <td><img src="https://cdn.simpleicons.org/django" width="48"/><br>Django</td>
     <td><img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>FastAPI</td>
-    <td><img src="https://github.com/user-attachments/assets/1a61cdaf-b54a-48d0-acd5-ba1c03713a6a" width="48" /><br>Asp.NetCore</td>
-    <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td>
+    <td><img src="https://github.com/user-attachments/assets/1a61cdaf-b54a-48d0-acd5-ba1c03713a6a" width="48" /><br>.Net</td>
+    <td><img src="https://cdn.simpleicons.org/rust" width="48"/><br>Rust</td>
   </tr>
+  <!-- ================= Frontend ================= -->
   <tr>
-    <td colspan="7" align="left"><b>⚙️ APIs & Automation</b></td>
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>🎨 Frontend, UI & Automation</b></td>
   </tr>
   <tr align="center">
-     <td><img src="https://cdn.simpleicons.org/graphql" width="48"/><br>GraphQL</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/restapi" width="48"/><br>Rest API</td> -->
-    <td><img src="https://cdn.simpleicons.org/socket.io" width="48"/><br>WebSocket</td>
-    <td><img src="https://cdn.simpleicons.org/n8n" width="48"/><br>n8n</td>
-    <td><img src="https://cdn.simpleicons.org/selenium" width="48"/><br>Selenium</td>
+    <td><img src="https://cdn.simpleicons.org/react" width="60"/><br>React</td>
+    <td><img src="https://cdn.simpleicons.org/nextdotjs" width="60"/><br>Next.js</td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3yo2DK-0jFssUfEuWquejdxIAEK36BvGsg&s" width="50"/><br>Vite.js</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/vuedotjs" width="60"/><br>Vue.js</td> -->
+    <td><img src="https://cdn.simpleicons.org/html5" width="60"/><br>HTML5</td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKt_oGVTapoPP4URy85O8AfgA_mDUKWTLpWQ&s" width="60"/><br>Shadcn</td>
+    <td><img src="https://cdn.simpleicons.org/css" width="40"/><br>CSS</td>
+    <td><img src="https://cdn.simpleicons.org/tailwindcss" width="60"/><br>TailwindCss</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/sass" width="60"/><br>Sass</td> -->
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24yngytUOIN7kNfMS6jqCw6D8l3rgAPJrwQ&s" width="50"/><br>MUI</td>
   </tr>
   <!-- ================= Databases ================= -->
   <tr>
-    <td colspan="7" align="left"><b>💾 Databases</b></td>
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>💾 Databases & TypeORMs</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.simpleicons.org/mongodb" width="48"/><br>Mongodb</td>
-    <td><img src="https://cdn.simpleicons.org/mysql" width="48"/><br>MySQL</td>
-    <td><img src="https://cdn.simpleicons.org/postgresql" width="48"/><br>PostgreSQL</td>
-    <td><img src="https://cdn.simpleicons.org/redis" width="48"/><br>Redis</td>
-    <td><img src="https://cdn.simpleicons.org/supabase" width="48"/><br>Supabase</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/neon" width="48"/><br>Neon</td> -->
-      <td><img src="https://cdn.simpleicons.org/prisma" width="48"/><br>Prisma</td>
+    <td><img src="https://cdn.simpleicons.org/mongodb" width="60"/><br>MongoDB</td>
+    <td><img src="https://cdn.simpleicons.org/mysql" width="60"/><br>MySQL</td>
+    <td><img src="https://cdn.simpleicons.org/postgresql" width="60"/><br>PostgreSQL</td>
+    <td><img src="https://cdn.simpleicons.org/redis" width="60"/><br>Redis</td>
+    <td><img src="https://cdn.simpleicons.org/supabase" width="60"/><br>Supabase</td>
+    <td><img src="https://cdn.simpleicons.org/prisma" width="60"/><br>Prisma</td>
+    <td><img src="https://cdn.simpleicons.org/firebase" width="60"/><br>Firebase</td>
+    <td><img src="https://cdn.simpleicons.org/sqlite" width="60"/><br>SQLite</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/sqlite" width="60"/><br>SQLite</td> -->
   </tr>
-  <!-- ================= DevOps, Cloud & Deployment ================= -->
+  <!-- ================= DevOps & Cloud ================= -->
   <tr>
-    <td colspan="7" align="left"><b>☁️ DevOps, Cloud & Deployment</b></td>
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>☁️ DevOps & Cloud</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/docker" width="48"/><br>Docker</td>
@@ -163,9 +145,9 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
     <td><img alt="image" src="https://github.com/user-attachments/assets/ae838920-fdbc-4b34-a455-bf30a83f9656" width="48" /><br>AWS Amplify</td>
   </tr>
-  <!-- ================= Dev Tools & Package Managers ================= -->
+  <!-- ================= Tools & Platforms ================= -->
   <tr>
-    <td colspan="7" align="left"><b>🧰 Dev Tools & Package Managers</b></td>
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>🧰 Tools & Platforms</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/git" width="48"/><br>Git</td>
@@ -180,7 +162,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
  <!-- ================= Data Science & Analytics ================= -->
   <tr>
-    <td colspan="7" align="left"><b>📊 Data Science & Analytics</b></td>
+    <td colspan="7" align="left" style="border: none; padding: 8px 0;"><b>📊 Data Science & Analytics</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/numpy" width="48"/><br>NumPy</td>
@@ -193,7 +175,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
   <!-- ================= OS & Infra ================= -->
   <tr>
-    <td colspan="7" align="left"><b>🖥️ OS & Infrastructure</b></td>
+    <td colspan="7" align="left" style="border: none; padding: 8px 0;"><b>🖥️ OS & Infrastructure</b></td>
   </tr>
   <tr align="center">
     <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Win Server</td> -->
@@ -206,7 +188,7 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
 
   <!-- ================= IDEs & Platforms ================= -->
   <tr>
-    <td colspan="7" align="left"><b>💻 IDEs & Platforms</b></td>
+    <td colspan="7" align="left" style="border: none; padding: 8px 0;"><b>💻 IDEs & Platforms</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/cursor" width="48"/><br>Cursor</td>
@@ -215,30 +197,21 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
     <td><img src="https://cdn.simpleicons.org/windsurf" width="48"/><br>Windsurf</td>
     <td><img src="https://cdn.simpleicons.org/intellijidea" width="48"/><br>IntelliJ</td>
     <td><img src="https://cdn.simpleicons.org/pycharm" width="48"/><br>PyCharm</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td> -->
+    <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td>
   </tr>
-
 </table>
 
 <br />
 
-<div align="left">
-  <!-- <p style="color: #00D4AA;"><strong>Frontend & Mobile</strong></p> -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,flutter,vuejs,html,css,tailwind,mui,sass" />
-  
-  <!-- <p style="color: #00D4AA; margin-top: 15px;"><strong>Backend & Logic</strong></p> -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,spring,c,cs,dotnet,go,php,graphql,apollo,sentry" />
+## <h2 style="color: #00D4AA;">🛠️ Tech Stack</h2>
 
-  <!-- <p style="color: #00D4AA; margin-top: 15px;"><strong>Cloud, DevOps & Infrastructure</strong></p> -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,bitbucket,nginx,prometheus,grafana,elasticsearch" />
-  
-  <!-- <p style="color: #00D4AA; margin-top: 15px;"><strong>Databases & Tools</strong></p> -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,firebase,supabase,postman,jest,git,github,notion,webstorm,vscode" />
-</div>
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,html,css,tailwind,mui,sass,nodejs,express,nestjs,python,fastapi,django,spring,c,cs,dotnet,go,php,graphql,apollo,sentry,aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,bitbucket,nginx,prometheus,grafana,elasticsearch,mongodb,postgres,redis,prisma,firebase,supabase,postman,jest,git,github,notion,webstorm,vscode" />
 
+<br />
 
-<!-- <div align="left">
 ## 🎓 Certifications
+
+<div align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-Associate_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/IBM-Full Stack Software Developer Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -248,10 +221,13 @@ Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-Generative_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Cisco-CCNA 1 & 2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Data Analytics, Intro to Cybersecurity, Python Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript_Python_React_SQL_REDIS-black?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</div> -->
+  <!-- <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript_Python_React_SQL_REDIS-black?style=for-the-badge&logo=hackerrank&logoColor=white" /> -->
+</div>
 
-<!-- <div align="center" style="margin-top: 30px;">
-  <p>💡 <em>Always open to interesting conversations and collaboration opportunities!</em></p>
-  <strong style="color: #64FFDA;">Let's build something amazing together! 🚀</strong>
-</div> -->
+---
+<br />
+
+<div align="left">
+  <p><strong>💡 Open to interesting conversations and collaboration opportunities!</strong></p>
+  <p style="color: #00D4AA; font-size: 1.1em;">Let's build something amazing together! 🚀</p>
+</div>
