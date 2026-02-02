@@ -12,11 +12,14 @@
     <a href="mailto:contact@hamzamissaoui.dev">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://hamza-ai-website.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white" alt="Portfolio" />
+    <a href="mailto:contact@hamzamissaoui.online">
+      <img src="https://img.shields.io/badge/Email2-D14836?logo=gmail&logoColor=white" alt="Email 2" />
     </a>
     <a href="https://link.hamzamissaoui.dev/hamza-work" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
+    </a>
+    <a href=https://b2b-alive.com/fr/accueil" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Work/Ex_Company-2F3349?logo=b2b&logoColor=white" />
     </a>
 </div>
 
