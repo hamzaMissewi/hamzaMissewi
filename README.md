@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Hamza Missaoui
+# 👋 Hello, I'm Hamza Missaoui
 
-<h2 style="color: #00D4AA">Software Engineer | Full-Stack Web Developer | Cloud Architect | AI Specialist</h2>
+<h2 style="color: #00D4AA">Software Engineer | Full-Stack Web Developer (AI/Cloud/Devops Focus)</h2>
 
 <div align="center">
     <a href="https://www.hamzamissaoui.dev" target="_blank">
