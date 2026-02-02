@@ -4,7 +4,8 @@
 
 <div align="center">
     <a href="https://www.hamzamissaoui.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Website" alt="Website" />
+        <p>https://www.hamzamissaoui.dev</p>
+      <!-- <img src="https://img.shields.io/badge/Website" alt="Website" /> -->
     </a>
     <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
