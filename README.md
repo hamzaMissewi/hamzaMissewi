@@ -78,10 +78,8 @@ Passionate **Software Engineer** with **4+ years** of experience building scalab
     <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>🤖 AI / LLM / ML</b></td>
   </tr>
   <tr align="center">
-    <!-- <td><img src="https://cdn.simpleicons.org/openai" width="48"/><br>Chatgpt</td> -->
+    <td><img src="https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.png" width="48"/><br>Chatgpt</td>
     <td><img src="https://cdn.simpleicons.org/anthropic" width="48"/><br>Anthropic</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/deepseek" width="48"/><br>Deepseek</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/geminiai" width="48"/><br>Gemini</td> -->
     <td><img src="https://cdn.simpleicons.org/tensorflow" width="48"/><br>TensorFlow</td>
     <td><img src="https://cdn.simpleicons.org/pytorch" width="48"/><br>PyTorch</td>
     <td><img src="https://cdn.simpleicons.org/langchain" width="48"/><br>LangChain</td>
@@ -144,6 +142,7 @@ Passionate **Software Engineer** with **4+ years** of experience building scalab
     <td><img src="https://cdn.simpleicons.org/railway" width="48"/><br>Railway</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
     <td><img alt="image" src="https://github.com/user-attachments/assets/ae838920-fdbc-4b34-a455-bf30a83f9656" width="48" /><br>AWS Amplify</td>
+    <td><img alt="image" src="https://media.licdn.com/dms/image/v2/C4D12AQFs_czE0M0VwQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1603449603492?e=2147483647&v=beta&t=NYJlOyJz6fewaf4ItksW0YCp6_ALC0wz3zhs2yitNsg" width="48" /><br>AWS EC2</td>
   </tr>
   <!-- ================= Tools & Platforms ================= -->
   <tr>
