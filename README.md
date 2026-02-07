@@ -44,9 +44,9 @@ Passionate **Software Engineer** with **4+ years** of experience building scalab
 
 ## <h2 align="left" style="color: #00D4AA;">🌐 Email / Links:</h2>
 
-- **Websites**: https://www.hamzamissaoui.dev | https://hamzamissaoui.dev
+- **Websites**: https://www.hamzamissaoui.dev | https://www.hamzamissaoui.online
 - **LinkedIn**: https://www.linkedin.com/in/hamzamissaoui
-- **Emails**: contact@hamzamissaoui.dev | contact@hamzamissaoui.online
+- **Email**: contact@hamzamissaoui.dev
 
 
 ##  <h2 align="left" style="color: #00D4AA;">📊 GitHub Stats</h2>
