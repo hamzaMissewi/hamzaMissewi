@@ -15,9 +15,9 @@
     <a href="https://link.hamzamissaoui.dev/hamza-work" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
     </a>
-    <a href=https://b2b-alive.com/fr/accueil" target="_blank">
+    <!-- <a href=https://b2b-alive.com/fr/accueil" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Work/Ex_Company-2F3349?logo=b2b&logoColor=white" />
-    </a>
+    </a> -->
 </div>
 
 ###  <h2 align="left" style="color: #00D4AA;">🚀 About Me</h2>
