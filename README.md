@@ -47,12 +47,12 @@ Passionate **Software Engineer** with **4+ years** of experience building scalab
 ##  <h2 align="left" style="color: #00D4AA;">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=320" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=320" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="250" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="250" />
 </div>
 <!-- <br /> -->
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&card_width=500" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&card_width=500" height="450" />
 </div>
 
 
