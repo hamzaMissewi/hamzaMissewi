@@ -150,14 +150,16 @@
     <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>☁️ DevOps & Cloud</b></td>
   </tr>
   <tr align="center">
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/330px-Amazon_Web_Services_Logo.svg.png" width="48"/><br>AWS</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMek698YjgnhBKtUXZ2W2xrlCchPoFpJGzOA&s" width="48"/><br>GCP</td>
     <td><img src="https://cdn.simpleicons.org/docker" width="48"/><br>Docker</td>
     <td><img src="https://cdn.simpleicons.org/vercel" width="48"/><br>Vercel</td>
     <td><img src="https://cdn.simpleicons.org/netlify" width="48"/><br>Netlify</td>
     <td><img src="https://cdn.simpleicons.org/render" width="48"/><br>Render</td>
     <td><img src="https://cdn.simpleicons.org/railway" width="48"/><br>Railway</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
-    <td><img alt="image" src="https://github.com/user-attachments/assets/ae838920-fdbc-4b34-a455-bf30a83f9656" width="48" /><br>AWS Amplify</td>
-    <td><img alt="image" src="https://media.licdn.com/dms/image/v2/C4D12AQFs_czE0M0VwQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1603449603492?e=2147483647&v=beta&t=NYJlOyJz6fewaf4ItksW0YCp6_ALC0wz3zhs2yitNsg" width="48" /><br>AWS EC2</td>
+    <!-- <td><img alt="image" src="https://github.com/user-attachments/assets/ae838920-fdbc-4b34-a455-bf30a83f9656" width="48" /><br>AWS Amplify</td>
+    <td><img alt="image" src="https://media.licdn.com/dms/image/v2/C4D12AQFs_czE0M0VwQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1603449603492?e=2147483647&v=beta&t=NYJlOyJz6fewaf4ItksW0YCp6_ALC0wz3zhs2yitNsg" width="48" /><br>AWS EC2</td> -->
   </tr>
   <!-- ================= Tools & Platforms ================= -->
   <tr>
@@ -211,7 +213,7 @@
     <td><img src="https://cdn.simpleicons.org/windsurf" width="48"/><br>Windsurf</td>
     <td><img src="https://cdn.simpleicons.org/intellijidea" width="48"/><br>IntelliJ</td>
     <td><img src="https://cdn.simpleicons.org/pycharm" width="48"/><br>PyCharm</td>
-    <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td> -->
   </tr>
 </table>
 
