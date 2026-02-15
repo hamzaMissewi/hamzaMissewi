@@ -11,18 +11,18 @@
    <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-  <a href=" https://www.hamzamissaoui.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Website-Live-2F3349?logo=b2b&logoColor=white" />
+  <a href="https://www.hamzamissaoui.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Website-Live-2F3349?logo=web&logoColor=white" />
     </a>
-  <a href=" https://www.hamzamissaoui.online" target="_blank">
-      <img src="https://img.shields.io/badge/Website2-Live-2F3349?logo=b2b&logoColor=white" />
+  <a href="https://www.hamzamissaoui.online" target="_blank">
+      <img src="https://img.shields.io/badge/Website2-Live-2F3349?logo=web&logoColor=white" />
     </a>
     <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://link.hamzamissaoui.dev/hamza-work" target="_blank">
+    <!-- <a href="https://link.hamzamissaoui.dev/hamza-work" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Projects-2F3349?logo=notion&logoColor=white" />
-    </a>
+    </a> -->
 </div>
 
 
@@ -52,15 +52,16 @@
 
 <br />
 
-**Websites:** https://www.hamzamissaoui.dev | https://www.hamzamissaoui.online
+- **Websites & Projects:** https://www.hamzamissaoui.dev | https://www.hamzamissaoui.online | https://link.hamzamissaoui.dev/hamza-work
 
-**LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
+- **LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
 
 
 <br />
 
 ## 📊 GitHub Stats
 
+<!-- <div style="display: flex; flex-direction: row; gap: 20px; margin: 20px 0; justify-content: center;"> -->
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="170" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="170" />
