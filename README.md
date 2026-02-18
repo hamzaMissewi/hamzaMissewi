@@ -52,8 +52,7 @@
 
 <br />
 
-- **Websites & Projects:** https://www.hamzamissaoui.dev | https://www.hamzamissaoui.online | https://link.hamzamissaoui.dev/hamza-work
-
+- **Websites & Projects:** https://www.hamzamissaoui.dev | https://www.hamzamissaoui.online
 - **LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
 
 
