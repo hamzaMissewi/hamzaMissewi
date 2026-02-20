@@ -224,9 +224,9 @@
 
 <!-- <br /> -->
 
-## 🎓 Certifications
 
-<div align="left">
+<!-- <div align="left">
+## 🎓 Certifications
   <img src="https://custom-icon-badges.demolab.com/badge/IBM-Data_Analyst-4204F4?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/IBM-Full_Stack_Software_Developer_Certificate-4285F4?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-Associate_Certified-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
@@ -236,9 +236,9 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Databricks-Associate Developer, ML At Scale,-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-Generative_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Cisco-CCNA 1 & 2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <!-- <img src="https://custom-icon-badges.demolab.com/badge/Data Analytics, Intro to Cybersecurity, Python Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> -->
-  <!-- <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript_Python_React_SQL_REDIS-black?style=for-the-badge&logo=hackerrank&logoColor=white" /> -->
-</div>
+  <img src="https://custom-icon-badges.demolab.com/badge/Data Analytics, Intro to Cybersecurity, Python Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+ <img src="https://custom-icon-badges.demolab.com/badge/HackerRank-JavaScript_Python_React_SQL_REDIS-black?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</div> -->
 
 <br />
 
