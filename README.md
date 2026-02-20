@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hamza Missaoui
 
-<h2 style="color: #00D4AA">Software Engineer | Tech Lead | Full-Stack Developer | AI & Cloud Architect</h2>
+<h2 style="color: #00D4AA">                      Software Engineer • Full-Stack Developer • Tech Lead • AI • Cloud • Devops</h2>
 
 <!-- <h2 style="color: #00D4AA">Software Engineer | Full-Stack Developer & Tech Leader</h2> -->
 
