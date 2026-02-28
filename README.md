@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Hamza Missaoui
 
-<h2 style="color: #00D4AA">                      Software Engineer • Full-Stack Developer • Tech Lead • AI • Cloud • Devops</h2>
+<h2 style="color: #00D4AA">Software Engineer • Full-Stack Developer • Tech Lead • AI • Cloud • Devops</h2>
 
-<!-- <h2 style="color: #00D4AA">Software Engineer | Full-Stack Developer & Tech Leader</h2> -->
 
 ## 🚀 About Me
 
@@ -20,9 +19,9 @@
     <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <!-- <a href="https://link.hamzamissaoui.dev/hamza-work" target="_blank">
+    <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Projects-2F3349?logo=notion&logoColor=white" />
-    </a> -->
+    </a>
 </div>
 
 
@@ -31,7 +30,7 @@
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 30px; margin-bottom: 20px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 400px;">
 <p>
-<strong>4+ years of expertise architecting scalable SaaS platforms and cloud-native solutions.</strong> Proven track record in transforming monolithic architectures into distributed microservices, reducing system complexity while improving performance. Specialized in implementing event-driven systems and Domain-Driven Design patterns that enhance code maintainability and business alignment. Expert in AWS, GCP, and Azure cloud ecosystems with focus on CI/CD automation, ELK-based observability, and AI integration that drives measurable business value.
+<strong>5 years of expertise developing and deploying cloud-native SaaS platforms and serverless solutions.</strong> Expert in transforming ideas and concepts into reality, full dynamic applications, distributed microservices, reducing system complexity while improving performance. Specialized in implementing event-driven systems and Domain-Driven Design patterns that enhance code maintainability and business alignment. Expert in AWS, GCP, and Azure cloud ecosystems with focus on CI/CD automation, ELK-based observability, and AI integration that drives measurable business value.
 </p>
 
 🎯 **What I do:**
