@@ -15,13 +15,19 @@
     </a>
   <a href="https://www.hamzamissaoui.online" target="_blank">
       <img src="https://img.shields.io/badge/Website2-Live-2F3349?logo=web&logoColor=white" />
-    </a>
-    <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
+   </a>
+   <a href="https://hamzamissaoui.online" target="_blank">
+      <img src="https://img.shields.io/badge/Website3-Live-2F3349?logo=web&logoColor=white" />
+   </a>
+   <a href="https://website.hamzamissaoui.online" target="_blank">
+      <img src="https://img.shields.io/badge/Website4-Live-2F3349?logo=web&logoColor=white" />
+   </a>
+   <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
+   </a>
+   <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Projects-2F3349?logo=notion&logoColor=white" />
-    </a>
+   </a>
 </div>
 
 
