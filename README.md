@@ -34,12 +34,11 @@
 <br />
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 30px; margin-bottom: 20px; flex-wrap: wrap;">
-<div style="flex: 1; min-width: 400px;">
+<!-- <div style="flex: 1; min-width: 400px;"> -->
 <p>
 <strong>5 years of expertise developing and deploying cloud-native SaaS platforms and serverless solutions.</strong> Expert in transforming ideas and concepts into reality, full dynamic applications, distributed microservices, reducing system complexity while improving performance. Specialized in implementing event-driven systems and Domain-Driven Design patterns that enhance code maintainability and business alignment. Expert in AWS, GCP, and Azure cloud ecosystems with focus on CI/CD automation, ELK-based observability, and AI integration that drives measurable business value.
 </p>
-
-🎯 **What I do:**
+<!-- 🎯 **What I do:**
     - Design and implement high-performance web applications serving thousands of users
     - Build cloud-native solutions with modern DevOps practices and CI/CD automation
     - Create AI-powered features that enhance user experience and business value
@@ -47,8 +46,8 @@
     - Transition monolithic applications to distributed microservices
     - Implement ELK-based observability and system reliability
     
-🌟 **My approach:** I combine technical excellence with creative problem-solving to deliver solutions that not only work flawlessly but also provide exceptional user experiences.
-</div>
+🌟 **My approach:** I combine technical excellence with creative problem-solving to deliver solutions that not only work flawlessly but also provide exceptional user experiences. -->
+<!-- </div> -->
 
 <div style="flex: 0 0 auto; min-width: 300px;">
     <img alt="Coding GIF" src="code.gif" width="400" height="250" style="border-radius: 8px; max-width: 100%; height: auto;" />
