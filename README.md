@@ -56,7 +56,7 @@
 
 <br />
 
-- **Websites & Projects:** https://www.hamzamissaoui.dev | https://www.hamzamissaoui.online
+- **Websites:** https://www.hamzamissaoui.dev
 - **LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
 
 
