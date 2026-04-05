@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hamza Missaoui
 
-<h2 style="color: #00D4AA">Software Engineer • Full-Stack Developer • Tech Lead • AI • Cloud • Devops</h2>
+<h2 style="color: #00D4AA">Software Engineer - Full-Stack Developer & Cloud Architect (AWS, Azure, GCP) | DevOps (CI/CD - Docker - Kubernetes) - AI/GenAI - Machine Learning - Projects & Data Management - ETL - SAP - Scrum, Agile, MVC, AI/GenAI & Scalable Systems</h2>
 
 
 ## 🚀 About Me
@@ -228,7 +228,10 @@
 
 <!-- <br /> -->
 
-
+## 🎓 Certifications
+  <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
+      <img src="https://img.shields.io/badge/Certifications-0077B5?logo=linkedin&logoColor=white" alt="Certifications" />
+</a>
 <!-- <div align="left">
 ## 🎓 Certifications
   <img src="https://custom-icon-badges.demolab.com/badge/IBM-Data_Analyst-4204F4?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -248,22 +251,17 @@
 
 ## 🌍 Languages
 
-- **Arabic:** Native • **English:** Professional • **French:** Professional
+- **Arabic:** Native • **English:** Professional • **French:** Professional (C1) • **German**: Basic
 
 <br />
 
 ---
 
-Tech Lead & Open Source Contributor from <b>Tunisia</b> 💚
+Full-Stack AI Engineer & Cloud Architect & Open Source Contributor
 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hamzaMissewi&label=Profile%20Visits&style=for-the-badge" alt="Profile Views" /> 
 </p>
-
----
-
-<div align="left">
-  <p><strong>💡 Open to interesting conversations and collaboration opportunities!</strong></p>
   <p style="color: #00D4AA; font-size: 1.1em;">Let's build something amazing together! 🚀</p>
 </div>
