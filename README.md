@@ -1,10 +1,9 @@
-# 👋 Hello, I'm Hamza Missaoui
+# 👋 Hi There, I'm Hamza Missaoui
 
-<h2 style="color: #00D4AA">Software Engineer - Full-Stack Developer & Cloud Architect (AWS, Azure, GCP) | DevOps (CI/CD - Docker - Kubernetes) - Machine Learning - Projects & Data Management - ETL - SAP - Scrum, Agile, MVC, AI/GenAI & Agentic AI & Scalable Systems</h2>
+<h3 style="color: #00D4AA">Software Engineer - Full-Stack Developer & Cloud Architect (AWS, Azure, GCP) | DevOps (CI/CD - Docker - Kubernetes) - Machine Learning - Projects & Data Management - ETL - SAP - Scrum, Agile, MVC, AI/GenAI & Agentic AI & Scalable Systems</h3>
 
-## 🚀 About Me
-
-<div align="center">
+## Contact & Links 
+<div align="left">
    <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -27,35 +26,40 @@
    </a>
 </div>
 
-
-<br />
-
-<!-- <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;"> -->
-<p>
-Full-Stack Engineer with nearly <strong>5 years of expertise in architecting and deploying scalable, AI-driven, and cloud-native ecosystems</strong>. My focus lies at the intersection of robust backend engineering, automated DevOps workflows, and cutting-edge GenAI integration.
-
-**What I bring to the table:**
-- **AI & Data Engineering:** Expert in designing AI-powered workflows, LLM integrations, and Agentic AI solutions. I build data-driven applications that don't just process information—they provide intelligence.
-- **Cloud-Native & DevOps:** Deep hands-on experience with AWS, Azure, and GCP. I specialize in "Infrastructure as Code" (IaC), Kubernetes, and CI/CD, ensuring that systems are not just functional, but highly resilient and secure.
-- **Full-Stack Mastery:** Skilled in the T3 Stack, MERN, and distributed architectures using Python, C#, and TypeScript to deliver production-ready, high-performance user experiences.
-- **Performance & Observability:** A specialist in system optimization, utilizing the ELK Stack for deep observability and fine-tuning SQL/NoSQL databases (PostgreSQL, MongoDB, Redis, Elasticsearch) for maximum throughput.
-
-I bridge the gap between complex stakeholder requirements and high-performance engineering. Whether leading an Agile team or building an end-to-end MVP, my goal is always the same: **Reliability at scale.**
-</p>
-
-🌟 **My approach:** I combine technical excellence with creative problem-solving to deliver solutions that not only work flawlessly but also provide exceptional user experiences.
-
-
-<div style="flex: 0 0 auto; min-width: 300px;">
-    <img alt="Coding GIF" src="hamza-dev.png" width="100%" height="250" style="border-radius: 8px; max-width: 100%; height: auto;" />
-</div>
-
 <br />
 
 - **Websites:** https://www.hamzamissaoui.dev
 - **Websites:** https://www.hamzamissaoui.dev
 - **LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
 - **Atlas Digital Solutions LTD (IT Consulting & Information Services - Company):** https://atlas-ltd.hamzamissaoui.dev
+
+
+<br />
+
+## 🚀 ABOUT ME
+
+<br />
+
+<!-- <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;"> -->
+<p>
+✅ <strong>Full-Stack Engineer with nearly 5 years of expertise in architecting and deploying scalable, AI-driven, and cloud-native ecosystems</strong>. My focus lies at the intersection of robust backend engineering, automated DevOps workflows, and cutting-edge GenAI integration.
+
+✅ What I bring to the table:
+- **AI & Data Engineering:** Expert in designing AI-powered workflows, LLM integrations, and Agentic AI solutions. I build data-driven applications that don't just process information—they provide intelligence.
+- **Cloud-Native & DevOps:** Deep hands-on experience with AWS, Azure, and GCP. I specialize in "Infrastructure as Code" (IaC), Kubernetes, and CI/CD, ensuring that systems are not just functional, but highly resilient and secure.
+- **Full-Stack Mastery:** Skilled in the T3 Stack, MERN, and distributed architectures using Python, C#, and TypeScript to deliver production-ready, high-performance user experiences.
+- **Performance & Observability:** A specialist in system optimization, utilizing the ELK Stack for deep observability and fine-tuning SQL/NoSQL databases (PostgreSQL, MongoDB, Redis, Elasticsearch) for maximum throughput.
+
+✅ I bridge the gap between complex stakeholder requirements and high-performance engineering. Whether leading an Agile team or building an end-to-end MVP, my goal is always the same: Reliability at scale.
+
+✅ I combine technical excellence with creative problem-solving to deliver solutions that not only work flawlessly but also provide exceptional user experiences.
+</p>
+
+-----
+
+<div style="flex: 0 0 auto;">
+    <img alt="Coding GIF" src="hamza-dev.png" style="border-radius: 8px; width: 100%; justify-content: center; height: 350px; display: flex; margin: 0 auto; max-width: 700px;" />
+</div>
 
 <br />
 
