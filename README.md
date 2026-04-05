@@ -53,6 +53,7 @@ I bridge the gap between complex stakeholder requirements and high-performance e
 <br />
 
 - **Websites:** https://www.hamzamissaoui.dev
+- **Websites:** https://www.hamzamissaoui.dev
 - **LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
 - **Atlas Digital Solutions LTD (IT Consulting & Information Services - Company):** https://atlas-ltd.hamzamissaoui.dev
 
@@ -322,6 +323,7 @@ I bridge the gap between complex stakeholder requirements and high-performance e
 
 ## 🌍 Languages
 
+- **Arabic:** Native • **English:** Professional • **French:** Professional (C1) • **German**: Basic
 - **Arabic:** Native • **English:** Professional • **French:** Professional (C1) • **German**: Basic
 
 <br />
