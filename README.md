@@ -1,58 +1,45 @@
 # 👋 Hi There, I'm Hamza Missaoui
 
-<h3 style="color: #00D4AA">Software Engineer - Full-Stack Developer & Cloud Architect (AWS, Azure, GCP) | DevOps (CI/CD - Docker - Kubernetes) - Machine Learning - Projects & Data Management - ETL - SAP - Scrum, Agile, MVC, AI/GenAI & Agentic AI & Scalable Systems</h3>
+<h3 style="color: #00D4AA">Full-Stack Web & AI Engineer & Multi-Cloud Enthusiast | DevOps & Automated Pipelines, Redis, GraphQL, MERN, T3, ELK Stack, AI/GenAI & Agentic AI, Projects & Data Management, SAP, Agile, Microsorvices, MVC, Cloud Native, EDA, DDD & Architecting & Scalable SaaS Solutions</h3>
 
 ## Contact & Links 
 <div align="left">
-   <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
+  <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+  </a>
   <a href="https://www.hamzamissaoui.dev" target="_blank">
       <img src="https://img.shields.io/badge/Website-2F3d42?logo=web&logoColor=white" />
-    </a>
-   </a>
-   <a href="https://hamzamissaoui.online" target="_blank">
-      <img src="https://img.shields.io/badge/Website_2 (In Dev)-2F3349?logo=web&logoColor=white" />
-   </a>
- <a href="https://atlas-ltd.hamzamissaoui.dev" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/IT_Company-2F3ddd?logo=notion&logoColor=white" />
-   </a>
-   </a>
-   <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-   </a>
-   <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
+  </a>
+  <a href="https://portfolio.hamzamissaoui.online" target="_blank">
+      <img src="https://img.shields.io/badge/Website_2-2F3349?logo=web&logoColor=white" />
+  </a>
+  <a href="https://atlas-ltd.hamzamissaoui.online" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Atlas_IT_Company-2F3ddd?logo=notion&logoColor=white" />
+  </a>
+  <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/More_Projects-ff0f51?logo=notion&logoColor=white" />
-   </a>
+  </a>
+  <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="mailto:contact@hamzamissaoui.online" target="_blank">
+      <img src="https://img.shields.io/badge/Email-2-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br />
 
-- **Websites:** https://www.hamzamissaoui.dev
-- **Websites:** https://www.hamzamissaoui.dev
+- **Websites:** https://www.hamzamissaoui.dev | https://atlas-ltd.hamzamissaoui.online
 - **LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
-- **Atlas Digital Solutions LTD (IT Consulting & Information Services - Company):** https://atlas-ltd.hamzamissaoui.dev
+- **Atlas Digital Solutions Ltd | IT Consulting & Information Technology Services Company (Temporary Domain):** https://atlas-ltd.hamzamissaoui.dev
 
-
-<br />
 
 ## 🚀 ABOUT ME
 
 <br />
 
-<!-- <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;"> -->
 <p>
-✅ <strong>Full-Stack Engineer with nearly 5 years of expertise in architecting and deploying scalable, AI-driven, and cloud-native ecosystems</strong>. My focus lies at the intersection of robust backend engineering, automated DevOps workflows, and cutting-edge GenAI integration.
-
-✅ What I bring to the table:
-- **AI & Data Engineering:** Expert in designing AI-powered workflows, LLM integrations, and Agentic AI solutions. I build data-driven applications that don't just process information—they provide intelligence.
-- **Cloud-Native & DevOps:** Deep hands-on experience with AWS, Azure, and GCP. I specialize in "Infrastructure as Code" (IaC), Kubernetes, and CI/CD, ensuring that systems are not just functional, but highly resilient and secure.
-- **Full-Stack Mastery:** Skilled in the T3 Stack, MERN, and distributed architectures using Python, C#, and TypeScript to deliver production-ready, high-performance user experiences.
-- **Performance & Observability:** A specialist in system optimization, utilizing the ELK Stack for deep observability and fine-tuning SQL/NoSQL databases (PostgreSQL, MongoDB, Redis, Elasticsearch) for maximum throughput.
-
-✅ I bridge the gap between complex stakeholder requirements and high-performance engineering. Whether leading an Agile team or building an end-to-end MVP, my goal is always the same: Reliability at scale.
-
-✅ I combine technical excellence with creative problem-solving to deliver solutions that not only work flawlessly but also provide exceptional user experiences.
+✅ <strong>Full-Stack Cloud & DevOps Engineer with nearly 5 years of expertise in architecting and deploying scalable, AI-driven, and cloud-native ecosystems</strong>. My focus lies at the intersection of robust backend engineering, automated DevOps workflows, and cutting-edge GenAI integration.
 </p>
 
 -----
@@ -72,7 +59,6 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&card_width=500" height="250" />
 </div>
-
 
 
 ## 🛠️ Technical Skills & Tools
@@ -125,7 +111,7 @@
     <td><img src="https://cdn.simpleicons.org/react" width="60"/><br>React</td>
     <td><img src="https://cdn.simpleicons.org/nextdotjs" width="60"/><br>Next.js</td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3yo2DK-0jFssUfEuWquejdxIAEK36BvGsg&s" width="50"/><br>Vite.js</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/vuedotjs" width="60"/><br>Vue.js</td> -->
+    <td><img src="https://cdn.simpleicons.org/vuedotjs" width="60"/><br>Vue.js</td>
     <td><img src="https://cdn.simpleicons.org/html5" width="60"/><br>HTML5</td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKt_oGVTapoPP4URy85O8AfgA_mDUKWTLpWQ&s" width="60"/><br>Shadcn</td>
     <td><img src="https://cdn.simpleicons.org/css" width="40"/><br>CSS</td>
@@ -161,8 +147,6 @@
     <td><img src="https://cdn.simpleicons.org/netlify" width="48"/><br>Netlify</td>
     <td><img src="https://cdn.simpleicons.org/render" width="48"/><br>Render</td>
     <td><img src="https://cdn.simpleicons.org/railway" width="48"/><br>Railway</td>
-    <!-- <td><img alt="image" src="https://github.com/user-attachments/assets/ae838920-fdbc-4b34-a455-bf30a83f9656" width="48" /><br>AWS Amplify</td>
-    <td><img alt="image" src="https://media.licdn.com/dms/image/v2/C4D12AQFs_czE0M0VwQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1603449603492?e=2147483647&v=beta&t=NYJlOyJz6fewaf4ItksW0YCp6_ALC0wz3zhs2yitNsg" width="48" /><br>AWS EC2</td> -->
   </tr>
   <!-- ================= Tools & Platforms ================= -->
   <tr>
