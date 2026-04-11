@@ -29,7 +29,8 @@
 
 <br />
 
-- **Websites:** https://www.hamzamissaoui.dev | https://atlas-ltd.hamzamissaoui.online
+- **Websites:** https://www.hamzamissaoui.dev
+- **Company:** https://atlas-ltd.hamzamissaoui.online
 - **LinkedIn:** https://www.linkedin.com/in/hamzamissaoui
 - **Atlas Digital Solutions Ltd | IT Consulting & Information Technology Services Company (Temporary Domain):** https://atlas-ltd.hamzamissaoui.dev
 
