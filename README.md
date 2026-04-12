@@ -1,8 +1,26 @@
-# 👋 Hi There, I'm Hamza Missaoui
+# 👋 Hi, I'm Hamza
 
-<h3 style="color: #00D4AA">Full-Stack Engineer | Cloud Architecture & DevOps | AI/GenAI & Agentic Systems</h3>
+<!-- <h3 style="color: #00D4AA">Full-Stack Engineer | Cloud & DevOps | GenAI / Agentic AI</h3> -->
 
-## Contact & Links 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00FF00&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer+%7C+Cloud+Architect;5+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;GenAI+%26+Agentic+Systems+Specialist;Let's+Build+Something+Amazing+Together" alt="Typing text" />
+
+## 🚀 About Me
+
+
+**Full-Stack AI & Cloud Engineer** with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I specialize in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems with Domain-Driven Design patterns. Multi-cloud expert (AWS, GCP, Azure) with deep focus on CI/CD automation, observability, and GenAI integration that delivers measurable business value.
+
+---
+
+**Current Focus:**
+- 🏗️ Cloud-native architectures (AWS, Azure, GCP)
+- 🤖 Agentic AI & LLM-powered applications
+- 🚀 Scalable SaaS platforms, cloud-native solutions, microservices, SEO optimization & event driven architectures 
+- ⚡ CI/CD automation & infrastructure as code
+
+---
+
+### Contact & Links 
+
 <div align="center">
 <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,25 +43,11 @@
 <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
       <img src="https://img.shields.io/badge/Email-D1d4f5?logo=gmail&logoColor=black" alt="Email" />
 </a>
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full-Stack+AI+Engineer - Cloud+Architect;Let's build something big together?;Happy to collaborate %F0%9F%8E%A8" alt="Typing SVG" /> -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer - Cloud+Architect;Let's build something big together?" alt="Typing text" />
 </div>
-
-
-
-
-## 🚀 About Me
-
-
-**Full-Stack AI & Cloud Engineer** with 5+ years architecting scalable, AI-driven, cloud-native ecosystems. I specialize in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems with Domain-Driven Design patterns. Multi-cloud expert (AWS, GCP, Azure) with deep focus on CI/CD automation, observability, and GenAI integration that delivers measurable business value.
 
 ---
 
-**Current Focus:**
-- 🏗️ Cloud-native architectures (AWS, Azure, GCP)
-- 🤖 Agentic AI & LLM-powered applications
-- 🚀 Scalable SaaS platforms, cloud-native solutions, microservices, SEO optimization & event driven architectures 
-- ⚡ CI/CD automation & infrastructure as code
+
 
 <div style="flex: 0 0 auto; margin-top: 20px;">
     <img alt="Coding GIF" src="hamza-dev.png" style="border-radius: 8px; width: 100%; justify-content: center; height: 270px; display: flex; margin: 0 auto; max-width: 700px;" />
