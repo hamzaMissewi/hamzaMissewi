@@ -1,17 +1,27 @@
-# 👋 Hi, I'm Hamza M.
+# Hello, I'm Hamza Missaoui
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00FF00&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Cloud+Architect;5+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;Let's+Build+Something+Amazing+Together" alt="Typing text" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00FF00&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Cloud+Architect;5+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;Let's+Build+Something+Amazing+Together" alt="Typing text" /> -->
 
 # 🚀 About Me
 
 <h3 style="color: #00D4AA">Full-Stack AI Engineer, Cloud Architect & Founder | DevOps</h3>
 
-<!-- **Full-Stack Engineer & Cloud Architect**  -->
-with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I specialize in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems with Domain-Driven Design patterns. Multi-cloud expert (AWS, GCP, Azure) with deep focus on CI/CD automation, observability, and GenAI integration that delivers measurable business value.
 
-- Spoken Languages: **Arabic:** Native • **English:** Professional • **French:** Professional (C1) • **German**: Basic
-- Always learning new languages when I have the time
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Engineer+%7C+Cloud+Architect+%7C+Founder;5%2B+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;GenAI+%26+Agentic+Systems+Specialist;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing text" />
+
+<br />
+
+As a seasoned Full-Stack AI Engineer with nearly 5 years of experience, I specialize in architecting scalable, AI-driven, cloud-native ecosystems. My expertise lies in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems using Domain-Driven Design patterns. With a deep focus on CI/CD automation, observability, and GenAI integration, I drive measurable business value for my clients. My proficiency in multi-cloud environments (AWS, GCP, Azure) enables me to provide tailored solutions that meet the unique needs of each project.
+
+I am proficient in several languages, including:
+
+* Arabic (Native)
+* English (Professional)
+* French (Professional, C1)
+* German (Basic)
+
+I am always eager to learn new languages and expand my skill set.
 
 <br />
 
@@ -21,11 +31,13 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
 - 🚀 Scalable SaaS platforms, cloud-native solutions, microservices, SEO optimization & event driven architectures 
 - ⚡ CI/CD automation & infrastructure as code
 
-**Links & Social:**
+**Atlas Digital Solutions Ltd:**
+**[https://www.hamzamissaoui.online](https://www.hamzamissaoui.online)**
 
-- 📧 Email: **[contact@hamzamissaoui.dev](mailto:contact@hamzamissaoui.dev)**
-- 💻 Website: **[https://www.hamzamissaoui.dev](https://www.hamzamissaoui.dev)**
-- 💻 Atlas Digital Solutions Ltd (Tempo Domain): **[https://www.hamzamissaoui.online](https://www.hamzamissaoui.online)**
+
+<!-- - 📧 Email: **[contact@hamzamissaoui.dev](mailto:contact@hamzamissaoui.dev)** -->
+<!-- - 💻 Website: **[https://www.hamzamissaoui.dev](https://www.hamzamissaoui.dev)** -->
+<!-- - 💻 Atlas Digital Solutions Ltd (Tempo Domain): **[https://www.hamzamissaoui.online](https://www.hamzamissaoui.online)** -->
 
 <br />
 
@@ -67,8 +79,10 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
   <img src="https://img.shields.io/badge/Projects & Certifications-0077B5?logo=linkedin&logoColor=white" alt="Projects & Certifications" />
 </a>
 
-<br />
-  <img src="https://komarev.com/ghpvc/?username=hamzaMissewi&label=Profile%20Visits&style=for-the-badge" alt="Profile Views" />
+---
+
+<!-- <br /> -->
+  <img src="https://komarev.com/ghpvc/?username=hamzaMissewi&label=Visits&style=for-the-badge" alt="Profile Views" />
 </div>
 
 
@@ -97,23 +111,28 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
 <!-- ![](https://github-readme-stats.vercel.app/api?username=hamzaMissewi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaMissewi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="170" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="170" /> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=dracula&hide_border=false)<br/> -->
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&card_width=500" height="250" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&card_width=500" height="200" />
 </div>
 
 
 
 # 💻 Tech Stack:
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 
+<!-- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
+<!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
 
-<br /> <br />
+<br /> 
 
-# 🛠️ More Technical Skills & Tools:
+---
+
+<br />
+
+# Skills & Tools:
 
 
 <table align="center" style="border: none; border-collapse: collapse;">
@@ -125,7 +144,7 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
     <td><img src="https://cdn.simpleicons.org/javascript" width="38"/><br>JS</td>
     <td><img src="https://cdn.simpleicons.org/typescript" width="38"/><br>Typescript</td>
     <td><img src="https://cdn.simpleicons.org/python" width="38"/><br>Python</td>
-    <td><img src="https://cdn.simpleicons.org/c++" width="38"/><br>C++</td>
+    <!-- <td><img src="https://cdn.simpleicons.org/c++" width="38"/><br>C++</td> -->
     <td><img src="https://cdn.simpleicons.org/c#" width="38"/><br>C#</td>
     <td><img src="https://cdn.simpleicons.org/go" width="38"/><br>Go</td>
     <!-- <td><img src="https://cdn.simpleicons.org/java" width="38"/><br>Go</td> -->
@@ -133,7 +152,7 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
   </tr>
   <!-- ================= AI / LLM / ML ================= -->
   <tr style="margin:8px 0;">
-    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>🤖 AI / LLM / ML</b></td>
+    <td colspan="8" align="left" style="border: none; padding: 8px 0;"><b>🤖 AI & ML</b></td>
   </tr>
   <tr align="center">
     <!-- <td><img src="https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.png" width="48"/><br>Chatgpt</td>
@@ -223,7 +242,7 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
   </tr>
 
  <!-- ================= Data Science & Analytics ================= -->
-  <!-- <tr>
+<tr>
     <td colspan="7" align="left" style="border: none; padding: 8px 0;"><b>📊 Data Science & Analytics</b></td>
   </tr>
   <tr align="center">
@@ -233,7 +252,7 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
     <td><img src="https://cdn.simpleicons.org/scikitlearn" width="48"/><br>Scikit-Learn</td>
     <td><img src="https://cdn.simpleicons.org/jupyter" width="48"/><br>Jupyter</td>
     <td><img src="https://cdn.simpleicons.org/apachehadoop" width="48"/><br>Hadoop</td>
-</tr> -->
+</tr>
 
   <!-- ================= OS & Infra ================= -->
   <tr>
@@ -263,12 +282,12 @@ with nearly 5 years architecting scalable, AI-driven, cloud-native ecosystems. I
   </tr>
 </table>
 
+<!-- <br /> -->
+
+<!-- --- -->
+
 <br />
 
----
-
-<br />
-
-<div align="center">
+<!-- <div align="center">
   <p style="color: #00D4AA; font-size: 1.1em;">Let's build something amazing together! 🚀</p> 
-</div>
+</div> -->
