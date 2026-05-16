@@ -1,5 +1,4 @@
-### Hello, I'm Hamza M.
-
+### Hello, I'm Hamza Missaoui
 
 
 <!-- ## 🚀 About Me -->
@@ -10,16 +9,14 @@
 </p>
 
 <p align="left" style="font-size: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Lead+Full-Stack+Engineer+%7C+Cloud+Architect+%7C+DevOps+Lead;5%2B+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;GenAI+%26+Agentic+Systems+Specialist;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Lead+Full-Stack+Engineer+%7C+Cloud+Architect+%7C+DevOps+Lead;4.5%2B+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;GenAI+%26+Agentic+Systems+Specialist;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing text" />
 </p>
 
-
+<p align="left" style="font-size: 14px;">
 Engineer with over 4.5 years of experience, I specialize in architecting scalable, AI-driven, cloud-native ecosystems. My expertise lies in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems using Domain-Driven Design patterns. With a deep focus on CI/CD automation, observability, and GenAI integration, I drive measurable business value for my clients. My proficiency in multi-cloud environments (AWS, GCP, Azure) enables me to provide tailored solutions that meet the unique needs of each project.
+</p>
 
-**Languages:**
-- **Arabic:** Native
-- **English:** Professional
-- **French:** Professional
+**Spoken Languages:** - **Arabic:** Native - **English:** Professional - **French:** Professional - **German:** Beginner
 
 
 
@@ -28,32 +25,32 @@ Engineer with over 4.5 years of experience, I specialize in architecting scalabl
 <!-- [![X](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=X&logoColor=white)](https://x.com/atlas_tn_ltd) -->
 
 
+## DevScale - Digital Solutions
+DevScale is an IT consulting company specializing in cloud-native architecture, AI-driven solutions, and scalable digital transformation. We help businesses modernize their infrastructure, implement intelligent automation, and build future-ready applications.
+
+Linkedin: https://www.linkedin.com/company/devscale-digital
 
 ### Working On
 
 | Area | Technologies |
 |------|-------------|
-| ☁️ Cloud | AWS, Azure, GCP, Serverless |
-| 🤖 AI | Generative AI, Agentic AI, LLM-powered, RAG, AIOps |
-| ⚡ DevOps | CI/CD, IaC, Observability |
-| 🚀 Architecture | SaaS, Microservices, EDA, TDA, DDD, Cloud-Native |
-
-<!-- ## DevScale - Digital Solutions
-
-**Founder & Lead Full-Stack Engineer**
-
-DevScale is an IT consulting company specializing in cloud-native architecture, AI-driven solutions, and scalable digital transformation. We help businesses modernize their infrastructure, implement intelligent automation, and build future-ready applications. -->
+| Cloud | AWS, Azure, GCP, Serverless, Lambda |
+| LLMs & AI | Generative AI, Agentic AI, LLM-powered, RAG |
+| DevOps & Automation | CI/CD, IaC, Observability |
+| Architectures & Patterns | SaaS, Microservices, EDA, TDA, DDD, Cloud-Native, MVP, MVC |
 
 
-### Services:
-- 🚀 Full-Stack Web & Mobile Development
-- 🤖 AI/GenAI Integration & LLM-powered solutions
-- ⚡ DevOps, CI/CD & Infrastructure Automation
-- ☁️ Cloud Architecture & Migration
-- 🏗️ SaaS Solutions
-- 📊 Event-Driven Architecture (EDA) & Microservices
-- 📊 System Design & Technical Consulting
-- 🎨 UI/UX Design & Frontend Development
+
+### Our Services:
+<!-- - 🚀 Full-Stack Web & Mobile Development -->
+- Full-Stack Web & Mobile Development
+- AI/GenAI Integration & LLM-powered solutions
+- DevOps, CI/CD & Infrastructure Automation
+- Cloud Architecture & Migration
+- SaaS Solutions
+- Event-Driven Architecture (EDA) & Microservices
+- System Design & Technical Consulting
+- UI/UX Design & Frontend Development
 
 
 ### Contact & Socials:
@@ -147,6 +144,6 @@ DevScale is an IT consulting company specializing in cloud-native architecture, 
 <br />
 
 <div align="center">
-  <p style="color: #00D4AA; font-size: 1em;"><strong>Let's build something amazing together, @DevScale, Contact us: @contact.devscale.online</strong></p>
+  <p style="color: #00D4AA; font-size: 1em;"><strong>Let's build something amazing together, contact@hamzamissaoui.dev</strong></p>
 
 </div>
