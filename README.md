@@ -1,21 +1,26 @@
-### Hello, I'm Hamza Missaoui
+## Hi, I'm Hamza Missaoui
 
-<!-- ## 🚀 About Me -->
-
-<p align="left" style="font-size: 24px;">
-  <strong style="color: #00D4AA;">Senior Full-Stack Engineer · Real-Time Systems Cloud, DevOps & AI Integration</strong>
+<p align="left" style="font-size: 18px;">
+  <strong style="color: #00D4AA;">Senior Full-Stack Engineer, Multi-Cloud, DevOps, AI/GenAI Integrations, QA</strong>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Lead+Full-Stack+Engineer+%7C+Cloud+Architect+%7C+DevOps+Lead;4.5%2B+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;GenAI+%26+Agentic+Systems+Specialist;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Senior+Full-Stack+Engineer+%26+DevScale+Founder;Multi-Cloud+Architect+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+Azure;Agentic+AI+%26+MCP+Specialist+%E2%80%A2+RAG+Pipelines;Scaled+Digital+Signage+for+Shell%2C+HP+%26+Nissan;Building+Production-Grade+SaaS+End-to-End" alt="Typing text" />
 
-<!-- <p align="left" style="font-size: 14px;">
-Engineer with over 4.5 years of experience, I specialize in architecting scalable, AI-driven, cloud-native ecosystems. My expertise lies in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems using Domain-Driven Design patterns. With a deep focus on CI/CD automation, observability, and GenAI integration, I drive measurable business value for my clients. My proficiency in multi-cloud environments (AWS, GCP, Azure) enables me to provide tailored solutions that meet the unique needs of each project.
-</p> -->
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Lead+Full-Stack+Engineer+%7C+Cloud+Architect+%7C+DevOps+Lead;4.5%2B+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;GenAI+%26+Agentic & Real-Time+Systems+Specialist;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing text" /> -->
 
+<p align="left" style="font-size: 14px;">
 Senior Full-Stack AI Engineer building production SaaS platforms, AI-powered applications, and cloud-native systems. Skilled in Python, TypeScript, backend APIs, real-time features, LLM/RAG workflows, MCP-based agentic AI, and highthroughput microservices, with hands-on experience across AWS, GCP, and Azure. Known for delivering scalable, productiongrade
 solutions end-to-end, modernizing DevOps pipelines, and aligning technical execution with stakeholder and business goals.
 
+I specialize in architecting scalable, AI-driven, cloud-native ecosystems. My expertise lies in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems using Domain-Driven Design patterns. With a deep focus on CI/CD automation, observability, and GenAI integration, I drive measurable business value for my clients. My proficiency in multi-cloud environments (AWS, GCP, Azure) enables me to provide tailored solutions that meet the unique needs of each project.
+
+</p>
+
+<!-- <p align="left" style="font-size: 14px;"> -->
+
 **Spoken Languages:** - **Arabic:** Native - **English:** Professional - **French:** Professional - **German:** A1
+
+<!-- </p> -->
 
 <!-- [![Website](https://img.shields.io/badge/DevScale-f00?style=for-the-badge&logo=web&logoColor=white)](https://www.devscale.online) -->
 <!-- [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/devscale-digital) -->
@@ -46,7 +51,7 @@ DevScale is an IT consulting company specializing in cloud-native architecture, 
 - AI Integration & AI Agents
 - DevOps & CI/CD
 - Domain Driven Design (DDD), Test Driven Architecture (TDA), Event-Driven Architecture (EDA) & Microservices
-  <!-- - System Design & Technical Consulting -->
+    <!-- - System Design & Technical Consulting -->
 - UX Design & Video Monitoring
 
 ### Contact & Socials:
