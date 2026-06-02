@@ -4,7 +4,7 @@
   <strong style="color: #00D4AA;">Senior Full-Stack Engineer, Multi-Cloud, DevOps, AI/GenAI Integrations, QA</strong>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Senior+Full-Stack+Engineer+%26+DevScale+Founder;Multi-Cloud+Architect+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+Azure;Agentic+AI+%26+MCP+Specialist+%E2%80%A2+RAG+Pipelines;Scaled+Digital+Signage+for+Shell%2C+HP+%26+Nissan;Building+Production-Grade+SaaS+End-to-End" alt="Typing text" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Senior+Full-Stack+Engineer+%26+DevScale+Founder;Multi-Cloud+Architect+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+Azure;Agentic+AI+%26+MCP+Specialist+%E2%80%A2+RAG+Pipelines;Scaled+Digital+Signage+for+Shell%2C+HP+%26+Nissan;Building+Production-Grade+SaaS+End-to-End" alt="Typing text" /> -->
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Lead+Full-Stack+Engineer+%7C+Cloud+Architect+%7C+DevOps+Lead;4.5%2B+Years+Building+Scalable+Cloud-Native+Solutions;Multi-Cloud+Expert+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;GenAI+%26+Agentic & Real-Time+Systems+Specialist;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing text" /> -->
 
