@@ -4,7 +4,7 @@
   <strong style="color: #00D4AA;">Full-Stack Engineer & CTO, Multi-Cloud Enthusiast, DevOps and AI/GenAI Integration</strong>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Senior+Full-Stack+Engineer+%26+DevScale+Founder;Multi-Cloud+Architect+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+Azure;Agentic+AI+%26+MCP+Specialist+%E2%80%A2+RAG+Pipelines;Scaled+Digital+Signage+for+Shell%2C+HP+%26+Nissan;Building+Production-Grade+SaaS+End-to-End" alt="Typing text" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Senior+Full-Stack+Engineer+%26+DevScale+Founder;Multi-Cloud+Architect+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+Azure;Agentic+AI+%26+MCP+Specialist+%E2%80%A2+RAG+Pipelines;Scaled+Digital+Signage+for+Shell%2C+HP+%26+Nissan;Building+Production-Grade+SaaS+End-to-End" alt="Typing text" /> -->
 
 <p align="left" style="font-size: 14px;">
 Senior Full-Stack AI Engineer building production SaaS platforms, AI-powered applications, and cloud-native systems. Skilled in Python, TypeScript, backend APIs, real-time features, LLM/RAG workflows, MCP-based agentic AI, and highthroughput microservices, with hands-on experience across AWS, GCP, and Azure. Known for delivering scalable, production-grade solutions end-to-end, modernizing DevOps pipelines, and aligning technical execution with stakeholder and business goals.
