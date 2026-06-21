@@ -4,16 +4,11 @@
   <strong style="color: #00D4AA;">Full-Stack Engineer & CTO, Multi-Cloud Enthusiast, DevOps and AI/GenAI Integration</strong>
 </p>
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=fff&center=true&vCenter=true&width=850&lines=Senior+Full-Stack+Engineer+%26+DevScale+Founder;Multi-Cloud+Architect+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+Azure;Agentic+AI+%26+MCP+Specialist+%E2%80%A2+RAG+Pipelines;Scaled+Digital+Signage+for+Shell%2C+HP+%26+Nissan;Building+Production-Grade+SaaS+End-to-End" alt="Typing text" /> -->
 
 <p align="left" style="font-size: 14px;">
 Senior Full-Stack AI Engineer building production SaaS platforms, AI-powered applications, and cloud-native systems. Skilled in Python, TypeScript, backend APIs, real-time features, LLM/RAG workflows, MCP-based agentic AI, and highthroughput microservices, with hands-on experience across AWS, GCP, and Azure. Known for delivering scalable, production-grade solutions end-to-end, modernizing DevOps pipelines, and aligning technical execution with stakeholder and business goals.
 
-<!-- I specialize in architecting scalable, AI-driven, cloud-native ecosystems. My expertise lies in transforming concepts into production-ready applications, building distributed microservices, and implementing event-driven systems using Domain-Driven Design patterns. With a deep focus on CI/CD automation, observability, and GenAI integration, I drive measurable business value for my clients. My proficiency in multi-cloud environments (AWS, GCP, Azure) enables me to provide tailored solutions that meet the unique needs of each project. -->
-
 </p>
-
-<!-- <p align="left" style="font-size: 14px;"> -->
 
 <p>Languages</p>
 
@@ -48,9 +43,7 @@ DevScale is an IT consulting company specializing in cloud-native architecture, 
 ### Contact & Socials:
 
 - 📧 Email: **[contact@hamzamissaoui.dev](mailto:contact@hamzamissaoui.dev)**
-- 🌐 Portfolio: **[https://www.hamzamissaoui.dev](https://www.hamzamissaoui.dev)**
-- 🌐 certifications: **[https://certifications.hamzamissaoui.online](https://certifications.hamzamissaoui.online)**
-    <!-- - 🌐 DevScale Linkedin: **[linkedin.com/company/devscale-digital](https://www.linkedin.com/company/devscale-digital)** -->
+- 🌐 DevScale Linkedin: **[linkedin.com/company/devscale-digital](https://www.linkedin.com/company/devscale-digital)** 
 
 <br />
 
