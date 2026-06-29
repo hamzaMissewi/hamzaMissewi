@@ -2,65 +2,7 @@
 
 <h3 align="center">Full-Stack Engineer · Multi-Cloud, DevOps & AI/GenAI Integration</h3>
 
-<<<<<<< HEAD
 <p align="center">
-=======
-
-<p align="left" style="font-size: 14px;">
-Senior Full-Stack AI Engineer building production SaaS platforms, AI-powered applications, and cloud-native systems. Skilled in Python, TypeScript, backend APIs, real-time features, LLM/RAG workflows, MCP-based agentic AI, and highthroughput microservices, with hands-on experience across AWS, GCP, and Azure. Known for delivering scalable, production-grade solutions end-to-end, modernizing DevOps pipelines, and aligning technical execution with stakeholder and business goals.
-
-</p>
-
-<p>Languages</p>
-
-**Spoken Languages:** - **Arabic:** Native - **English:** Professional - **French:** Professiona
-
-## DevScale Digital Solutions
-
-DevScale is an IT consulting company specializing in cloud-native architecture, AI-driven solutions, and scalable digital transformation. We help businesses modernize their infrastructure, implement intelligent automation, and build future-ready applications.
-
-### Services Working On
-
-<!-- | Area                     | Technologies                                               |
-| ------------------------ | ---------------------------------------------------------- |
-| Cloud                    | AWS, Azure, GCP, Serverless, Lambda                        |
-| LLMs & AI                | Generative AI, Agentic AI, LLM-powered, RAG                |
-| DevOps & Automation      | CI/CD, IaC, Observability                                  |
-| Architectures & Patterns | SaaS, Microservices, EDA, TDA, DDD, Cloud-Native, MVP, MVC | -->
-
-<!-- ### Services: -->
-
-- IT Consulting & Projects Ownership
-- Full-Stack Web Development & SaaS Solutions
-- Cloud infrastructures & Cloud-Native Applications
-- ERP Apps Development
-- Quality Assurance & Advanced Testing
-- AI Integration & AI Agents
-- DevOps & CI/CD
-- Domain Driven Design (DDD), Test Driven Architecture (TDA), Event-Driven Architecture (EDA) & Microservices
-      <!-- - System Design & Technical Consulting -->
-- UX Design & Video Monitoring
-
-### Contact & Socials:
-
-- 📧 Email: **[contact@hamzamissaoui.dev](mailto:contact@hamzamissaoui.dev)**
-- 🌐 DevScale Linkedin: **[linkedin.com/company/devscale-digital](https://www.linkedin.com/company/devscale-digital)** 
-
-<br />
-
-<!-- <div style="display:flex">
-
-[![Website](https://img.shields.io/badge/DevScale-f00?style=for-the-badge&logo=web&logoColor=white)](https://www.devscale.online)
-
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/devscale-digital)
-
-</div> -->
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" alt="LinkedIn" />
-  </a>
->>>>>>> a4f64c828eea433f21e06362048ce907c6d18d51
   <a href="https://www.hamzamissaoui.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
