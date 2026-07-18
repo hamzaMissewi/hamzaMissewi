@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hamza Missaoui 👋</h1>
 
-<h3 align="center">Lead Full-Stack Engineer & CTO · MERN</h3>
+<h3 align="center">Lead Full-Stack Engineer · </h3>
 
 <p align="center">
   <a href="https://www.hamzamissaoui.dev" target="_blank">
