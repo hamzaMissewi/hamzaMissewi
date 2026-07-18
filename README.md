@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://www.hamzamissaoui.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://projects.hamzamissaoui.online" target="_blank">
+  <!-- <a href="https://projects.hamzamissaoui.online" target="_blank">
     <img src="https://img.shields.io/badge/Projects-0f5f55?style=for-the-badge&logo=project&logoColor=white" alt="Projects" />
-  </a>
+  </a> -->
   <a href="https://certifications.hamzamissaoui.online" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-0f5f55?style=for-the-badge&logoColor=white" alt="Certifications" />
   </a>
