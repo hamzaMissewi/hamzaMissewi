@@ -27,14 +27,14 @@
 
 ## 🚀 About Me
 
-- Full-stack engineer with 4.5+ years building and scaling production SaaS platforms with React, TypeScript, and Node.js, alongside hands-on Java and Spring Boot experience. Comfortable owning architecture and API design (GraphQL/REST) end-to-end. Track record delivering interactive, graphics-heavy front ends — a Canva-style drag-and-drop live-preview editor, a real-time recommendation engine, and an image-processing/optimization pipeline.
-  Currently Lead Full-Stack Engineer & CTO at <a href="https://www.devscale.online">DevScale Digital Solutions</a>, directing architecture and delivery across multiple concurrent SaaS engagements.
+Full-Stack Engineer & Technical Lead with 5 years of experience designing, building, and scaling client/server and web applications, including a production synchronization engine connecting a central server to a distributed fleet of 10,000+ devices in real time. Delivered a 30% reduction in deployment times and a 50% cut in MTTR through RESTful and GraphQL services across C#/.NET, JS/TypeScript, and Python stacks. Background spans microservices architecture, CI/CD, multi-cloud deployment, and applied GenAI/agentic systems, with a strong foundation in software design patterns and service-oriented architecture.
 
+- Currently Lead Full-Stack Engineer & CTO at <a href="https://www.devscale.online">DevScale Digital Solutions</a>, directing architecture and delivery across multiple concurrent SaaS engagements.
 - Driving enterprise growth through SaaS innovation, cloud-native architectures, DevOps automation & AI transformation.
 - Building **LLM/RAG workflows**, **MCP-based agentic AI**, and **multi-agent orchestration systems**
-- Multi-cloud practitioner across **AWS · GCP · Azure**
+- Multi-cloud architectures across **AWS · GCP · Azure**
 - Domain-Driven Design · Event-Driven Architecture · Microservices
-    <!-- - 📍 Based in **Tunis, Tunisia** -->
+  <!-- - 📍 Based in **Tunis, Tunisia** -->
 
 <br />
 
@@ -45,18 +45,6 @@
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&card_width=420" />
 </div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420&count_private=true" />
-</div>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&card_width=420" />
-</p> -->
 
 ---
 
