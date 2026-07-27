@@ -1,10 +1,17 @@
 <h1 align="center">Hi, I'm Hamza M. 👋</h1>
 
-<h3 align="center">Lead Full-Stack Engineer & CTO </h3>
+<h3 align="center">Lead Full-Stack Engineer AI, Cloud Engineer | AWS • Azure • GCP • DevOps • Event-Driven & AI-Native Architecture</h3>
+
+<!-- <p align="center">- | contact@hamzamissaoui.dev | www.hamzamissaoui.dev | linkedin.com/in/hamzamissaoui</p> -->
+
+<br />
 
 <p align="center">
+  <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Mail" />
+  </a>
   <a href="https://www.hamzamissaoui.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/hamzamissaoui.dev-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,15 +23,28 @@
 
 ---
 
+<br />
+
 ## 🚀 About Me
 
-Lead Full-Stack AI Engineer building production-grade SaaS platforms, AI-powered applications, and cloud-native systems. I specialize in transforming concepts into scalable, distributed systems using modern architectures and AI integration.
+- Full-stack engineer with 4.5+ years building and scaling production SaaS platforms with React, TypeScript, and Node.js, alongside hands-on Java and Spring Boot experience. Comfortable owning architecture and API design (GraphQL/REST) end-to-end. Track record delivering interactive, graphics-heavy front ends — a Canva-style drag-and-drop live-preview editor, a real-time recommendation engine, and an image-processing/optimization pipeline.
+  Currently Lead Full-Stack Engineer & CTO at <a href="https://www.devscale.online">DevScale Digital Solutions</a>, directing architecture and delivery across multiple concurrent SaaS engagements.
 
-- Full-Stack Engineer & CTO at **DevScale Digital Solutions** | Driving enterprise growth through SaaS innovation, cloud-native architectures, DevOps automation & AI transformation.
+- Driving enterprise growth through SaaS innovation, cloud-native architectures, DevOps automation & AI transformation.
 - Building **LLM/RAG workflows**, **MCP-based agentic AI**, and **multi-agent orchestration systems**
 - Multi-cloud practitioner across **AWS · GCP · Azure**
 - Domain-Driven Design · Event-Driven Architecture · Microservices
     <!-- - 📍 Based in **Tunis, Tunisia** -->
+
+<br />
+
+## GitHub Stats
+
+<div align="center" items="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420&count_private=true" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&card_width=420" />
+</div>
 
 ---
 
@@ -194,41 +214,18 @@ Automated quality assurance testing framework with intelligent test generation a
 ![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-7C3AED?style=for-the-badge&logo=analysis&logoColor=white)
 ![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-DC2626?style=for-the-badge&logo=agile&logoColor=white)
 
----
+<!-- ## Languages -->
 
-## Languages
-
-<br />
-
-**Arabic:** Native · **English:** Professional · **French:** Professional
-
----
+<!--
+**Arabic:** Native · **English:** Professional · **French:** Professional -->
 
 ## Socials
 
 <div align="center">
-📧 <a href="mailto:contact@hamzamissaoui.dev">contact@hamzamissaoui.dev</a> &nbsp;·&nbsp;
+<!-- 📧 <a href="mailto:contact@hamzamissaoui.dev">contact@hamzamissaoui.dev</a> &nbsp;·&nbsp;
 📧 <a href="mailto:hamza.missaoui@devscale.online">hamza.missaoui@devscale.online</a> &nbsp;·&nbsp;
-🌐 <a href="https://www.hamzamissaoui.dev">www.hamzamissaoui.dev</a> &nbsp;·&nbsp;
-🌐 <a href="https://www.devscale.online">www.devscale.online</a> &nbsp;·&nbsp;
-🔗 <a href="https://linktr.ee/hamza_missaoui">linktr.ee/hamza_missaoui</a>
-
+🌐 <a href="https://www.hamzamissaoui.dev">www.hamzamissaoui.dev</a> &nbsp;·&nbsp; -->
+<a href="https://www.devscale.online">www.devscale.online</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/company/devscale-digital">linkedin/devscale-digital</a> &nbsp;·&nbsp;
+<a href="https://linktr.ee/hamza_missaoui">linktr.ee/hamza_missaoui</a>
 </div>
-
-  <!-- <a href="mailto:hamza.missaoui@devscale.online" target="_blank">
-    <img src="https://img.shields.io/badge/Email Pro-D14836?style=for-the-badge&logoColor=white" alt="Email" />
-</a> -->
-
-  <!-- <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" alt="Email" />
-  </a> -->
-
-<!-- <br /><br /> -->
-<!-- <a href="mailto:hamza.missaoui@devscale.online" target="_blank">
-    <img src="https://img.shields.io/badge/Email Pro-D14836?style=for-the-badge&logoColor=white" alt="Email" />
-  </a> -->
-  <!-- <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" alt="Email" />
-  </a> -->
-  <!-- <strong>Let's build something amazing together 🚀</strong> -->
-<!-- </p> -->
