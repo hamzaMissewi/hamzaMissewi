@@ -28,6 +28,18 @@ Lead Full-Stack AI Engineer building production-grade SaaS platforms, AI-powered
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420&count_private=true" />
+</div>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&card_width=420" />
+</p> -->
+
+---
+
 ## 🔥 Featured Projects
 
 ### [Retail Inventory & Order Microservices](https://github.com/hamzaMissewi/retail-inventory-order-microservices)
@@ -181,18 +193,6 @@ Automated quality assurance testing framework with intelligent test generation a
 ![Code Reviews](https://img.shields.io/badge/Code_Reviews-2563EB?style=for-the-badge&logo=github&logoColor=white)
 ![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-7C3AED?style=for-the-badge&logo=analysis&logoColor=white)
 ![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-DC2626?style=for-the-badge&logo=agile&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420&count_private=true" />
-</div>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&card_width=420" />
-</p> -->
 
 ---
 
