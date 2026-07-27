@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Hamza Missaoui 👋</h1>
+<h1 align="center">Hi, I'm Hamza M. 👋</h1>
 
-<h3 align="center">Lead Full-Stack Engineer · </h3>
+<h3 align="center">Lead Full-Stack Engineer & CTO </h3>
 
 <p align="center">
   <a href="https://www.hamzamissaoui.dev" target="_blank">
@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://projects.hamzamissaoui.online" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-0f5f55?style=for-the-badge&logo=project&logoColor=white" alt="Projects" />
-  </a> -->
   <a href="https://certifications.hamzamissaoui.online" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-0f5f55?style=for-the-badge&logoColor=white" alt="Certifications" />
   </a>
