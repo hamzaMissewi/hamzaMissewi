@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hamza M. 👋</h1>
+<h1 align="center">Hi👋 I'm Hamza Missaoui</h1>
 
 <h3 align="center">Lead Full-Stack Engineer & Cloud/AI Architect | MERN • Next.js • Python • AWS · GCP · Azure • DevOps • GenAI & Agentic Systems</h3>
 
