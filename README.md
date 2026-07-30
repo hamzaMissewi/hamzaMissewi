@@ -1,25 +1,39 @@
 <h1 align="center">Hi, I'm Hamza M. 👋</h1>
 
-<h3 align="center">Lead Full-Stack Engineer AI, Cloud Engineer | AWS • Azure • GCP • DevOps • Event-Driven & AI-Native Architecture</h3>
-
-<!-- <p align="center">- | contact@hamzamissaoui.dev | www.hamzamissaoui.dev | linkedin.com/in/hamzamissaoui</p> -->
+<h3 align="center">Lead Full-Stack Engineer & Cloud/AI Architect | MERN • Next.js • Python • AWS · GCP · Azure • DevOps • GenAI & Agentic Systems</h3>
 
 <br />
 
-<p align="center">
-  <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Mail" />
-  </a>
-  <a href="https://www.hamzamissaoui.dev" target="_blank">
-    <img src="https://img.shields.io/badge/hamzamissaoui.dev-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://certifications.hamzamissaoui.online" target="_blank">
-    <img src="https://img.shields.io/badge/Certifications-0f5f55?style=for-the-badge&logoColor=white" alt="Certifications" />
-  </a>
-</p>
+<div align="center">
+  <!-- First Row -->
+  <div style="display: flex; justify-content: center; gap: 2px; flex-wrap: wrap; margin-bottom: 2px;">
+    <a href="mailto:contact@hamzamissaoui.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Mail-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Mail" />
+    </a>
+    <a href="mailto:hamza.missaoui@devscale.online" target="_blank">
+      <img src="https://img.shields.io/badge/Mail 2-2F3349?style=for-the-badge&logo=web&logoColor=white" alt="Mail 2" />
+    </a>
+    <a href="https://www.hamzamissaoui.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6ff2a5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFM0lEQVR4nO2a2W9VVRTGf61BRaW0Di++iLTw5IDDg1ERp2g0mjhQVBK1ElBwqmjC4JM4NTxo9B+oGJ8cMCZiEHGWiAoiDikyqC8OlRrEgoJYe8xKvk1WNueec+695xZq+JKT9J717XXOOntYa3+7cBiFMV7XqEE7MAdYBnwK7ACS6Nohm3Fmq80hgTZgPvBFyksXvTYAD8jXiOMEYCkw6F7I/h5yv18ELnS/pwIvud9DUfs/gJ6RCqgJmAUMuBd4E7gZWKzffwG3uTaBF3A7sEf3rM0twCrH2w506VkNwfHAa+6BHwIXyHYx8A8wDEyP2sWBGDrFtTbTdM967yPHf7URvTMZ+N4NIfuqAWOATbI9ktI2LRDDo7q/ST4CrDd2ybYN6CgriLOAX+V4fYrjB2X7FjiyikCMu1k28+ExCfhcNnv2lDJ6IgTxLnBcZB+rMW32qyr4qBSI4Wo3L8yXxzjgfRdMzT3T5oZTH3BMCudO2b/M8JMVCGqbKK/EONYN261AK1WiKZrYYejcEzn7RLZ5dQQyT/a17t543Q9DL1zLq13NZrmJvRD4zjnbp+VyseO01BFIi5vcC4A3gL2unfXEQy7n+IUmN9kNRF/6CC2rqxSI/0q7df9ZYC5wJXAuMFG9F3ituneOOHcBTwMrXSCJS5artUzbs9FoCPOl0LK8VA0+AJor5JMuN8nLvAZUr52Y8txml2esAshEm+vCkOzSYON0p3jnAddoWPTqS67XQvG7e8mdumfL6tsqHBcB1wHnO05TxnOnunIms1dCTliTE/Ak8X4kH3lzJOBn8fIq4o/F684ihSr2hhxnneK9XmIgK8SbXvDZ1uupaBfhT+DoHGc94i4pMZDHxHsihzdWhalxJ6QR5shoXyYPy8WdUWIgVkEb7+UC3JXiWpo4AM/LeF8BR6F0uKTEQC51pVAeusV9Ls34mYxWkufhG3FPKzGQM8T7qgD38pRqYD/CHvvUKlaYk0sMxHwl8p2HMJ9/S0s2w8qofm9QCX/LUVrZXmsg5mtYvvPqqTF613/jpN3SgCw9Ute4/2UgzTUOraNKHFrmK1HlS61Da7RN9omVJjtSAIsuv1+Le3qJgZxZYLcZcJm4VncdgGWjMCH2phlny2g7tDy8Iu5Nh2KJ0u6KxljRiPGkuKZNHcyi8ZRKpA0i3FiwlF5RYiA2Eqop49dlkeaLZHVXFjrE+6nEQH4Rz1akLKwV7/4sUpu2kYm02CJbXdumXi9V5QVNVtug/eA4lba6tj2+VtvlwMkqTy5yvFyNq8eJ1Gniw0nau3hFvqxru4QNEzhiNGsLXmQe7e+VoJCYBIMkGdtEvROdgSSScmwVeUoBWol9thJrJTnoCslBz0hK2h353Ae8FclB98rWX43i2KVGgxLHtrqH7NUkX+ACqVegG1SJtEjnLaEESiQOLnTqzq1UgSadT8SS6dzopRslmbYCd+uZ/h2K5JjUIbbNidgmKFcSsTfWEcjGHBG7T/Yt9ZwOd7hjhffikrnBxwolrhTqL+MEeIocJUqYJs6liXqb6zjosfzlMdlpbP0qKEtBhxtmu7QYpB29LakikFCS9EV7oDucqL2lEWfxrU7PSrSmh6Q5zR2GdhYIZIY7DLUkF3TdNdHEbth/TDTpfCLMm0Tr/UzgYf3eE/VYHEhXdDw9U8J34PVXu8TWgzZVAKGcSfT3UPRF438YCOV/pX8YeLyW47WyAuqWoFxrWbJOPg5KAGmYoI1OrxJlWi02oMTXK27F/cShiJacEuYwcPgPknvUyL7T8dYAAAAASUVORK5CYII=" alt="Portfolio" />
+    </a>
+  </div>
+
+  <!-- Second Row -->
+  <div style="display: flex; justify-content: center; gap: 2px; flex-wrap: wrap;">
+    <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://certifications.hamzamissaoui.online" target="_blank">
+      <img src="https://img.shields.io/badge/Certifs-0f5f55?style=for-the-badge&logoColor=white" alt="Certifications" />
+    </a>
+    <a href="https://projects.hamzamissaoui.online" target="_blank">
+      <img src="https://img.shields.io/badge/Projects-0f5f55?style=for-the-badge&logoColor=white" alt="Projects" />
+    </a>
+    <a href="https://medium.com/@hamza.missaoui28" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -27,14 +41,14 @@
 
 ## 🚀 About Me
 
-Full-Stack Engineer & Technical Lead with 5 years of experience designing, building, and scaling client/server and web applications, including a production synchronization engine connecting a central server to a distributed fleet of 10,000+ devices in real time. Delivered a 30% reduction in deployment times and a 50% cut in MTTR through RESTful and GraphQL services across C#/.NET, JS/TypeScript, and Python stacks. Background spans microservices architecture, CI/CD, multi-cloud deployment, and applied GenAI/agentic systems, with a strong foundation in software design patterns and service-oriented architecture.
+Lead Full-Stack Engineer & Tech Project Manager with years of experience designing, architecting, and shipping production-grade cloud-native and vertical SaaS platforms — including a real-time synchronization engine connecting a central server to a distributed fleet of **10,000+ devices**. I've driven a **30% reduction in deployment times** and a **50% cut in MTTR** by building RESTful and GraphQL services across the **MERN stack, Next.js/TypeScript, Python (FastAPI/Django), C#/.NET, Java (Spring), and Go** — with a consistent focus on event-driven design, observability, and reliability at scale.
 
-- Currently Lead Full-Stack Engineer & CTO at <a href="https://www.devscale.online">DevScale Digital Solutions</a>, directing architecture and delivery across multiple concurrent SaaS engagements.
-- Driving enterprise growth through SaaS innovation, cloud-native architectures, DevOps automation & AI transformation.
-- Building **LLM/RAG workflows**, **MCP-based agentic AI**, and **multi-agent orchestration systems**
-- Multi-cloud architectures across **AWS · GCP · Azure**
-- Domain-Driven Design · Event-Driven Architecture · Microservices
-  <!-- - 📍 Based in **Tunis, Tunisia** -->
+- 🏢 Currently **Lead Full-Stack Engineer & CTO** at **[DevScale Digital Solutions](https://www.devscale.online)** — owning architecture and technical roadmap across a portfolio of SaaS and AI-native client platforms spanning **5+ concurrent initiatives**.
+- 🧱 Full-stack depth across the **MERN ecosystem** (MongoDB, Express, React, Node.js) and **Next.js/TypeScript**, complemented by polyglot backend experience in **Python, C#/.NET, Java, and Go**.
+- 🤖 Building **LLM/RAG pipelines**, **MCP-based agentic AI**, and **multi-agent orchestration systems** with LangChain & LangGraph.
+- ☁️ Multi-cloud, DevOps-first mindset — **AWS · GCP · Azure**, Docker, Kubernetes, Terraform, and CI/CD automation (GitHub Actions, Jenkins, Bitbucket Pipelines).
+- 🏗️ Strong foundation in **Domain-Driven Design, Event-Driven Architecture, Microservices, and Service-Oriented Architecture (SOA)** — grounded in formal design-patterns training.
+- 📊 Track record of measurable impact: 30%+ faster deployments, 50% lower MTTR, 45% smaller frontend bundles, 80%+ integration test coverage on modernized services.
 
 <br />
 
@@ -52,43 +66,43 @@ Full-Stack Engineer & Technical Lead with 5 years of experience designing, build
 
 ### [Retail Inventory & Order Microservices](https://github.com/hamzaMissewi/retail-inventory-order-microservices)
 
-Full-stack retail microservices system with Docker containerization and Kubernetes orchestration. Manages product inventory and orders with cloud-native configuration.
+Full-stack MERN-based retail microservices system with Docker containerization and Kubernetes orchestration, managing product inventory and orders with cloud-native configuration.
 
 `Node.js` `Express` `MongoDB` `Docker` `Kubernetes`
 
 ### [FDE Framework](https://github.com/hamzaMissewi/fde-framework)
 
-Modular ETL pipeline with vector store integration, LLM agent orchestration, and logistics scenario implementation.
+Modular ETL pipeline with vector store integration, LLM agent orchestration, and applied logistics scenario implementation.
 
 `Python` `ETL` `Vector Store` `LLM Agents`
 
-### [Multi-Agent Chatbot (.NET)](https://github.com/hamzaMissewi/multi-agent-chatbot-dotnet-system)
+### [Multi-Agent Chatbot (.NET) — AgentHub](https://github.com/hamzaMissewi/multi-agent-chatbot-dotnet-system)
 
-**AgentHub** — a production-ready multi-agent orchestrator backend that processes complex prompts through a specialized AI agent assembly line. Built entirely on .NET.
+Production-ready multi-agent orchestrator backend that routes complex prompts through a specialized AI agent assembly line, built entirely on .NET.
 
 `C#` `.NET` `Multi-Agent` `Orchestration`
 
 ### [Cold Chain Logistics Platform](https://github.com/hamzaMissewi/Coldchain-Logistics-Full-Stack-Spring)
 
-Real-time cold chain logistics monitoring SaaS for Tunisian businesses exporting temperature-sensitive goods to European markets.
+Real-time cold chain logistics monitoring SaaS built for Tunisian businesses exporting temperature-sensitive goods to European markets.
 
 `Java` `Spring` `SaaS` `Real-Time`
 
 ### [CareerOS AI Resume Builder](https://github.com/hamzaMissewi/career-os-ai-resume-builder)
 
-Modern SaaS scaffold for an AI-powered Career Operating System with premium landing, dashboard, pricing, and admin structure.
+AI-powered Career Operating System SaaS scaffold — premium landing page, dashboard, pricing, and admin structure built on Next.js.
 
 `TypeScript` `Next.js` `SaaS` `AI`
 
 ### [Multi-Agent System — MCP Headroom](https://github.com/hamzaMissewi/multi-agent-system-mcp-headroom)
 
-Agentic system leveraging the Model Context Protocol for multi-agent coordination and tool-use workflows.
+Agentic system built on the Model Context Protocol (MCP) for multi-agent coordination and tool-use workflows.
 
 `JavaScript` `MCP` `Agentic AI`
 
 ### [QA Tester Nexus](https://github.com/hamzaMissewi/qa-tester-nexus)
 
-Automated quality assurance testing framework with intelligent test generation and reporting.
+Automated quality-assurance testing framework with intelligent test generation and reporting.
 
 `JavaScript` `Testing` `Automation`
 
@@ -108,6 +122,7 @@ Automated quality assurance testing framework with intelligent test generation a
 ### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -129,6 +144,7 @@ Automated quality assurance testing framework with intelligent test generation a
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/Shadcn-111827?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Databases & ORMs
 
@@ -160,6 +176,7 @@ Automated quality assurance testing framework with intelligent test generation a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -201,19 +218,13 @@ Automated quality assurance testing framework with intelligent test generation a
 ![Code Reviews](https://img.shields.io/badge/Code_Reviews-2563EB?style=for-the-badge&logo=github&logoColor=white)
 ![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-7C3AED?style=for-the-badge&logo=analysis&logoColor=white)
 ![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-DC2626?style=for-the-badge&logo=agile&logoColor=white)
-
-<!-- ## Languages -->
-
-<!--
-**Arabic:** Native · **English:** Professional · **French:** Professional -->
+![Mentoring](https://img.shields.io/badge/Mentoring-16A34A?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ## Socials
 
 <div align="center">
-<!-- 📧 <a href="mailto:contact@hamzamissaoui.dev">contact@hamzamissaoui.dev</a> &nbsp;·&nbsp;
-📧 <a href="mailto:hamza.missaoui@devscale.online">hamza.missaoui@devscale.online</a> &nbsp;·&nbsp;
-🌐 <a href="https://www.hamzamissaoui.dev">www.hamzamissaoui.dev</a> &nbsp;·&nbsp; -->
 <a href="https://www.devscale.online">www.devscale.online</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/company/devscale-digital">linkedin/devscale-digital</a> &nbsp;·&nbsp;
-<a href="https://linktr.ee/hamza_missaoui">linktr.ee/hamza_missaoui</a>
+<a href="https://hamzamissaoui.dev">hamzamissaoui.dev</a>
+<!-- <a href="https://linktr.ee/hamza_missaoui">linktr.ee/hamza_missaoui</a> -->
 </div>
