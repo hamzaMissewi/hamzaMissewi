@@ -1,6 +1,10 @@
-<h1 align="center">Hi👋 I'm Hamza Missaoui</h1>
+<h1 align="center">Hi 👋 I'm Hamza Missaoui</h1>
 
-<h3 align="center">Lead Full-Stack Engineer, PM & CTO</h3>
+<h3 align="center">Lead Full-Stack Engineer & CTO · AI/ML Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=LLM+%26+RAG+Systems+%C2%B7+NLP+%C2%B7+Data+Science;Multi-Agent+AI+%C2%B7+MCP+%C2%B7+LangChain+%2F+LangGraph;Python+%C2%B7+TypeScript+%C2%B7+Cloud-Native+SaaS;Turning+AI+Research+into+Shipped+Products" alt="Typing SVG" />
+</p>
 
 <br />
 
@@ -41,14 +45,13 @@
 
 ## 🚀 About Me
 
-Lead Full-Stack Engineer & Tech Project Manager with years of experience designing, architecting, and shipping production-grade cloud-native and vertical SaaS platforms — including a real-time synchronization engine connecting a central server to a distributed fleet of **10,000+ devices**. I've driven a **30% reduction in deployment times** and a **50% cut in MTTR** by building RESTful and GraphQL services across the **MERN stack, Next.js/TypeScript, Python (FastAPI/Django), C#/.NET, Java (Spring), and Go** — with a consistent focus on event-driven design, observability, and reliability at scale.
+I turn AI research into revenue-generating products. As **Lead Full-Stack Engineer & CTO at [DevScale Digital Solutions](https://www.devscale.online)**, I architect **AI-native SaaS platforms** — spanning **LLM/RAG pipelines, NLP systems, multi-agent orchestration, and data science** — while owning architecture and the technical roadmap across **5+ concurrent initiatives**, including a real-time sync engine serving a fleet of **10,000+ devices**.
 
-- 🏢 Currently **Lead Full-Stack Engineer & CTO** at **[DevScale Digital Solutions](https://www.devscale.online)** — owning architecture and technical roadmap across a portfolio of SaaS and AI-native client platforms spanning **5+ concurrent initiatives**.
-- 🧱 Full-stack depth across the **MERN ecosystem** (MongoDB, Express, React, Node.js) and **Next.js/TypeScript**, complemented by polyglot backend experience in **Python, C#/.NET, Java, and Go**.
-- 🤖 Building **LLM/RAG pipelines**, **MCP-based agentic AI**, and **multi-agent orchestration systems** with LangChain & LangGraph.
-- ☁️ Multi-cloud, DevOps-first mindset — **AWS · GCP · Azure**, Docker, Kubernetes, Terraform, and CI/CD automation (GitHub Actions, Jenkins, Bitbucket Pipelines).
-- 🏗️ Strong foundation in **Domain-Driven Design, Event-Driven Architecture, Microservices, and Service-Oriented Architecture (SOA)** — grounded in formal design-patterns training.
-- 📊 Track record of measurable impact: 30%+ faster deployments, 50% lower MTTR, 45% smaller frontend bundles, 80%+ integration test coverage on modernized services.
+- 🤖 **AI/ML & GenAI** — Production LLM applications: **RAG architectures, NLP, semantic search, multi-agent systems** with LangChain · LangGraph · MCP · TensorFlow · PyTorch.
+- 🐍 **Python-first engineering** — FastAPI/Django services plus the data science stack (**Pandas, NumPy, scikit-learn**) for NLP and analytics workloads.
+- 🏗️ **Full-stack at scale** — MERN, Next.js/TypeScript, C#/.NET, Java/Spring, and Go; event-driven microservices built for reliability.
+- ☁️ **Cloud & DevOps** — AWS · GCP · Azure, Docker, Kubernetes, Terraform, CI/CD automation.
+- 📊 **Measurable impact** — 30% faster deployments, 50% lower MTTR, 45% smaller bundles, 80%+ test coverage.
 
 <br />
 
@@ -64,58 +67,86 @@ Lead Full-Stack Engineer & Tech Project Manager with years of experience designi
 
 ## 🔥 Featured Projects
 
-### [Retail Inventory & Order Microservices](https://github.com/hamzaMissewi/retail-inventory-order-microservices)
-
-Full-stack MERN-based retail microservices system with Docker containerization and Kubernetes orchestration, managing product inventory and orders with cloud-native configuration.
-
-`Node.js` `Express` `MongoDB` `Docker` `Kubernetes`
-
 ### [FDE Framework](https://github.com/hamzaMissewi/fde-framework)
 
-Modular ETL pipeline with vector store integration, LLM agent orchestration, and applied logistics scenario implementation.
+End-to-end **RAG pipeline** — modular ETL into vector stores, orchestrated LLM agents, and NLP enrichment applied to real logistics scenarios.
 
-`Python` `ETL` `Vector Store` `LLM Agents`
-
-### [Multi-Agent Chatbot (.NET) — AgentHub](https://github.com/hamzaMissewi/multi-agent-chatbot-dotnet-system)
-
-Production-ready multi-agent orchestrator backend that routes complex prompts through a specialized AI agent assembly line, built entirely on .NET.
-
-`C#` `.NET` `Multi-Agent` `Orchestration`
-
-### [Cold Chain Logistics Platform](https://github.com/hamzaMissewi/Coldchain-Logistics-Full-Stack-Spring)
-
-Real-time cold chain logistics monitoring SaaS built for Tunisian businesses exporting temperature-sensitive goods to European markets.
-
-`Java` `Spring` `SaaS` `Real-Time`
-
-### [CareerOS AI Resume Builder](https://github.com/hamzaMissewi/career-os-ai-resume-builder)
-
-AI-powered Career Operating System SaaS scaffold — premium landing page, dashboard, pricing, and admin structure built on Next.js.
-
-`TypeScript` `Next.js` `SaaS` `AI`
+`Python` `RAG` `Vector Store` `LLM Agents` `NLP`
 
 ### [Multi-Agent System — MCP Headroom](https://github.com/hamzaMissewi/multi-agent-system-mcp-headroom)
 
-Agentic system built on the Model Context Protocol (MCP) for multi-agent coordination and tool-use workflows.
+Agentic system built on the **Model Context Protocol (MCP)** for multi-agent coordination and tool-use workflows.
 
 `JavaScript` `MCP` `Agentic AI`
 
-### [QA Tester Nexus](https://github.com/hamzaMissewi/qa-tester-nexus)
+### [Multi-Agent Chatbot (.NET) — AgentHub](https://github.com/hamzaMissewi/multi-agent-chatbot-dotnet-system)
 
-Automated quality-assurance testing framework with intelligent test generation and reporting.
+Production-ready multi-agent orchestrator that routes complex prompts through a specialized AI agent assembly line.
 
-`JavaScript` `Testing` `Automation`
+`C#` `.NET` `Multi-Agent` `Orchestration`
+
+### [CareerOS AI Resume Builder](https://github.com/hamzaMissewi/career-os-ai-resume-builder)
+
+AI-powered Career Operating System SaaS — landing page, dashboard, pricing, and admin structure on Next.js.
+
+`TypeScript` `Next.js` `SaaS` `AI`
+
+### [Retail Inventory & Order Microservices](https://github.com/hamzaMissewi/retail-inventory-order-microservices)
+
+Cloud-native MERN retail microservices with Docker containerization and Kubernetes orchestration.
+
+`Node.js` `Express` `MongoDB` `Docker` `Kubernetes`
+
+### [Cold Chain Logistics Platform](https://github.com/hamzaMissewi/Coldchain-Logistics-Full-Stack-Spring)
+
+Real-time cold chain logistics monitoring SaaS for exporters shipping temperature-sensitive goods to European markets.
+
+`Java` `Spring` `SaaS` `Real-Time`
+
+### AI Flight Booking Application
+
+Smart flight search and booking experience with AI-assisted recommendations for flights, pricing, and itineraries.
+
+`AI` `Full-Stack` `Travel Tech`
+
+### E-commerce Platform
+
+Full-stack e-commerce application with product catalog, cart, checkout, and order management.
+
+`Full-Stack` `E-commerce` `Web App`
+
+---
+
+> 🌐 **More Projects** → Explore my full portfolio at **[projects.hamzamissaoui.online](https://projects.hamzamissaoui.online)**
 
 ---
 
 ## Skills & Tech Stack
 
+### 🧠 AI / ML · NLP · RAG · Data Science
+
+![LLMs](https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=ai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=rag&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge&logo=graph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00D4AA?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-0EA5E9?style=for-the-badge&logo=robot&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4C1D95?style=for-the-badge&logo=database&logoColor=white)
+
 ### Programming & Scripting
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -181,36 +212,16 @@ Automated quality-assurance testing framework with intelligent test generation a
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### Security & Access Control
+### 🔐 Security & Observability
 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4E73DF?style=for-the-badge&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![SSO](https://img.shields.io/badge/SSO-3B82F6?style=for-the-badge&logo=auth0&logoColor=white)
-![MFA](https://img.shields.io/badge/MFA-8B5CF6?style=for-the-badge&logo=security&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-10B981?style=for-the-badge&logo=shield&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-0F766E?style=for-the-badge&logo=auth0&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6D28D9?style=for-the-badge&logo=clerk&logoColor=white)
-
-### Monitoring & Observability
-
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### AI / LLM / GenAI
-
-![LLMs](https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=ai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=rag&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge&logo=graph&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-00D4AA?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-0EA5E9?style=for-the-badge&logo=robot&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4C1D95?style=for-the-badge&logo=database&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 🧑‍💼 Leadership & Delivery
 
