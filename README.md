@@ -58,10 +58,25 @@ I turn AI research into revenue-generating products. As **Lead Full-Stack Engine
 ## GitHub Stats
 
 <div align="center" items="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&card_width=420&count_private=true" />
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&card_width=420" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamzaMissewi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzaMissewi&layout=compact&langs_count=10&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=algolia&include_all_commits=true&count_private=true" alt="hamzaMissewi" /> -->
+
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&card_width=420" /> -->
 </div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&cache_seconds=0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact" alt="Top Languages" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaMissewi&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -237,5 +252,5 @@ Full-stack e-commerce application with product catalog, cart, checkout, and orde
 <a href="https://www.devscale.online">www.devscale.online</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/company/devscale-digital">linkedin/devscale-digital</a> &nbsp;·&nbsp;
 <a href="https://hamzamissaoui.dev">hamzamissaoui.dev</a>
-<!-- <a href="https://linktr.ee/hamza_missaoui">linktr.ee/hamza_missaoui</a> -->
+<a href="https://linktr.ee/hamza_missaoui">linktr.ee/hamza_missaoui</a>
 </div>
