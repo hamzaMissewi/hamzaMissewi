@@ -1,25 +1,33 @@
 <h1 align="center">Hi 👋 I'm Hamza Missaoui</h1>
-<h3 align="center">Lead Full-Stack Engineer & CTO · AI/ML Specialist</h3>
+<h3 align="center">Lead Full-Stack Engineer & CTO </h3>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Hamza%20Missaoui&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack Engineer | CTO and Founder @DevScale Digital Solutions | Cloud, DevOps & AI/ML&descAlignY=60" alt="" />
+
+
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=LLM+%26+RAG+Systems+%C2%B7+NLP+%C2%B7+Data+Science;Multi-Agent+AI+%C2%B7+MCP+%C2%B7+LangChain+%2F+LangGraph;Python+%C2%B7+TypeScript+%C2%B7+Cloud-Native+SaaS;Turning+AI+Research+into+Shipped+Products" alt="Typing SVG" />
-</p>
+</p> -->
 
 <!-- Social & Quick Link Badges -->
 <p align="center">
   <a href="mailto:contact@hamzamissaoui.dev"><img src="https://img.shields.io/badge/Mail-2F3349?style=flat-square&logo=gmail&logoColor=white" alt="Mail" /></a>
-  <a href="https://www.hamzamissaoui.dev"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:contact@devscale.online"><img src="https://img.shields.io/badge/DevScale Mail-2F3349?style=flat-square&logo=gmail&logoColor=white" alt="Mail" /></a>
+  <a href="https://www.devscale.online"><img src="https://img.shields.io/badge/DevScale-00F?style=flat-square&logo=firefox&logoColor=white" alt="DevScale" /></a>
+  <a href="https://www.hamzamissaoui.dev"><img src="https://img.shields.io/badge/Portfolio-f00?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hamzamissaoui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://certifications.hamzamissaoui.online"><img src="https://img.shields.io/badge/Certifs-0f5f55?style=flat-square&logo=badges&logoColor=white" alt="Certifications" /></a>
+  <a href="https://certifications.hamzamissaoui.online"><img src="https://img.shields.io/badge/Certifications-0f5f55?style=flat-square&logo=badges&logoColor=white" alt="Certifications" /></a>
   <a href="https://projects.hamzamissaoui.online"><img src="https://img.shields.io/badge/Projects-0f5f55?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
-  <a href="https://medium.com/@hamza.missaoui28"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <!-- <a href="https://medium.com/@hamza.missaoui28"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a> -->
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I turn AI research into revenue-generating products. As **Lead Full-Stack Engineer & CTO at [DevScale Digital Solutions](https://www.devscale.online)**, I architect **AI-native SaaS platforms** — spanning **LLM/RAG pipelines, NLP systems, multi-agent orchestration, and data science** — while owning architecture and the technical roadmap across **5+ concurrent initiatives**, including a real-time sync engine serving a fleet of **10,000+ devices**.
+Senior Full-Stack Engineer AI & Cloud with 5+ years building production SaaS
+platforms, cloud-native systems and GenAI products. Led development of an enterprise platform running on 10,000+ LED screens for big client companies and now designs multi-agent LLM workflows, RAG pipelines and multi-cloud infrastructure for clients across fintech, healthcare, logistics and edtech. Deep in TypeScript, React/Next.js, Node.js and Python/FastAPI; experienced in system design, security, CI/CD and mentoring engineers.
+
+<!-- I turn AI research into revenue-generating products. As **Lead Full-Stack Engineer & CTO at [DevScale Digital Solutions](https://www.devscale.online)**, I architect **AI-native SaaS platforms** — spanning **LLM/RAG pipelines, NLP systems, multi-agent orchestration, and data science** — while owning architecture and the technical roadmap across **5+ concurrent initiatives**, including a real-time sync engine serving a fleet of **10,000+ devices**. -->
 
 - 🤖 **AI/ML & GenAI** — Production LLM applications: **RAG architectures, NLP, semantic search, multi-agent systems** with LangChain · LangGraph · MCP · TensorFlow · PyTorch.
 - 🐍 **Python-first engineering** — FastAPI/Django services plus the data science stack (**Pandas, NumPy, scikit-learn**) for NLP and analytics workloads.
