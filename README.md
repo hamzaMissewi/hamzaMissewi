@@ -2,7 +2,7 @@
 <!-- <h3 align="center">Lead Full-Stack Engineer AI & Cloud</h3> -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Hamza%20Missaoui&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20Cloud%20DevOps%20AI%2FML%20Founder%20DevScale&descAlignY=60" alt="Hamza Missaoui header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Hamza%20Missaoui&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20Cloud,%20DevOps,%20and%20AI%2FGenAI%2FML%20|%20Founder%20@DevScale%20Digital&descAlignY=60" alt="Hamza Missaoui header" />
 </p>
 
 
