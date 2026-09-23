@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋 I'm Hamza Missaoui</h1>
 <!-- <h3 align="center">Lead Full-Stack Engineer AI & Cloud</h3> -->
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Hamza%20Missaoui&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack Engineer | CTO and Founder @DevScale Digital Solutions | Cloud, DevOps" alt="Hamza Missaoui intro" /> -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Hamza%20Missaoui&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20NLP%20%7C%20OCR%20%7C%20Computer%20Vision%20%7C%20Educational%20AI&descAlignY=60" alt="Hamza Missaoui header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Hamza%20Missaoui&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack Engineer | CTO and Founder DevScale Digital | Cloud, DevOps" alt="Hamza Missaoui intro" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Hamza%20Missaoui&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20NLP%20%7C%20OCR%20%7C%20Computer%20Vision%20%7C%20Educational%20AI&descAlignY=60" alt="Hamza Missaoui header" /> -->
 </p>
 
 
